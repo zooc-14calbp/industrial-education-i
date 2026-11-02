@@ -10,7 +10,7 @@
 | 2 | 工業高校の学科と専門分野 | [PPTX](lessons/02/slides.pptx) | [DOCX](lessons/02/student-guide.docx) | [DOCX](lessons/02/instructor-guide.docx) |
 | 3 | 工業高校の授業と学校生活 | [PPTX](lessons/03/slides.pptx) | [DOCX](lessons/03/student-guide.docx) | [DOCX](lessons/03/instructor-guide.docx) |
 | 4 | 工業教育の歴史と生徒の進路 | [PPTX](lessons/04/slides.pptx) | [DOCX](lessons/04/student-guide.docx) | [DOCX](lessons/04/instructor-guide.docx) |
-| 5 | 学習指導要領の構成と読み方 | [PPTX](lessons/05/slides.pptx) | [DOCX](lessons/05/student-guide.docx) | [DOCX](lessons/05/instructor-guide.docx) |
+| 5 | 学習指導要領の法的根拠と読み方 | [PPTX](lessons/05/slides.pptx) | [DOCX](lessons/05/student-guide.docx) | [DOCX](lessons/05/instructor-guide.docx) |
 
 [15回の構成と到達目標](docs/syllabus.md)
 
