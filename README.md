@@ -9,6 +9,7 @@
 | 1 | 高校教育の中の工業高校 | [PPTX](lessons/01/slides.pptx) | [DOCX](lessons/01/student-guide.docx) | [DOCX](lessons/01/instructor-guide.docx) |
 | 2 | 工業高校の学科と専門分野 | [PPTX](lessons/02/slides.pptx) | [DOCX](lessons/02/student-guide.docx) | [DOCX](lessons/02/instructor-guide.docx) |
 | 3 | 工業高校の授業と学校生活 | [PPTX](lessons/03/slides.pptx) | [DOCX](lessons/03/student-guide.docx) | [DOCX](lessons/03/instructor-guide.docx) |
+| 4 | 工業教育の歴史と生徒の進路 | [PPTX](lessons/04/slides.pptx) | [DOCX](lessons/04/student-guide.docx) | [DOCX](lessons/04/instructor-guide.docx) |
 
 [15回の構成と到達目標](docs/syllabus.md)
 

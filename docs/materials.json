@@ -22,5 +22,13 @@
     "video_recorded": false,
     "content_minutes_planned": 70,
     "activity_minutes_planned": 20
+  },
+  {
+    "lesson": 4,
+    "slides": 32,
+    "status": "draft",
+    "video_recorded": false,
+    "content_minutes_planned": 70,
+    "activity_minutes_planned": 20
   }
 ]
