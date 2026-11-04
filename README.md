@@ -4,23 +4,23 @@
 
 ## 教材
 
-| 回 | 内容 | スライド | 学生用ガイド | 担当者用手引き |
-|---|---|---|---|---|
-| 1 | 高校教育の中の工業高校 | [PPTX](lessons/01/slides.pptx) | [DOCX](lessons/01/student-guide.docx) | [DOCX](lessons/01/instructor-guide.docx) |
-| 2 | 工業高校の学科と専門分野 | [PPTX](lessons/02/slides.pptx) | [DOCX](lessons/02/student-guide.docx) | [DOCX](lessons/02/instructor-guide.docx) |
-| 3 | 工業高校の授業と学校生活 | [PPTX](lessons/03/slides.pptx) | [DOCX](lessons/03/student-guide.docx) | [DOCX](lessons/03/instructor-guide.docx) |
-| 4 | 工業教育の歴史と生徒の進路 | [PPTX](lessons/04/slides.pptx) | [DOCX](lessons/04/student-guide.docx) | [DOCX](lessons/04/instructor-guide.docx) |
-| 5 | 学習指導要領の法的根拠と読み方 | [PPTX](lessons/05/slides.pptx) | [DOCX](lessons/05/student-guide.docx) | [DOCX](lessons/05/instructor-guide.docx) |
-| 6 | 工業科の目標と育成する資質と能力 | [PPTX](lessons/06/slides.pptx) | [DOCX](lessons/06/student-guide.docx) | [DOCX](lessons/06/instructor-guide.docx) |
-| 7 | 工業科の科目構成と教育課程 | [PPTX](lessons/07/slides.pptx) | [DOCX](lessons/07/student-guide.docx) | [DOCX](lessons/07/instructor-guide.docx) |
-| 8 | 工業技術基礎と実習と課題研究の検討 | [PPTX](lessons/08/slides.pptx) | [DOCX](lessons/08/student-guide.docx) | [DOCX](lessons/08/instructor-guide.docx) |
-| 9 | 生徒の学習状況と専門科目の指導上の配慮 | [PPTX](lessons/09/slides.pptx) | [DOCX](lessons/09/student-guide.docx) | [DOCX](lessons/09/instructor-guide.docx) |
-| 10 | 高校における課題学習の設計と実践 | [PPTX](lessons/10/slides.pptx) | [DOCX](lessons/10/student-guide.docx) | [DOCX](lessons/10/instructor-guide.docx) |
-| 11 | 工業科の授業づくりと教材研究 | [PPTX](lessons/11/slides.pptx) | [DOCX](lessons/11/student-guide.docx) | [DOCX](lessons/11/instructor-guide.docx) |
-| 12 | 実験と実習の指導と安全 | [PPTX](lessons/12/slides.pptx) | [DOCX](lessons/12/student-guide.docx) | [DOCX](lessons/12/instructor-guide.docx) |
-| 13 | 工業科における学習評価 | [PPTX](lessons/13/slides.pptx) | [DOCX](lessons/13/student-guide.docx) | [DOCX](lessons/13/instructor-guide.docx) |
-| 14 | 工業科教員の仕事と教科経営 | [PPTX](lessons/14/slides.pptx) | [DOCX](lessons/14/student-guide.docx) | [DOCX](lessons/14/instructor-guide.docx) |
-| 15 | 工業科教育の目標と内容と指導と評価 | [PPTX](lessons/15/slides.pptx) | [DOCX](lessons/15/student-guide.docx) | [DOCX](lessons/15/instructor-guide.docx) |
+| 回 | 内容 | スライド PPTX | スライド PDF | 学生用ガイド PDF | 担当者用手引き |
+|---|---|---|---|---|---|
+| 1 | 高校教育の中の工業高校 | [PPTX](lessons/01/slides.pptx) | [PDF](lessons/01/slides.pdf) | [PDF](lessons/01/student-guide.pdf) | [DOCX](lessons/01/instructor-guide.docx) |
+| 2 | 工業高校の学科と専門分野 | [PPTX](lessons/02/slides.pptx) | [PDF](lessons/02/slides.pdf) | [PDF](lessons/02/student-guide.pdf) | [DOCX](lessons/02/instructor-guide.docx) |
+| 3 | 工業高校の授業と学校生活 | [PPTX](lessons/03/slides.pptx) | [PDF](lessons/03/slides.pdf) | [PDF](lessons/03/student-guide.pdf) | [DOCX](lessons/03/instructor-guide.docx) |
+| 4 | 工業教育の歴史と生徒の進路 | [PPTX](lessons/04/slides.pptx) | [PDF](lessons/04/slides.pdf) | [PDF](lessons/04/student-guide.pdf) | [DOCX](lessons/04/instructor-guide.docx) |
+| 5 | 学習指導要領の法的根拠と読み方 | [PPTX](lessons/05/slides.pptx) | [PDF](lessons/05/slides.pdf) | [PDF](lessons/05/student-guide.pdf) | [DOCX](lessons/05/instructor-guide.docx) |
+| 6 | 工業科の目標と育成する資質と能力 | [PPTX](lessons/06/slides.pptx) | [PDF](lessons/06/slides.pdf) | [PDF](lessons/06/student-guide.pdf) | [DOCX](lessons/06/instructor-guide.docx) |
+| 7 | 工業科の科目構成と教育課程 | [PPTX](lessons/07/slides.pptx) | [PDF](lessons/07/slides.pdf) | [PDF](lessons/07/student-guide.pdf) | [DOCX](lessons/07/instructor-guide.docx) |
+| 8 | 工業技術基礎と実習と課題研究の検討 | [PPTX](lessons/08/slides.pptx) | [PDF](lessons/08/slides.pdf) | [PDF](lessons/08/student-guide.pdf) | [DOCX](lessons/08/instructor-guide.docx) |
+| 9 | 生徒の学習状況と専門科目の指導上の配慮 | [PPTX](lessons/09/slides.pptx) | [PDF](lessons/09/slides.pdf) | [PDF](lessons/09/student-guide.pdf) | [DOCX](lessons/09/instructor-guide.docx) |
+| 10 | 高校における課題学習の設計と実践 | [PPTX](lessons/10/slides.pptx) | [PDF](lessons/10/slides.pdf) | [PDF](lessons/10/student-guide.pdf) | [DOCX](lessons/10/instructor-guide.docx) |
+| 11 | 工業科の授業づくりと教材研究 | [PPTX](lessons/11/slides.pptx) | [PDF](lessons/11/slides.pdf) | [PDF](lessons/11/student-guide.pdf) | [DOCX](lessons/11/instructor-guide.docx) |
+| 12 | 実験と実習の指導と安全 | [PPTX](lessons/12/slides.pptx) | [PDF](lessons/12/slides.pdf) | [PDF](lessons/12/student-guide.pdf) | [DOCX](lessons/12/instructor-guide.docx) |
+| 13 | 工業科における学習評価 | [PPTX](lessons/13/slides.pptx) | [PDF](lessons/13/slides.pdf) | [PDF](lessons/13/student-guide.pdf) | [DOCX](lessons/13/instructor-guide.docx) |
+| 14 | 工業科教員の仕事と教科経営 | [PPTX](lessons/14/slides.pptx) | [PDF](lessons/14/slides.pdf) | [PDF](lessons/14/student-guide.pdf) | [DOCX](lessons/14/instructor-guide.docx) |
+| 15 | 工業科教育の目標と内容と指導と評価 | [PPTX](lessons/15/slides.pptx) | [PDF](lessons/15/slides.pdf) | [PDF](lessons/15/student-guide.pdf) | [DOCX](lessons/15/instructor-guide.docx) |
 
 [15回の構成と到達目標](docs/syllabus.md)
 
@@ -35,6 +35,14 @@
 2026年11月4日、第1～15回のスライド・学生用ガイド・担当者用手引きの初稿がそろいました。第9～15回は各24枚です。動画は未収録で、解説と指定資料読解の70分という分量は収録・試用後に調整します。
 
 第10回には、専門教科「情報」の課題研究の授業実践と卒業後調査を、工業科への応用を考える比較例として加えています。植物画像の題材は、技術開発を基にした架空の授業案であり、確認された教育効果を示すものではありません。第14回の免許の紹介は教科と取得経路の見取り図で、取得可能大学数の確定比較は次の改訂で行います。
+
+## 配布形式と第2稿の進捗
+
+スライドはPPTXとPDF、学生用ガイドはPDFで配布します。学生用ガイドの編集元DOCXは、制作・引継ぎ用として別管理します。担当者用手引きはDOCXです。学生用ガイドは印刷または手元のメモで取り組む形式で、入力可能なPDFフォームではありません。
+
+2026年11月4日、全15回にPDFを追加しました。第1回は第2稿として、学科と課程の区別、教科・科目・教育課程の用語、実習の学びの流れを図表で補い、レポート2本の案内を統一しました。個人の出身校や経験の提示を求めず、公開資料と架空事例で考えられる導入にしています。
+
+第2～15回は1周目の初稿です。[全15回の構成点検と次の改訂](docs/second-pass-review.md)に、重複の整理、具体例の追加、活動の見直しを記録しています。
 
 ## 更新
 
