@@ -501,5 +501,6 @@
   ],
   "status": "first-pass draft",
   "video_recorded": false,
-  "limitations": "配信前に、採用する機器・材料・活動に対応した学校の手順と公的資料を確認する。一般的な模式図は安全を保証する設計図や操作手順ではない。"
+  "limitations": "配信前に、採用する機器・材料・活動に対応した学校の手順と公的資料を確認する。一般的な模式図は安全を保証する設計図や操作手順ではない。",
+  "visual_design": "long-view-v1"
 }

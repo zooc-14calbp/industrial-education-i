@@ -501,5 +501,6 @@
   ],
   "status": "first-pass draft",
   "video_recorded": false,
-  "limitations": "写真・図版を追加する際は、出典、利用条件、機器や構造の正確さを確認する。初稿の模式図は関係を説明するもので、設備の設計図ではない。"
+  "limitations": "写真・図版を追加する際は、出典、利用条件、機器や構造の正確さを確認する。初稿の模式図は関係を説明するもので、設備の設計図ではない。",
+  "visual_design": "long-view-v1"
 }

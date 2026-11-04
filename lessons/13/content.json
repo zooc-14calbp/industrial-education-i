@@ -473,5 +473,6 @@
   ],
   "status": "first-pass draft",
   "video_recorded": false,
-  "limitations": "成績への配点、締切、再提出の正式運用は担当者が確定する。AIによる自動確定や文章からの経歴推測、AI使用の断定は行わない。"
+  "limitations": "成績への配点、締切、再提出の正式運用は担当者が確定する。AIによる自動確定や文章からの経歴推測、AI使用の断定は行わない。",
+  "visual_design": "long-view-v1"
 }
