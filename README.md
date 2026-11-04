@@ -13,6 +13,7 @@
 | 5 | 学習指導要領の法的根拠と読み方 | [PPTX](lessons/05/slides.pptx) | [DOCX](lessons/05/student-guide.docx) | [DOCX](lessons/05/instructor-guide.docx) |
 | 6 | 工業科の目標と育成する資質と能力 | [PPTX](lessons/06/slides.pptx) | [DOCX](lessons/06/student-guide.docx) | [DOCX](lessons/06/instructor-guide.docx) |
 | 7 | 工業科の科目構成と教育課程 | [PPTX](lessons/07/slides.pptx) | [DOCX](lessons/07/student-guide.docx) | [DOCX](lessons/07/instructor-guide.docx) |
+| 8 | 工業技術基礎と実習と課題研究の検討 | [PPTX](lessons/08/slides.pptx) | [DOCX](lessons/08/student-guide.docx) | [DOCX](lessons/08/instructor-guide.docx) |
 
 [15回の構成と到達目標](docs/syllabus.md)
 
