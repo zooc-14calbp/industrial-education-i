@@ -62,5 +62,61 @@
     "video_recorded": false,
     "content_minutes_planned": 70,
     "activity_minutes_planned": 20
+  },
+  {
+    "lesson": 9,
+    "slides": 24,
+    "status": "draft",
+    "video_recorded": false,
+    "content_minutes_planned": 70,
+    "activity_minutes_planned": 20
+  },
+  {
+    "lesson": 10,
+    "slides": 24,
+    "status": "draft",
+    "video_recorded": false,
+    "content_minutes_planned": 70,
+    "activity_minutes_planned": 20
+  },
+  {
+    "lesson": 11,
+    "slides": 24,
+    "status": "draft",
+    "video_recorded": false,
+    "content_minutes_planned": 70,
+    "activity_minutes_planned": 20
+  },
+  {
+    "lesson": 12,
+    "slides": 24,
+    "status": "draft",
+    "video_recorded": false,
+    "content_minutes_planned": 70,
+    "activity_minutes_planned": 20
+  },
+  {
+    "lesson": 13,
+    "slides": 24,
+    "status": "draft",
+    "video_recorded": false,
+    "content_minutes_planned": 70,
+    "activity_minutes_planned": 20
+  },
+  {
+    "lesson": 14,
+    "slides": 24,
+    "status": "draft",
+    "video_recorded": false,
+    "content_minutes_planned": 70,
+    "activity_minutes_planned": 20
+  },
+  {
+    "lesson": 15,
+    "slides": 24,
+    "status": "draft",
+    "video_recorded": false,
+    "content_minutes_planned": 70,
+    "activity_minutes_planned": 20
   }
 ]
