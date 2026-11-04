@@ -1,0 +1,414 @@
+{
+  "seconds": 1701.866666666667,
+  "fps": 30,
+  "slides": 40,
+  "captions": 269,
+  "voice": "ja-JP-NanamiNeural",
+  "rate": "-5%",
+  "pause_minutes_planned": 60,
+  "reading_minutes_planned": 10,
+  "combined_minutes_planned": 98.36444444444444,
+  "student_trial_completed": false,
+  "timeline": [
+    {
+      "slide": 1,
+      "title": "高校教育の中の工業高校",
+      "start": 0,
+      "end": 57.5,
+      "seconds": 57.5,
+      "spoken_seconds": 55.968,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 2,
+      "title": "今日の到達目標",
+      "start": 57.5,
+      "end": 86.8,
+      "seconds": 29.3,
+      "spoken_seconds": 27.792,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 3,
+      "title": "90分の学び方",
+      "start": 86.8,
+      "end": 134.86666666666667,
+      "seconds": 48.06666666666667,
+      "spoken_seconds": 46.56,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 4,
+      "title": "Ⅰで学ぶ内容",
+      "start": 134.86666666666667,
+      "end": 185.5,
+      "seconds": 50.63333333333333,
+      "spoken_seconds": 49.104,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 5,
+      "title": "提出レポートの見通し",
+      "start": 185.5,
+      "end": 234.46666666666667,
+      "seconds": 48.96666666666667,
+      "spoken_seconds": 47.448,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 6,
+      "title": "視聴前のメモ",
+      "start": 234.46666666666667,
+      "end": 278.8,
+      "seconds": 44.333333333333336,
+      "spoken_seconds": 42.816,
+      "pause_minutes": 3,
+      "exercise": false
+    },
+    {
+      "slide": 7,
+      "title": "高校の学科の大きな区分",
+      "start": 278.8,
+      "end": 326.1666666666667,
+      "seconds": 47.36666666666667,
+      "spoken_seconds": 45.84,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 8,
+      "title": "学科と課程は異なる分類",
+      "start": 326.1666666666667,
+      "end": 353.3,
+      "seconds": 27.133333333333333,
+      "spoken_seconds": 25.608,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 9,
+      "title": "専門学科の広がり",
+      "start": 353.3,
+      "end": 390.5,
+      "seconds": 37.2,
+      "spoken_seconds": 35.688,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 10,
+      "title": "普通科の学び",
+      "start": 390.5,
+      "end": 424.93333333333334,
+      "seconds": 34.43333333333333,
+      "spoken_seconds": 32.928,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 11,
+      "title": "工業に関する学科の学び",
+      "start": 424.93333333333334,
+      "end": 463.03333333333336,
+      "seconds": 38.1,
+      "spoken_seconds": 36.6,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 12,
+      "title": "総合学科の学び",
+      "start": 463.03333333333336,
+      "end": 500.33333333333337,
+      "seconds": 37.3,
+      "spoken_seconds": 35.784,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 13,
+      "title": "確認クイズ",
+      "start": 500.33333333333337,
+      "end": 545.6666666666667,
+      "seconds": 45.333333333333336,
+      "spoken_seconds": 43.824,
+      "pause_minutes": 5,
+      "exercise": false
+    },
+    {
+      "slide": 14,
+      "title": "クイズの解説",
+      "start": 545.6666666666667,
+      "end": 592.3000000000001,
+      "seconds": 46.63333333333333,
+      "spoken_seconds": 45.12,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 15,
+      "title": "ここで小休止",
+      "start": 592.3000000000001,
+      "end": 611.7,
+      "seconds": 19.4,
+      "spoken_seconds": 17.88,
+      "pause_minutes": 2,
+      "exercise": false
+    },
+    {
+      "slide": 16,
+      "title": "学科・教科・科目・教育課程",
+      "start": 611.7,
+      "end": 677.4000000000001,
+      "seconds": 65.7,
+      "spoken_seconds": 64.176,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 17,
+      "title": "教育課程を読む実例",
+      "start": 677.4000000000001,
+      "end": 734.4666666666668,
+      "seconds": 57.06666666666667,
+      "spoken_seconds": 55.536,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 18,
+      "title": "科目名から分かること 分からないこと",
+      "start": 734.4666666666668,
+      "end": 790.1000000000001,
+      "seconds": 55.63333333333333,
+      "spoken_seconds": 54.12,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 19,
+      "title": "説明と実践を結びつける",
+      "start": 790.1000000000001,
+      "end": 830.3000000000002,
+      "seconds": 40.2,
+      "spoken_seconds": 38.688,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 20,
+      "title": "学習場面の例 電気の測定",
+      "start": 830.3000000000002,
+      "end": 864.0000000000002,
+      "seconds": 33.7,
+      "spoken_seconds": 32.184,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 21,
+      "title": "記録を残す学び",
+      "start": 864.0000000000002,
+      "end": 900.8333333333336,
+      "seconds": 36.833333333333336,
+      "spoken_seconds": 35.304,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 22,
+      "title": "別の学校の資料も見る",
+      "start": 900.8333333333336,
+      "end": 944.6000000000003,
+      "seconds": 43.766666666666666,
+      "spoken_seconds": 42.264,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 23,
+      "title": "学校の違いを読む",
+      "start": 944.6000000000003,
+      "end": 986.666666666667,
+      "seconds": 42.06666666666667,
+      "spoken_seconds": 40.56,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 24,
+      "title": "ここで小休止",
+      "start": 986.666666666667,
+      "end": 1006.266666666667,
+      "seconds": 19.6,
+      "spoken_seconds": 18.096,
+      "pause_minutes": 3,
+      "exercise": false
+    },
+    {
+      "slide": 25,
+      "title": "普通科との比較",
+      "start": 1006.266666666667,
+      "end": 1067.3000000000004,
+      "seconds": 61.03333333333333,
+      "spoken_seconds": 59.52,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 26,
+      "title": "実習を含む学びと安全",
+      "start": 1067.3000000000004,
+      "end": 1107.8000000000004,
+      "seconds": 40.5,
+      "spoken_seconds": 39.0,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 27,
+      "title": "卒業後の進路も資料で確認",
+      "start": 1107.8000000000004,
+      "end": 1149.3333333333337,
+      "seconds": 41.53333333333333,
+      "spoken_seconds": 40.008,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 28,
+      "title": "共通点と違いのメモ",
+      "start": 1149.3333333333337,
+      "end": 1209.9000000000003,
+      "seconds": 60.56666666666667,
+      "spoken_seconds": 59.064,
+      "pause_minutes": 7,
+      "exercise": false
+    },
+    {
+      "slide": 29,
+      "title": "中学生に説明する例",
+      "start": 1209.9000000000003,
+      "end": 1249.166666666667,
+      "seconds": 39.266666666666666,
+      "spoken_seconds": 37.752,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 30,
+      "title": "今日のまとめ",
+      "start": 1249.166666666667,
+      "end": 1291.066666666667,
+      "seconds": 41.9,
+      "spoken_seconds": 40.392,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 31,
+      "title": "次回 学科と専門分野",
+      "start": 1291.066666666667,
+      "end": 1323.5333333333338,
+      "seconds": 32.46666666666667,
+      "spoken_seconds": 30.96,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 32,
+      "title": "参照資料",
+      "start": 1323.5333333333338,
+      "end": 1353.3000000000004,
+      "seconds": 29.766666666666666,
+      "spoken_seconds": 28.248,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 33,
+      "title": "演習の資料カード",
+      "start": 1353.3000000000004,
+      "end": 1404.2000000000005,
+      "seconds": 50.9,
+      "spoken_seconds": 49.392,
+      "pause_minutes": 0,
+      "exercise": true
+    },
+    {
+      "slide": 34,
+      "title": "事実と未確認を分ける",
+      "start": 1404.2000000000005,
+      "end": 1446.0333333333338,
+      "seconds": 41.833333333333336,
+      "spoken_seconds": 40.32,
+      "pause_minutes": 10,
+      "exercise": true
+    },
+    {
+      "slide": 35,
+      "title": "説明案を点検する",
+      "start": 1446.0333333333338,
+      "end": 1486.9666666666672,
+      "seconds": 40.93333333333333,
+      "spoken_seconds": 39.408,
+      "pause_minutes": 10,
+      "exercise": true
+    },
+    {
+      "slide": 36,
+      "title": "説明を修正する",
+      "start": 1486.9666666666672,
+      "end": 1532.766666666667,
+      "seconds": 45.8,
+      "spoken_seconds": 44.28,
+      "pause_minutes": 10,
+      "exercise": true
+    },
+    {
+      "slide": 37,
+      "title": "説明の一例",
+      "start": 1532.766666666667,
+      "end": 1583.066666666667,
+      "seconds": 50.3,
+      "spoken_seconds": 48.768,
+      "pause_minutes": 0,
+      "exercise": true
+    },
+    {
+      "slide": 38,
+      "title": "条件を変えて考える",
+      "start": 1583.066666666667,
+      "end": 1625.4666666666672,
+      "seconds": 42.4,
+      "spoken_seconds": 40.872,
+      "pause_minutes": 10,
+      "exercise": true
+    },
+    {
+      "slide": 39,
+      "title": "自分の説明を見直す",
+      "start": 1625.4666666666672,
+      "end": 1662.8000000000004,
+      "seconds": 37.333333333333336,
+      "spoken_seconds": 35.832,
+      "pause_minutes": 0,
+      "exercise": true
+    },
+    {
+      "slide": 40,
+      "title": "メモを次の学びへ",
+      "start": 1662.8000000000004,
+      "end": 1701.866666666667,
+      "seconds": 39.06666666666667,
+      "spoken_seconds": 37.536,
+      "pause_minutes": 0,
+      "exercise": true
+    }
+  ]
+}

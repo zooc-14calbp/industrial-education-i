@@ -1,7 +1,7 @@
 [
   {
     "lesson": 1,
-    "slides": 32,
+    "slides": 40,
     "status": "draft",
     "video_recorded": false,
     "content_minutes_planned": 70,
@@ -19,20 +19,30 @@
     "pdf_exported": "2026-11-04",
     "total_study_time_verified": false,
     "timing_audit_date": "2026-11-04",
-    "timing_status": "planned_not_measured",
+    "timing_status": "video_measured_activities_estimated",
     "instructor_guide_distribution": "staff_only",
-    "revision_target": {
+    "visual_design": "long-view-v1",
+    "visual_design_updated": "2026-11-04",
+    "initial_revision_target": {
       "content_minutes": 70,
       "thinking_minutes": 15,
       "break_minutes": 5,
       "verified": false
     },
-    "visual_design": "long-view-v1",
-    "visual_design_updated": "2026-11-04"
+    "video_created": true,
+    "video_status": "draft_review_pending",
+    "video_seconds": 1701.867,
+    "video_voice": "ja-JP-NanamiNeural",
+    "video_guide": "video/01/README.md",
+    "video_slides": 40,
+    "learning_design": "exercise-first-v1",
+    "student_trial_completed": false,
+    "human_full_audio_review": false,
+    "initial_slides": 32
   },
   {
     "lesson": 2,
-    "slides": 32,
+    "slides": 40,
     "status": "draft",
     "video_recorded": false,
     "content_minutes_planned": 70,
@@ -50,20 +60,30 @@
     "pdf_exported": "2026-11-04",
     "total_study_time_verified": false,
     "timing_audit_date": "2026-11-04",
-    "timing_status": "planned_not_measured",
+    "timing_status": "video_measured_activities_estimated",
     "instructor_guide_distribution": "staff_only",
-    "revision_target": {
+    "visual_design": "long-view-v1",
+    "visual_design_updated": "2026-11-04",
+    "initial_revision_target": {
       "content_minutes": 70,
       "thinking_minutes": 15,
       "break_minutes": 5,
       "verified": false
     },
-    "visual_design": "long-view-v1",
-    "visual_design_updated": "2026-11-04"
+    "video_created": true,
+    "video_status": "draft_review_pending",
+    "video_seconds": 1507.833,
+    "video_voice": "ja-JP-NanamiNeural",
+    "video_guide": "video/02/README.md",
+    "video_slides": 40,
+    "learning_design": "exercise-first-v1",
+    "student_trial_completed": false,
+    "human_full_audio_review": false,
+    "initial_slides": 32
   },
   {
     "lesson": 3,
-    "slides": 32,
+    "slides": 40,
     "status": "draft",
     "video_recorded": false,
     "content_minutes_planned": 70,
@@ -81,20 +101,30 @@
     "pdf_exported": "2026-11-04",
     "total_study_time_verified": false,
     "timing_audit_date": "2026-11-04",
-    "timing_status": "planned_not_measured",
+    "timing_status": "video_measured_activities_estimated",
     "instructor_guide_distribution": "staff_only",
-    "revision_target": {
+    "visual_design": "long-view-v1",
+    "visual_design_updated": "2026-11-04",
+    "initial_revision_target": {
       "content_minutes": 70,
       "thinking_minutes": 15,
       "break_minutes": 5,
       "verified": false
     },
-    "visual_design": "long-view-v1",
-    "visual_design_updated": "2026-11-04"
+    "video_created": true,
+    "video_status": "draft_review_pending",
+    "video_seconds": 1473.133,
+    "video_voice": "ja-JP-NanamiNeural",
+    "video_guide": "video/03/README.md",
+    "video_slides": 40,
+    "learning_design": "exercise-first-v1",
+    "student_trial_completed": false,
+    "human_full_audio_review": false,
+    "initial_slides": 32
   },
   {
     "lesson": 4,
-    "slides": 32,
+    "slides": 40,
     "status": "draft",
     "video_recorded": false,
     "content_minutes_planned": 70,
@@ -112,20 +142,30 @@
     "pdf_exported": "2026-11-04",
     "total_study_time_verified": false,
     "timing_audit_date": "2026-11-04",
-    "timing_status": "planned_not_measured",
+    "timing_status": "video_measured_activities_estimated",
     "instructor_guide_distribution": "staff_only",
-    "revision_target": {
+    "visual_design": "long-view-v1",
+    "visual_design_updated": "2026-11-04",
+    "initial_revision_target": {
       "content_minutes": 70,
       "thinking_minutes": 15,
       "break_minutes": 5,
       "verified": false
     },
-    "visual_design": "long-view-v1",
-    "visual_design_updated": "2026-11-04"
+    "video_created": true,
+    "video_status": "draft_review_pending",
+    "video_seconds": 2067.533,
+    "video_voice": "ja-JP-NanamiNeural",
+    "video_guide": "video/04/README.md",
+    "video_slides": 40,
+    "learning_design": "exercise-first-v1",
+    "student_trial_completed": false,
+    "human_full_audio_review": false,
+    "initial_slides": 32
   },
   {
     "lesson": 5,
-    "slides": 38,
+    "slides": 46,
     "status": "draft",
     "video_recorded": false,
     "content_minutes_planned": 70,
@@ -143,20 +183,30 @@
     "pdf_exported": "2026-11-04",
     "total_study_time_verified": false,
     "timing_audit_date": "2026-11-04",
-    "timing_status": "planned_not_measured",
+    "timing_status": "video_measured_activities_estimated",
     "instructor_guide_distribution": "staff_only",
-    "revision_target": {
+    "visual_design": "long-view-v1",
+    "visual_design_updated": "2026-11-04",
+    "initial_revision_target": {
       "content_minutes": 70,
       "thinking_minutes": 15,
       "break_minutes": 5,
       "verified": false
     },
-    "visual_design": "long-view-v1",
-    "visual_design_updated": "2026-11-04"
+    "video_created": true,
+    "video_status": "draft_review_pending",
+    "video_seconds": 2423.967,
+    "video_voice": "ja-JP-NanamiNeural",
+    "video_guide": "video/05/README.md",
+    "video_slides": 46,
+    "learning_design": "exercise-first-v1",
+    "student_trial_completed": false,
+    "human_full_audio_review": false,
+    "initial_slides": 38
   },
   {
     "lesson": 6,
-    "slides": 32,
+    "slides": 40,
     "status": "draft",
     "video_recorded": false,
     "content_minutes_planned": 70,
@@ -174,20 +224,30 @@
     "pdf_exported": "2026-11-04",
     "total_study_time_verified": false,
     "timing_audit_date": "2026-11-04",
-    "timing_status": "planned_not_measured",
+    "timing_status": "video_measured_activities_estimated",
     "instructor_guide_distribution": "staff_only",
-    "revision_target": {
+    "visual_design": "long-view-v1",
+    "visual_design_updated": "2026-11-04",
+    "initial_revision_target": {
       "content_minutes": 70,
       "thinking_minutes": 15,
       "break_minutes": 5,
       "verified": false
     },
-    "visual_design": "long-view-v1",
-    "visual_design_updated": "2026-11-04"
+    "video_created": true,
+    "video_status": "draft_review_pending",
+    "video_seconds": 1485.167,
+    "video_voice": "ja-JP-NanamiNeural",
+    "video_guide": "video/06/README.md",
+    "video_slides": 40,
+    "learning_design": "exercise-first-v1",
+    "student_trial_completed": false,
+    "human_full_audio_review": false,
+    "initial_slides": 32
   },
   {
     "lesson": 7,
-    "slides": 32,
+    "slides": 40,
     "status": "draft",
     "video_recorded": false,
     "content_minutes_planned": 70,
@@ -205,19 +265,70 @@
     "pdf_exported": "2026-11-04",
     "total_study_time_verified": false,
     "timing_audit_date": "2026-11-04",
-    "timing_status": "planned_not_measured",
+    "timing_status": "video_measured_activities_estimated",
     "instructor_guide_distribution": "staff_only",
-    "revision_target": {
+    "visual_design": "long-view-v1",
+    "visual_design_updated": "2026-11-04",
+    "initial_revision_target": {
       "content_minutes": 70,
       "thinking_minutes": 15,
       "break_minutes": 5,
       "verified": false
     },
-    "visual_design": "long-view-v1",
-    "visual_design_updated": "2026-11-04"
+    "video_created": true,
+    "video_status": "draft_review_pending",
+    "video_seconds": 1498.2,
+    "video_voice": "ja-JP-NanamiNeural",
+    "video_guide": "video/07/README.md",
+    "video_slides": 40,
+    "learning_design": "exercise-first-v1",
+    "student_trial_completed": false,
+    "human_full_audio_review": false,
+    "initial_slides": 32
   },
   {
     "lesson": 8,
+    "slides": 40,
+    "status": "draft",
+    "video_recorded": false,
+    "content_minutes_planned": 70,
+    "activity_minutes_planned": 20,
+    "formats": {
+      "slides": [
+        "pptx",
+        "pdf"
+      ],
+      "student_guide": [
+        "pdf"
+      ]
+    },
+    "revision": 1,
+    "pdf_exported": "2026-11-04",
+    "total_study_time_verified": false,
+    "timing_audit_date": "2026-11-04",
+    "timing_status": "video_measured_activities_estimated",
+    "instructor_guide_distribution": "staff_only",
+    "visual_design": "long-view-v1",
+    "visual_design_updated": "2026-11-04",
+    "initial_revision_target": {
+      "content_minutes": 70,
+      "thinking_minutes": 15,
+      "break_minutes": 5,
+      "verified": false
+    },
+    "video_created": true,
+    "video_status": "draft_review_pending",
+    "video_seconds": 1573.1,
+    "video_voice": "ja-JP-NanamiNeural",
+    "video_guide": "video/08/README.md",
+    "video_slides": 40,
+    "learning_design": "exercise-first-v1",
+    "student_trial_completed": false,
+    "human_full_audio_review": false,
+    "initial_slides": 32
+  },
+  {
+    "lesson": 9,
     "slides": 32,
     "status": "draft",
     "video_recorded": false,
@@ -236,51 +347,30 @@
     "pdf_exported": "2026-11-04",
     "total_study_time_verified": false,
     "timing_audit_date": "2026-11-04",
-    "timing_status": "planned_not_measured",
+    "timing_status": "video_measured_activities_estimated",
     "instructor_guide_distribution": "staff_only",
-    "revision_target": {
+    "visual_design": "long-view-v1",
+    "visual_design_updated": "2026-11-04",
+    "initial_revision_target": {
       "content_minutes": 70,
       "thinking_minutes": 15,
       "break_minutes": 5,
       "verified": false
     },
-    "visual_design": "long-view-v1",
-    "visual_design_updated": "2026-11-04"
-  },
-  {
-    "lesson": 9,
-    "slides": 24,
-    "status": "draft",
-    "video_recorded": false,
-    "content_minutes_planned": 70,
-    "activity_minutes_planned": 20,
-    "formats": {
-      "slides": [
-        "pptx",
-        "pdf"
-      ],
-      "student_guide": [
-        "pdf"
-      ]
-    },
-    "revision": 1,
-    "pdf_exported": "2026-11-04",
-    "total_study_time_verified": false,
-    "timing_audit_date": "2026-11-04",
-    "timing_status": "planned_not_measured",
-    "instructor_guide_distribution": "staff_only",
-    "revision_target": {
-      "content_minutes": 70,
-      "thinking_minutes": 15,
-      "break_minutes": 5,
-      "verified": false
-    },
-    "visual_design": "long-view-v1",
-    "visual_design_updated": "2026-11-04"
+    "video_created": true,
+    "video_status": "draft_review_pending",
+    "video_seconds": 1160.133,
+    "video_voice": "ja-JP-NanamiNeural",
+    "video_guide": "video/09/README.md",
+    "video_slides": 32,
+    "learning_design": "exercise-first-v1",
+    "student_trial_completed": false,
+    "human_full_audio_review": false,
+    "initial_slides": 24
   },
   {
     "lesson": 10,
-    "slides": 24,
+    "slides": 32,
     "status": "draft",
     "video_recorded": false,
     "content_minutes_planned": 70,
@@ -298,20 +388,30 @@
     "pdf_exported": "2026-11-04",
     "total_study_time_verified": false,
     "timing_audit_date": "2026-11-04",
-    "timing_status": "planned_not_measured",
+    "timing_status": "video_measured_activities_estimated",
     "instructor_guide_distribution": "staff_only",
-    "revision_target": {
+    "visual_design": "long-view-v1",
+    "visual_design_updated": "2026-11-04",
+    "initial_revision_target": {
       "content_minutes": 70,
       "thinking_minutes": 15,
       "break_minutes": 5,
       "verified": false
     },
-    "visual_design": "long-view-v1",
-    "visual_design_updated": "2026-11-04"
+    "video_created": true,
+    "video_status": "draft_review_pending",
+    "video_seconds": 1292.333,
+    "video_voice": "ja-JP-NanamiNeural",
+    "video_guide": "video/10/README.md",
+    "video_slides": 32,
+    "learning_design": "exercise-first-v1",
+    "student_trial_completed": false,
+    "human_full_audio_review": false,
+    "initial_slides": 24
   },
   {
     "lesson": 11,
-    "slides": 24,
+    "slides": 32,
     "status": "draft",
     "video_recorded": false,
     "content_minutes_planned": 70,
@@ -329,20 +429,30 @@
     "pdf_exported": "2026-11-04",
     "total_study_time_verified": false,
     "timing_audit_date": "2026-11-04",
-    "timing_status": "planned_not_measured",
+    "timing_status": "video_measured_activities_estimated",
     "instructor_guide_distribution": "staff_only",
-    "revision_target": {
+    "visual_design": "long-view-v1",
+    "visual_design_updated": "2026-11-04",
+    "initial_revision_target": {
       "content_minutes": 70,
       "thinking_minutes": 15,
       "break_minutes": 5,
       "verified": false
     },
-    "visual_design": "long-view-v1",
-    "visual_design_updated": "2026-11-04"
+    "video_created": true,
+    "video_status": "draft_review_pending",
+    "video_seconds": 1130.633,
+    "video_voice": "ja-JP-NanamiNeural",
+    "video_guide": "video/11/README.md",
+    "video_slides": 32,
+    "learning_design": "exercise-first-v1",
+    "student_trial_completed": false,
+    "human_full_audio_review": false,
+    "initial_slides": 24
   },
   {
     "lesson": 12,
-    "slides": 24,
+    "slides": 32,
     "status": "draft",
     "video_recorded": false,
     "content_minutes_planned": 70,
@@ -360,20 +470,30 @@
     "pdf_exported": "2026-11-04",
     "total_study_time_verified": false,
     "timing_audit_date": "2026-11-04",
-    "timing_status": "planned_not_measured",
+    "timing_status": "video_measured_activities_estimated",
     "instructor_guide_distribution": "staff_only",
-    "revision_target": {
+    "visual_design": "long-view-v1",
+    "visual_design_updated": "2026-11-04",
+    "initial_revision_target": {
       "content_minutes": 70,
       "thinking_minutes": 15,
       "break_minutes": 5,
       "verified": false
     },
-    "visual_design": "long-view-v1",
-    "visual_design_updated": "2026-11-04"
+    "video_created": true,
+    "video_status": "draft_review_pending",
+    "video_seconds": 1110.867,
+    "video_voice": "ja-JP-NanamiNeural",
+    "video_guide": "video/12/README.md",
+    "video_slides": 32,
+    "learning_design": "exercise-first-v1",
+    "student_trial_completed": false,
+    "human_full_audio_review": false,
+    "initial_slides": 24
   },
   {
     "lesson": 13,
-    "slides": 24,
+    "slides": 32,
     "status": "draft",
     "video_recorded": false,
     "content_minutes_planned": 70,
@@ -391,20 +511,30 @@
     "pdf_exported": "2026-11-04",
     "total_study_time_verified": false,
     "timing_audit_date": "2026-11-04",
-    "timing_status": "planned_not_measured",
+    "timing_status": "video_measured_activities_estimated",
     "instructor_guide_distribution": "staff_only",
-    "revision_target": {
+    "visual_design": "long-view-v1",
+    "visual_design_updated": "2026-11-04",
+    "initial_revision_target": {
       "content_minutes": 70,
       "thinking_minutes": 15,
       "break_minutes": 5,
       "verified": false
     },
-    "visual_design": "long-view-v1",
-    "visual_design_updated": "2026-11-04"
+    "video_created": true,
+    "video_status": "draft_review_pending",
+    "video_seconds": 1144.233,
+    "video_voice": "ja-JP-NanamiNeural",
+    "video_guide": "video/13/README.md",
+    "video_slides": 32,
+    "learning_design": "exercise-first-v1",
+    "student_trial_completed": false,
+    "human_full_audio_review": false,
+    "initial_slides": 24
   },
   {
     "lesson": 14,
-    "slides": 24,
+    "slides": 32,
     "status": "draft",
     "video_recorded": false,
     "content_minutes_planned": 70,
@@ -422,20 +552,30 @@
     "pdf_exported": "2026-11-04",
     "total_study_time_verified": false,
     "timing_audit_date": "2026-11-04",
-    "timing_status": "planned_not_measured",
+    "timing_status": "video_measured_activities_estimated",
     "instructor_guide_distribution": "staff_only",
-    "revision_target": {
+    "visual_design": "long-view-v1",
+    "visual_design_updated": "2026-11-04",
+    "initial_revision_target": {
       "content_minutes": 70,
       "thinking_minutes": 15,
       "break_minutes": 5,
       "verified": false
     },
-    "visual_design": "long-view-v1",
-    "visual_design_updated": "2026-11-04"
+    "video_created": true,
+    "video_status": "draft_review_pending",
+    "video_seconds": 1184.6,
+    "video_voice": "ja-JP-NanamiNeural",
+    "video_guide": "video/14/README.md",
+    "video_slides": 32,
+    "learning_design": "exercise-first-v1",
+    "student_trial_completed": false,
+    "human_full_audio_review": false,
+    "initial_slides": 24
   },
   {
     "lesson": 15,
-    "slides": 24,
+    "slides": 32,
     "status": "draft",
     "video_recorded": false,
     "content_minutes_planned": 70,
@@ -453,15 +593,25 @@
     "pdf_exported": "2026-11-04",
     "total_study_time_verified": false,
     "timing_audit_date": "2026-11-04",
-    "timing_status": "planned_not_measured",
+    "timing_status": "video_measured_activities_estimated",
     "instructor_guide_distribution": "staff_only",
-    "revision_target": {
+    "visual_design": "long-view-v1",
+    "visual_design_updated": "2026-11-04",
+    "initial_revision_target": {
       "content_minutes": 70,
       "thinking_minutes": 15,
       "break_minutes": 5,
       "verified": false
     },
-    "visual_design": "long-view-v1",
-    "visual_design_updated": "2026-11-04"
+    "video_created": true,
+    "video_status": "draft_review_pending",
+    "video_seconds": 1139.3,
+    "video_voice": "ja-JP-NanamiNeural",
+    "video_guide": "video/15/README.md",
+    "video_slides": 32,
+    "learning_design": "exercise-first-v1",
+    "student_trial_completed": false,
+    "human_full_audio_review": false,
+    "initial_slides": 24
   }
 ]

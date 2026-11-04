@@ -1,0 +1,414 @@
+{
+  "seconds": 2067.5333333333333,
+  "fps": 30,
+  "slides": 40,
+  "captions": 312,
+  "voice": "ja-JP-NanamiNeural",
+  "rate": "-5%",
+  "pause_minutes_planned": 60,
+  "reading_minutes_planned": 10,
+  "combined_minutes_planned": 104.45888888888888,
+  "student_trial_completed": false,
+  "timeline": [
+    {
+      "slide": 1,
+      "title": "工業教育の歴史と生徒の進路",
+      "start": 0,
+      "end": 55.93333333333333,
+      "seconds": 55.93333333333333,
+      "spoken_seconds": 54.432,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 2,
+      "title": "今日の到達目標",
+      "start": 55.93333333333333,
+      "end": 91.13333333333333,
+      "seconds": 35.2,
+      "spoken_seconds": 33.696,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 3,
+      "title": "前回とのつながり",
+      "start": 91.13333333333333,
+      "end": 125.76666666666665,
+      "seconds": 34.63333333333333,
+      "spoken_seconds": 33.12,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 4,
+      "title": "90分の構成",
+      "start": 125.76666666666665,
+      "end": 173.83333333333331,
+      "seconds": 48.06666666666667,
+      "spoken_seconds": 46.56,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 5,
+      "title": "進路についての最初のメモ",
+      "start": 173.83333333333331,
+      "end": 218.26666666666665,
+      "seconds": 44.43333333333333,
+      "spoken_seconds": 42.912,
+      "pause_minutes": 3,
+      "exercise": false
+    },
+    {
+      "slide": 6,
+      "title": "工業教育の大きな流れ",
+      "start": 218.26666666666665,
+      "end": 276.4,
+      "seconds": 58.13333333333333,
+      "spoken_seconds": 56.616,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 7,
+      "title": "近代産業と実業学校",
+      "start": 276.4,
+      "end": 319.76666666666665,
+      "seconds": 43.36666666666667,
+      "spoken_seconds": 41.856,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 8,
+      "title": "戦後の新制高等学校",
+      "start": 319.76666666666665,
+      "end": 366.06666666666666,
+      "seconds": 46.3,
+      "spoken_seconds": 44.784,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 9,
+      "title": "産業教育を支える条件",
+      "start": 366.06666666666666,
+      "end": 409.5,
+      "seconds": 43.43333333333333,
+      "spoken_seconds": 41.928,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 10,
+      "title": "地域社会と工業教育",
+      "start": 409.5,
+      "end": 448.4666666666667,
+      "seconds": 38.96666666666667,
+      "spoken_seconds": 37.464,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 11,
+      "title": "職業人を育てる教育",
+      "start": 448.4666666666667,
+      "end": 485.0,
+      "seconds": 36.53333333333333,
+      "spoken_seconds": 35.016,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 12,
+      "title": "社会を支える仕事の広がり",
+      "start": 485.0,
+      "end": 537.9333333333333,
+      "seconds": 52.93333333333333,
+      "spoken_seconds": 51.432,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 13,
+      "title": "学校と社会の関係を読む",
+      "start": 537.9333333333333,
+      "end": 573.5,
+      "seconds": 35.56666666666667,
+      "spoken_seconds": 34.056,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 14,
+      "title": "確認クイズ",
+      "start": 573.5,
+      "end": 619.6,
+      "seconds": 46.1,
+      "spoken_seconds": 44.592,
+      "pause_minutes": 5,
+      "exercise": false
+    },
+    {
+      "slide": 15,
+      "title": "クイズの解説",
+      "start": 619.6,
+      "end": 661.8000000000001,
+      "seconds": 42.2,
+      "spoken_seconds": 40.68,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 16,
+      "title": "ここで小休止",
+      "start": 661.8000000000001,
+      "end": 681.2,
+      "seconds": 19.4,
+      "spoken_seconds": 17.88,
+      "pause_minutes": 2,
+      "exercise": false
+    },
+    {
+      "slide": 17,
+      "title": "進学率を読むときの確認",
+      "start": 681.2,
+      "end": 717.9666666666667,
+      "seconds": 36.766666666666666,
+      "spoken_seconds": 35.256,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 18,
+      "title": "中学校等から高校等への進学",
+      "start": 717.9666666666667,
+      "end": 783.9666666666667,
+      "seconds": 66.0,
+      "spoken_seconds": 64.488,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 19,
+      "title": "高校等に進まない人の見方",
+      "start": 783.9666666666667,
+      "end": 833.3000000000001,
+      "seconds": 49.333333333333336,
+      "spoken_seconds": 47.832,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 20,
+      "title": "高校等卒業後の進学 2025年3月",
+      "start": 833.3000000000001,
+      "end": 933.9666666666667,
+      "seconds": 100.66666666666667,
+      "spoken_seconds": 99.144,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 21,
+      "title": "分母が違う進学率",
+      "start": 933.9666666666667,
+      "end": 1004.5,
+      "seconds": 70.53333333333333,
+      "spoken_seconds": 69.024,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 22,
+      "title": "地域による進路の違い",
+      "start": 1004.5,
+      "end": 1221.2666666666667,
+      "seconds": 216.76666666666668,
+      "spoken_seconds": 215.256,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 23,
+      "title": "工業科卒業者の進路",
+      "start": 1221.2666666666667,
+      "end": 1293.4,
+      "seconds": 72.13333333333334,
+      "spoken_seconds": 70.632,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 24,
+      "title": "工業科と普通科の進路の違い",
+      "start": 1293.4,
+      "end": 1357.3000000000002,
+      "seconds": 63.9,
+      "spoken_seconds": 62.376,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 25,
+      "title": "ここで小休止",
+      "start": 1357.3000000000002,
+      "end": 1376.9,
+      "seconds": 19.6,
+      "spoken_seconds": 18.096,
+      "pause_minutes": 3,
+      "exercise": false
+    },
+    {
+      "slide": 26,
+      "title": "一校の進路資料を読む",
+      "start": 1376.9,
+      "end": 1442.2333333333333,
+      "seconds": 65.33333333333333,
+      "spoken_seconds": 63.816,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 27,
+      "title": "卒業後も続く学び",
+      "start": 1442.2333333333333,
+      "end": 1487.6666666666667,
+      "seconds": 45.43333333333333,
+      "spoken_seconds": 43.92,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 28,
+      "title": "進路相談を考える事例",
+      "start": 1487.6666666666667,
+      "end": 1542.8666666666668,
+      "seconds": 55.2,
+      "spoken_seconds": 53.688,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 29,
+      "title": "進路説明のメモ",
+      "start": 1542.8666666666668,
+      "end": 1593.6666666666667,
+      "seconds": 50.8,
+      "spoken_seconds": 49.272,
+      "pause_minutes": 7,
+      "exercise": false
+    },
+    {
+      "slide": 30,
+      "title": "メモの説明例",
+      "start": 1593.6666666666667,
+      "end": 1640.1000000000001,
+      "seconds": 46.43333333333333,
+      "spoken_seconds": 44.928,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 31,
+      "title": "今日のまとめと次回",
+      "start": 1640.1000000000001,
+      "end": 1683.4333333333334,
+      "seconds": 43.333333333333336,
+      "spoken_seconds": 41.808,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 32,
+      "title": "参照資料",
+      "start": 1683.4333333333334,
+      "end": 1713.2,
+      "seconds": 29.766666666666666,
+      "spoken_seconds": 28.248,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 33,
+      "title": "演習の資料カード",
+      "start": 1713.2,
+      "end": 1767.9666666666667,
+      "seconds": 54.766666666666666,
+      "spoken_seconds": 53.256,
+      "pause_minutes": 0,
+      "exercise": true
+    },
+    {
+      "slide": 34,
+      "title": "事実と未確認を分ける",
+      "start": 1767.9666666666667,
+      "end": 1811.9333333333334,
+      "seconds": 43.96666666666667,
+      "spoken_seconds": 42.456,
+      "pause_minutes": 10,
+      "exercise": true
+    },
+    {
+      "slide": 35,
+      "title": "説明案を点検する",
+      "start": 1811.9333333333334,
+      "end": 1851.7333333333333,
+      "seconds": 39.8,
+      "spoken_seconds": 38.28,
+      "pause_minutes": 10,
+      "exercise": true
+    },
+    {
+      "slide": 36,
+      "title": "説明を修正する",
+      "start": 1851.7333333333333,
+      "end": 1899.6333333333334,
+      "seconds": 47.9,
+      "spoken_seconds": 46.392,
+      "pause_minutes": 10,
+      "exercise": true
+    },
+    {
+      "slide": 37,
+      "title": "説明の一例",
+      "start": 1899.6333333333334,
+      "end": 1948.5666666666668,
+      "seconds": 48.93333333333333,
+      "spoken_seconds": 47.424,
+      "pause_minutes": 0,
+      "exercise": true
+    },
+    {
+      "slide": 38,
+      "title": "条件を変えて考える",
+      "start": 1948.5666666666668,
+      "end": 1991.1333333333334,
+      "seconds": 42.56666666666667,
+      "spoken_seconds": 41.064,
+      "pause_minutes": 10,
+      "exercise": true
+    },
+    {
+      "slide": 39,
+      "title": "自分の説明を見直す",
+      "start": 1991.1333333333334,
+      "end": 2028.4666666666667,
+      "seconds": 37.333333333333336,
+      "spoken_seconds": 35.832,
+      "pause_minutes": 0,
+      "exercise": true
+    },
+    {
+      "slide": 40,
+      "title": "メモを次の学びへ",
+      "start": 2028.4666666666667,
+      "end": 2067.5333333333333,
+      "seconds": 39.06666666666667,
+      "spoken_seconds": 37.536,
+      "pause_minutes": 0,
+      "exercise": true
+    }
+  ]
+}

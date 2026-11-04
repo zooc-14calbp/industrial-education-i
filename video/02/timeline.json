@@ -1,0 +1,414 @@
+{
+  "seconds": 1507.8333333333328,
+  "fps": 30,
+  "slides": 40,
+  "captions": 235,
+  "voice": "ja-JP-NanamiNeural",
+  "rate": "-5%",
+  "pause_minutes_planned": 60,
+  "reading_minutes_planned": 10,
+  "combined_minutes_planned": 95.13055555555555,
+  "student_trial_completed": false,
+  "timeline": [
+    {
+      "slide": 1,
+      "title": "工業高校の学科と専門分野",
+      "start": 0,
+      "end": 50.1,
+      "seconds": 50.1,
+      "spoken_seconds": 48.6,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 2,
+      "title": "今日の到達目標",
+      "start": 50.1,
+      "end": 77.66666666666667,
+      "seconds": 27.566666666666666,
+      "spoken_seconds": 26.064,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 3,
+      "title": "前回とのつながり",
+      "start": 77.66666666666667,
+      "end": 107.63333333333334,
+      "seconds": 29.966666666666665,
+      "spoken_seconds": 28.464,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 4,
+      "title": "90分の構成",
+      "start": 107.63333333333334,
+      "end": 155.70000000000002,
+      "seconds": 48.06666666666667,
+      "spoken_seconds": 46.56,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 5,
+      "title": "身近な設備のメモ",
+      "start": 155.70000000000002,
+      "end": 195.86666666666667,
+      "seconds": 40.166666666666664,
+      "spoken_seconds": 38.664,
+      "pause_minutes": 3,
+      "exercise": false
+    },
+    {
+      "slide": 6,
+      "title": "主な専門分野",
+      "start": 195.86666666666667,
+      "end": 245.60000000000002,
+      "seconds": 49.733333333333334,
+      "spoken_seconds": 48.216,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 7,
+      "title": "機械 材料を形にして動かす",
+      "start": 245.60000000000002,
+      "end": 277.6666666666667,
+      "seconds": 32.06666666666667,
+      "spoken_seconds": 30.552,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 8,
+      "title": "機械の学びを考える例",
+      "start": 277.6666666666667,
+      "end": 311.6333333333333,
+      "seconds": 33.96666666666667,
+      "spoken_seconds": 32.448,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 9,
+      "title": "電気 電力をつくり安全に使う",
+      "start": 311.6333333333333,
+      "end": 343.93333333333334,
+      "seconds": 32.3,
+      "spoken_seconds": 30.768,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 10,
+      "title": "電子 信号を扱い機器を働かせる",
+      "start": 343.93333333333334,
+      "end": 376.56666666666666,
+      "seconds": 32.63333333333333,
+      "spoken_seconds": 31.128,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 11,
+      "title": "情報 データを扱う仕組みをつくる",
+      "start": 376.56666666666666,
+      "end": 407.46666666666664,
+      "seconds": 30.9,
+      "spoken_seconds": 29.376,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 12,
+      "title": "電気 電子 情報の比較",
+      "start": 407.46666666666664,
+      "end": 458.9333333333333,
+      "seconds": 51.46666666666667,
+      "spoken_seconds": 49.944,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 13,
+      "title": "電子機械 複数の技術を組み合わせる",
+      "start": 458.9333333333333,
+      "end": 491.83333333333326,
+      "seconds": 32.9,
+      "spoken_seconds": 31.368,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 14,
+      "title": "確認クイズ",
+      "start": 491.83333333333326,
+      "end": 532.3333333333333,
+      "seconds": 40.5,
+      "spoken_seconds": 38.976,
+      "pause_minutes": 5,
+      "exercise": false
+    },
+    {
+      "slide": 15,
+      "title": "クイズの解説",
+      "start": 532.3333333333333,
+      "end": 575.7666666666665,
+      "seconds": 43.43333333333333,
+      "spoken_seconds": 41.904,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 16,
+      "title": "ここで小休止",
+      "start": 575.7666666666665,
+      "end": 595.1666666666665,
+      "seconds": 19.4,
+      "spoken_seconds": 17.88,
+      "pause_minutes": 2,
+      "exercise": false
+    },
+    {
+      "slide": 17,
+      "title": "建築 建物と空間を考える",
+      "start": 595.1666666666665,
+      "end": 627.2333333333332,
+      "seconds": 32.06666666666667,
+      "spoken_seconds": 30.552,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 18,
+      "title": "土木 暮らしを支える基盤を考える",
+      "start": 627.2333333333332,
+      "end": 659.8666666666666,
+      "seconds": 32.63333333333333,
+      "spoken_seconds": 31.104,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 19,
+      "title": "建築と土木を見比べる",
+      "start": 659.8666666666666,
+      "end": 703.7333333333332,
+      "seconds": 43.86666666666667,
+      "spoken_seconds": 42.336,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 20,
+      "title": "化学 物質の性質とつくり方を学ぶ",
+      "start": 703.7333333333332,
+      "end": 739.2666666666665,
+      "seconds": 35.53333333333333,
+      "spoken_seconds": 34.032,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 21,
+      "title": "環境 調べることと保全すること",
+      "start": 739.2666666666665,
+      "end": 773.1666666666665,
+      "seconds": 33.9,
+      "spoken_seconds": 32.376,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 22,
+      "title": "このほかにも広がる工業の学び",
+      "start": 773.1666666666665,
+      "end": 801.0999999999998,
+      "seconds": 27.933333333333334,
+      "spoken_seconds": 26.424,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 23,
+      "title": "学科名とコース名の見方",
+      "start": 801.0999999999998,
+      "end": 835.5333333333331,
+      "seconds": 34.43333333333333,
+      "spoken_seconds": 32.904,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 24,
+      "title": "学校資料を読む例",
+      "start": 835.5333333333331,
+      "end": 883.2666666666664,
+      "seconds": 47.733333333333334,
+      "spoken_seconds": 46.224,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 25,
+      "title": "ここで小休止",
+      "start": 883.2666666666664,
+      "end": 902.8666666666664,
+      "seconds": 19.6,
+      "spoken_seconds": 18.096,
+      "pause_minutes": 3,
+      "exercise": false
+    },
+    {
+      "slide": 26,
+      "title": "教室の設備と複数の分野",
+      "start": 902.8666666666664,
+      "end": 952.3999999999997,
+      "seconds": 49.53333333333333,
+      "spoken_seconds": 48.024,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 27,
+      "title": "専門分野と卒業後の仕事",
+      "start": 952.3999999999997,
+      "end": 982.9666666666665,
+      "seconds": 30.566666666666666,
+      "spoken_seconds": 29.04,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 28,
+      "title": "生徒の関心から分野を考える",
+      "start": 982.9666666666665,
+      "end": 1016.8666666666664,
+      "seconds": 33.9,
+      "spoken_seconds": 32.4,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 29,
+      "title": "分野をつなぐメモ",
+      "start": 1016.8666666666664,
+      "end": 1061.1666666666665,
+      "seconds": 44.3,
+      "spoken_seconds": 42.768,
+      "pause_minutes": 7,
+      "exercise": false
+    },
+    {
+      "slide": 30,
+      "title": "メモの説明例",
+      "start": 1061.1666666666665,
+      "end": 1096.2666666666664,
+      "seconds": 35.1,
+      "spoken_seconds": 33.6,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 31,
+      "title": "今日のまとめと次回",
+      "start": 1096.2666666666664,
+      "end": 1131.5666666666664,
+      "seconds": 35.3,
+      "spoken_seconds": 33.768,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 32,
+      "title": "参照資料",
+      "start": 1131.5666666666664,
+      "end": 1161.333333333333,
+      "seconds": 29.766666666666666,
+      "spoken_seconds": 28.248,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 33,
+      "title": "演習の資料カード",
+      "start": 1161.333333333333,
+      "end": 1210.0666666666664,
+      "seconds": 48.733333333333334,
+      "spoken_seconds": 47.208,
+      "pause_minutes": 0,
+      "exercise": true
+    },
+    {
+      "slide": 34,
+      "title": "事実と未確認を分ける",
+      "start": 1210.0666666666664,
+      "end": 1253.433333333333,
+      "seconds": 43.36666666666667,
+      "spoken_seconds": 41.856,
+      "pause_minutes": 10,
+      "exercise": true
+    },
+    {
+      "slide": 35,
+      "title": "説明案を点検する",
+      "start": 1253.433333333333,
+      "end": 1293.1666666666663,
+      "seconds": 39.733333333333334,
+      "spoken_seconds": 38.232,
+      "pause_minutes": 10,
+      "exercise": true
+    },
+    {
+      "slide": 36,
+      "title": "説明を修正する",
+      "start": 1293.1666666666663,
+      "end": 1340.633333333333,
+      "seconds": 47.46666666666667,
+      "spoken_seconds": 45.936,
+      "pause_minutes": 10,
+      "exercise": true
+    },
+    {
+      "slide": 37,
+      "title": "説明の一例",
+      "start": 1340.633333333333,
+      "end": 1388.6999999999996,
+      "seconds": 48.06666666666667,
+      "spoken_seconds": 46.536,
+      "pause_minutes": 0,
+      "exercise": true
+    },
+    {
+      "slide": 38,
+      "title": "条件を変えて考える",
+      "start": 1388.6999999999996,
+      "end": 1431.433333333333,
+      "seconds": 42.733333333333334,
+      "spoken_seconds": 41.208,
+      "pause_minutes": 10,
+      "exercise": true
+    },
+    {
+      "slide": 39,
+      "title": "自分の説明を見直す",
+      "start": 1431.433333333333,
+      "end": 1468.7666666666662,
+      "seconds": 37.333333333333336,
+      "spoken_seconds": 35.832,
+      "pause_minutes": 0,
+      "exercise": true
+    },
+    {
+      "slide": 40,
+      "title": "メモを次の学びへ",
+      "start": 1468.7666666666662,
+      "end": 1507.8333333333328,
+      "seconds": 39.06666666666667,
+      "spoken_seconds": 37.536,
+      "pause_minutes": 0,
+      "exercise": true
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "status": "draft_review_pending",
+  "created": "2026-11-04",
+  "voice": "ja-JP-NanamiNeural",
+  "voice_display_name": "Nanami (Natural)",
+  "rate": "-5%",
+  "pitch": "+0Hz",
+  "seconds": 1507.8333333333328,
+  "fps": 30,
+  "slides": 40,
+  "captions": 235,
+  "visual_design": "long-view-v1",
+  "learning_design": "exercise-first-v1",
+  "total_study_time_verified": false,
+  "student_trial_completed": false,
+  "human_full_audio_review": false,
+  "timing": {
+    "course": "Ⅰ",
+    "lesson": 2,
+    "title": "工業高校の学科と専門分野",
+    "video_seconds": 1507.833,
+    "video_minutes": 25.13,
+    "reading_minutes_min": 5,
+    "reading_minutes_max": 10,
+    "existing_thinking_minutes": 15,
+    "break_minutes": 5,
+    "basic_exercise_minutes_min": 24,
+    "basic_exercise_minutes_max": 30,
+    "optional_exercise_minutes": 10,
+    "basic_total_minutes_min": 74.1,
+    "basic_total_minutes_max": 85.1,
+    "including_optional_minutes_max": 95.1,
+    "student_trial_completed": false,
+    "human_full_audio_review": false
+  },
+  "video_url": "https://github.com/zooc-14calbp/industrial-education-i/releases/download/videos-exercise-first-20261104/industrial-education-i-02.mp4",
+  "audio_url": "https://github.com/zooc-14calbp/industrial-education-i/releases/download/videos-exercise-first-20261104/industrial-education-i-02-audio.mp3",
+  "files": {
+    "slides.pptx": {
+      "bytes": 169608,
+      "sha256": "fc50ef6de0b35e580da54abc29be6e65537e3f7ac10fdc5c4e4c44672774a02a"
+    },
+    "slides.pdf": {
+      "bytes": 528889,
+      "sha256": "caa022470b7938b5ace622f7c4480974e44da8c473ce46fcf2831fb84251ed98"
+    },
+    "exercise-guide.pdf": {
+      "bytes": 112973,
+      "sha256": "c23727f2f4987939dfb23751a1b8923b15a70ace5bc15f9fa24a0145db786cc9"
+    },
+    "exercise.md": {
+      "bytes": 2174,
+      "sha256": "d39ab70fa81a8eb7e67c499e8e3d8bf3543c48051dbb69a432a92ea01df749b0"
+    },
+    "captions.srt": {
+      "bytes": 28432,
+      "sha256": "9f1e18168064674f81a381fac95c6682e365cd1e0604480c2d6adc5de63d14ae"
+    },
+    "captions.vtt": {
+      "bytes": 27375,
+      "sha256": "68a605d72814d8cfcf76272e51344efb7e2bbe03c85971844c5004bfa925b732"
+    },
+    "narration.txt": {
+      "bytes": 20654,
+      "sha256": "0c4334cf00204bdebd3fa0c3b331bd7d83a55f6a4c3ba389d5a00f990fa6037c"
+    },
+    "content.json": {
+      "bytes": 56134,
+      "sha256": "e5c243d724218d8393353900e8ceb91219d2a52b5126155b31d79e1abe0faf71"
+    },
+    "timeline.json": {
+      "bytes": 11096,
+      "sha256": "15d45ea198b280bea3f10e0a6863f8fc10c2b0364812e7eefc7cfaf4f0c4eab4"
+    },
+    "industrial-education-i-02.mp4": {
+      "bytes": 82652785,
+      "sha256": "dddf7238b02b25f5da806a9b426e6db88cc3be46aea1739db54421659f9d37fc"
+    },
+    "industrial-education-i-02-audio.mp3": {
+      "bytes": 18095084,
+      "sha256": "ba308176c09ba27fd8c87669354f1948005e3fc2807c5383440dd471ecf88a92"
+    }
+  },
+  "timing_panel_revision": "exercise-first-v1"
+}
