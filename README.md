@@ -4,11 +4,15 @@
 
 [全15回の動画・演習教材](video/README.md)／[動画時間の実測と授業設計](docs/video-duration-current.md)／[要点解説・関連教材・クイズの次の改訂案](docs/microlearning-plan.md)
 
+## 見直し後の講義全体
+
+[全15回の構成と到達目標](docs/syllabus.md)／[全体構成PDF 5ページ](docs/course-overview.pdf)／[見直しの理由とⅠ・Ⅱの分担](docs/overall-review.md)／[AIの配置と教材案](docs/ai-learning-plan.md)。各回の詳しい改訂設計へ進めます。現在の動画・スライドは差替前の内容を含みます。
+
 ## 学修の進め方
 
 動画視聴・資料の確認・Thinking time（考える時間）・小休止を含め、1回90分程度を目安に学修します。動画の再生時間を一律70分にそろえる構成ではありません。 [詳しい進め方](docs/study-guide.md)を確認してください。
 
-## 教材
+## 現行の動画に対応する教材
 
 | 回 | 内容 | スライド PPTX | スライド PDF | 学生用ガイド PDF |
 |---|---|---|---|---|

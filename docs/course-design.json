@@ -1,0 +1,823 @@
+{
+  "revision": "overall-review-20261104",
+  "review_date": "2026-11-04",
+  "course": "Ⅰ",
+  "aim": "工業高校の学習目標・内容・指導・評価を、専門分野と具体的な授業の姿から理解する。",
+  "status": "design_review_complete_media_revision_pending",
+  "lesson_count": 15,
+  "minutes_target": 90,
+  "includes": [
+    "動画視聴",
+    "資料確認",
+    "Thinking time",
+    "小休止"
+  ],
+  "video_minutes_fixed": false,
+  "reports_per_course": 2,
+  "weekly_submission": false,
+  "lessons": [
+    {
+      "title": "高校教育の中の工業高校と職業教育",
+      "goals": [
+        "学科・課程・教科・科目の違いを、学校資料の例で説明できる。",
+        "普通教育と専門教育の両方から工業高校を捉えられる。"
+      ],
+      "core": [
+        "高校の学科と課程、専門高校・総合学科",
+        "普通教科と専門教科が共にある教育課程",
+        "Ⅰは授業の理解、Ⅱは進路の説明・支援という役割"
+      ],
+      "task": "二つの架空の時間割から、普通教科・専門教科と課程の情報を分けて示す。",
+      "product": "四つの用語を使った短い対応表",
+      "check": "建築科と実習は、同じ分類の名称か。",
+      "answer": "建築科は学科、実習は科目。学校での開設は教育課程で確かめる。",
+      "listen": "工業高校の全体像は解説を聞いて捉える。",
+      "reduce": "高校制度の網羅的な暗記と、Ⅱ第1回の学校種の詳しい比較を重ねない。",
+      "report": "Aの資料の事実と参照箇所",
+      "bridge": "第2回で学科の中身を知る。",
+      "links": [
+        "field-study-plan.md"
+      ],
+      "lesson": 1,
+      "course": "Ⅰ",
+      "course_slug": "i",
+      "status": "reviewed_design_media_not_rebuilt",
+      "existing_title": "高校教育の中の工業高校",
+      "existing_slides": 40,
+      "existing_video_seconds": 1701.866666666667,
+      "existing_content_sha256": "fe6efb85535df8172c77c07a7de65da0bce3ecc96995ee01e7276b74b6c61a71",
+      "required_thinking_tasks": 1,
+      "weekly_submission": false,
+      "source_materials": {
+        "mext": [
+          "文部科学省 総合学科について",
+          "https://www.mext.go.jp/a_menu/shotou/kaikaku/seido/04033101.htm"
+        ],
+        "ibaraki": [
+          "茨城県教育委員会 高等学校の課程について",
+          "https://kyoiku.pref.ibaraki.jp/gakko/highschool/high-school-guide/study-course/"
+        ],
+        "nagoya": [
+          "名古屋市立工業高等学校 教育課程",
+          "https://www.nagoya-c.ed.jp/school/kogyo-th/education.html"
+        ],
+        "tokushima": [
+          "徳島県立徳島科学技術高等学校 令和8年度教育課程",
+          "https://tokushima-hst.tokushima-ec.ed.jp/prospetus/curriculum"
+        ],
+        "machine": [
+          "徳島科学技術高等学校 機械コース 令和8年度教育課程",
+          "https://tokushima-hst.tokushima-ec.ed.jp/file/2779"
+        ],
+        "osaka": [
+          "大阪府 産業系高等学校総合リーフレット",
+          "https://www.pref.osaka.lg.jp/o180030/kotogakko/sonota/index.html"
+        ]
+      }
+    },
+    {
+      "title": "工業の専門分野と社会を支える技術",
+      "goals": [
+        "主な専門分野が扱う対象と授業例を結び付けられる。",
+        "学科名と職業を一対一で対応させない説明ができる。"
+      ],
+      "core": [
+        "工業の50の分野別科目を12群で見渡す",
+        "機械・電気電子・情報の対象と、他分野とのつながり",
+        "建築・土木・化学・材料・生活に関わる分野の入口"
+      ],
+      "task": "校舎の設備図から二つの専門分野の役割を見つけ、関連する学びを一つずつ挙げる。",
+      "product": "分野と役割の二行メモ。科目名の全暗記は不要",
+      "check": "一つの設備は一つの学科だけで説明できるか。",
+      "answer": "機械・電気・情報等が関係し得る。複数の見方から捉える。",
+      "listen": "12群の紹介と機械・電気電子・情報のミニ解説は視聴中心。",
+      "reduce": "全科目の列挙を読み上げず、細部は参照表へ移す。",
+      "report": "Aの題材を知るための背景",
+      "bridge": "第3回で授業・実習の場面へ進む。",
+      "links": [
+        "field-subjects.md",
+        "field-map.json"
+      ],
+      "lesson": 2,
+      "course": "Ⅰ",
+      "course_slug": "i",
+      "status": "reviewed_design_media_not_rebuilt",
+      "existing_title": "工業高校の学科と専門分野",
+      "existing_slides": 40,
+      "existing_video_seconds": 1507.8333333333328,
+      "existing_content_sha256": "e5c243d724218d8393353900e8ceb91219d2a52b5126155b31d79e1abe0faf71",
+      "required_thinking_tasks": 1,
+      "weekly_submission": false,
+      "source_materials": {
+        "general": [
+          "茨城県教育委員会 工業に関する学科",
+          "https://kyoiku.pref.ibaraki.jp/gakko/highschool/high-school-guide/study-course/"
+        ],
+        "tech": [
+          "徳島科学技術高校 学校案内2025 機械と電気",
+          "https://tokushima-hst.tokushima-ec.ed.jp/file/1647"
+        ],
+        "build": [
+          "徳島科学技術高校 建設技術類",
+          "https://tokushima-hst.tokushima-ec.ed.jp/kindcourse/ecatid?frame_111_page=1"
+        ],
+        "info": [
+          "名古屋市立工業高校 情報技術科",
+          "https://www.nagoya-c.ed.jp/school/kogyo-th/infomation.html"
+        ],
+        "env": [
+          "名古屋市立工業高校 環境技術科",
+          "https://www.nagoya-c.ed.jp/school/kogyo-th/kenvironmental.html"
+        ],
+        "robot": [
+          "名古屋市立工業高校 電子機械科",
+          "https://www.nagoya-c.ed.jp/school/kogyo-th/robotics.html"
+        ],
+        "curriculum": [
+          "徳島科学技術高校 令和8年度教育課程",
+          "https://tokushima-hst.tokushima-ec.ed.jp/prospetus/curriculum"
+        ]
+      }
+    },
+    {
+      "title": "工業高校の授業と実習を具体的に知る",
+      "goals": [
+        "理論・実習・製図・記録の関係を一つの例で説明できる。",
+        "公開された活動記録と、そこからの推測を分けられる。"
+      ],
+      "core": [
+        "一日の時間割と実習前後の学習",
+        "材料・セラミック分野の授業と測定・加工・記録",
+        "協働、学校行事、競技・資格等の位置付け"
+      ],
+      "task": "架空の加工実習の記録から、事前の説明・作業・記録・振り返りを並べる。",
+      "product": "学習の流れを示す四つの項目",
+      "check": "完成品の写真だけで、全ての学習過程を説明できるか。",
+      "answer": "作業条件や判断・支援・記録は別に確かめる必要がある。",
+      "listen": "材料・セラミックの紹介は、知識を広げる視聴部分にする。",
+      "reduce": "自分の高校生活を思い出す問いを、最初から架空例で取り組む問いへ差し替える。",
+      "report": "Aの事実と解釈の区別",
+      "bridge": "第4回で社会・地域・進路の背景を捉える。",
+      "links": [
+        "field-subjects.md"
+      ],
+      "lesson": 3,
+      "course": "Ⅰ",
+      "course_slug": "i",
+      "status": "reviewed_design_media_not_rebuilt",
+      "existing_title": "工業高校の授業と学校生活",
+      "existing_slides": 40,
+      "existing_video_seconds": 1473.1333333333334,
+      "existing_content_sha256": "b92fa57c31a14ea05327fa4585db57b2ea1a6febb37f5e61e558e28f869a6387",
+      "required_thinking_tasks": 1,
+      "weekly_submission": false,
+      "source_materials": {
+        "curr": [
+          "名古屋市立工業高校 教育課程",
+          "https://www.nagoya-c.ed.jp/school/kogyo-th/education.html"
+        ],
+        "tech": [
+          "徳島科学技術高校 学校案内2025",
+          "https://tokushima-hst.tokushima-ec.ed.jp/file/1647"
+        ],
+        "life": [
+          "名古屋市立工芸高校 学校生活2024年度",
+          "https://www.nagoya-c.ed.jp/school/kogei-th/junior/2024.html"
+        ],
+        "intern": [
+          "名古屋市立工業高校 インターンシップ",
+          "https://www.nagoya-c.ed.jp/school/kogyo-th/internship.html"
+        ],
+        "r8": [
+          "徳島科学技術高校 令和8年度教育課程",
+          "https://tokushima-hst.tokushima-ec.ed.jp/prospetus/curriculum"
+        ]
+      }
+    },
+    {
+      "title": "工業教育の歴史と地域社会と進路",
+      "goals": [
+        "工業教育の変化を産業・地域との関係で大づかみに説明できる。",
+        "進学・進路のグラフの対象と分母を確かめて読める。"
+      ],
+      "core": [
+        "歴史の要点と産業教育を支える条件",
+        "中高・高大等の進学と卒業時の進路",
+        "全国と徳島、比較に理由のある地域の読み方"
+      ],
+      "task": "進路のグラフから、言えること・言えないこと・次の確認を一文ずつ示す。",
+      "product": "グラフの数値を添えた三文",
+      "check": "卒業者を分母にした率と、同年齢人口を分母にした率をそのまま比べてよいか。",
+      "answer": "分母・対象・年度をそろえる。率の名称だけで比較しない。",
+      "listen": "歴史の細かな年号は到達目標にせず、背景を説明する。",
+      "reduce": "地域を増やすための紹介や順位付け、Ⅱ第9回の個別相談の詳細を削る。",
+      "report": "Aの資料の限界",
+      "bridge": "第5回で教育課程を支える法と基準を読む。",
+      "links": [
+        "statistics-reading.md"
+      ],
+      "lesson": 4,
+      "course": "Ⅰ",
+      "course_slug": "i",
+      "status": "reviewed_design_media_not_rebuilt",
+      "existing_title": "工業教育の歴史と生徒の進路",
+      "existing_slides": 40,
+      "existing_video_seconds": 2067.5333333333333,
+      "existing_content_sha256": "e1a44d18024d92cb7d6a69a3a9517e7aac87ab611f023b993b2c07bc6b7043e5",
+      "required_thinking_tasks": 1,
+      "weekly_submission": false,
+      "source_materials": {
+        "meiji": [
+          "文部科学省 学制百二十年史 産業教育",
+          "https://www.mext.go.jp/b_menu/hakusho/html/others/detail/1318235.htm"
+        ],
+        "postwar": [
+          "文部科学省 学制百年史 新制高等学校の発足",
+          "https://www.mext.go.jp/b_menu/hakusho/html/others/detail/1317746.htm"
+        ],
+        "support": [
+          "文部科学省 学制百年史 産業教育振興法",
+          "https://www.mext.go.jp/b_menu/hakusho/html/others/detail/1317773.htm"
+        ],
+        "role": [
+          "文部科学省 専門高校・産業教育の振興",
+          "https://www.mext.go.jp/a_menu/shotou/shinkou/main19_a2.htm"
+        ],
+        "rate": [
+          "国立社会保障・人口問題研究所 人口統計資料集2026 表12-60",
+          "https://www.ipss.go.jp/syoushika/tohkei/Data/Popular2026/T12-60.files/sheet001.htm"
+        ],
+        "stats": [
+          "文部科学省 令和7年度学校基本統計 確定値 p.5",
+          "https://www.mext.go.jp/content/20251226-mxt_chousa01-000044291_01.pdf"
+        ],
+        "field": [
+          "文部科学省 学科別進路状況 2025年3月卒",
+          "https://www.mext.go.jp/a_menu/shotou/shinkou/genjyo/021203.htm"
+        ],
+        "school": [
+          "名古屋市立工業高校 進路状況 2026年3月卒",
+          "https://www.nagoya-c.ed.jp/school/kogyo-th/job.html"
+        ]
+      }
+    },
+    {
+      "title": "教育法規と学習指導要領の法的根拠",
+      "goals": [
+        "教育基本法から教育課程の基準までの関係を区別して説明できる。",
+        "告示本文・解説・参考事例を読み分け、基準と授業の工夫を説明できる。"
+      ],
+      "core": [
+        "教育基本法・学校教育法・施行規則・告示の関係",
+        "指導要領の基準性、判例の示す論点と射程",
+        "総則と工業の目標・内容・取扱いをたどる方法"
+      ],
+      "task": "ある授業案について、本文の規定、解説の説明、教師の工夫を三列に分ける。",
+      "product": "根拠箇所を付けた短い対照表",
+      "check": "解説の一つの教材例と、本文の規定は同じ位置付けか。",
+      "answer": "位置付けが異なる。前後の文脈と総則も確認する。",
+      "listen": "法的根拠の説明を中心に置き、条番号や判例文の全暗記を求めない。",
+      "reduce": "法令の紹介を毎回繰り返さず、後の回は該当箇所への短い参照にする。",
+      "report": "A・Bの根拠の読み方",
+      "bridge": "第6回で目標を授業の姿へ具体化する。",
+      "links": [
+        "field-study-plan.md"
+      ],
+      "lesson": 5,
+      "course": "Ⅰ",
+      "course_slug": "i",
+      "status": "reviewed_design_media_not_rebuilt",
+      "existing_title": "学習指導要領の法的根拠と読み方",
+      "existing_slides": 46,
+      "existing_video_seconds": 2423.9666666666662,
+      "existing_content_sha256": "5e920e47f29d62c53cc3e0b3fb625acda96f6e27ae0438f6396e14de1a922ab4",
+      "required_thinking_tasks": 1,
+      "weekly_submission": false,
+      "source_materials": {
+        "portal": [
+          "文部科学省 本文・解説の掲載ページ",
+          "https://www.mext.go.jp/a_menu/shotou/new-cs/1384661.htm"
+        ],
+        "text": [
+          "高等学校学習指導要領 本文（平成30年告示）",
+          "https://www.mext.go.jp/content/20230120-mxt_kyoiku02-100002604_03.pdf"
+        ],
+        "industrial": [
+          "解説 工業編 第2章第1節 pp.19–21",
+          "https://www.mext.go.jp/content/20251203-mxt_kyoiku01-100002620_23.pdf"
+        ],
+        "general": [
+          "解説 総則編（令和6年12月一部改訂）",
+          "https://www.mext.go.jp/content/20250213-mxt_kyoiku01-100002620_1.pdf"
+        ],
+        "idea": [
+          "文部科学省 学習指導要領の基本説明",
+          "https://www.mext.go.jp/a_menu/shotou/new-cs/idea/index.htm"
+        ],
+        "basic": [
+          "教育基本法 第1・2・4・6・16条",
+          "https://laws.e-gov.go.jp/law/418AC0000000120"
+        ],
+        "school": [
+          "学校教育法 第33・48・50–52条",
+          "https://laws.e-gov.go.jp/law/322AC0000000026"
+        ],
+        "regulation": [
+          "学校教育法施行規則 第52・74・84条",
+          "https://laws.e-gov.go.jp/law/322M40000080011"
+        ],
+        "asahikawa": [
+          "旭川学力テスト事件 最高裁大法廷 1976年5月21日",
+          "https://www.courts.go.jp/assets/hanrei/hanrei-pdf-57016.pdf"
+        ],
+        "denshu": [
+          "伝習館高校事件 最高裁第一小法廷 1990年1月18日",
+          "https://www.courts.go.jp/assets/hanrei/hanrei-pdf-62949.pdf"
+        ]
+      }
+    },
+    {
+      "title": "工業科で育てる力と授業の目標",
+      "goals": [
+        "資質・能力の柱を一つの学習活動に関連付けられる。",
+        "活動名を、学習を確かめられる目標へ言い換えられる。"
+      ],
+      "core": [
+        "工業の目標と見方・考え方",
+        "化学分野を例に、知識・技術と判断・説明をつなぐ",
+        "倫理・環境・協働を具体的な選択で扱う"
+      ],
+      "task": "材料選択または水の処理の架空例で、学ぶ内容・活動・確かめ方を対応させる。",
+      "product": "目標と活動と証拠の三行表",
+      "check": "実験をすることだけで、学習目標を表せるか。",
+      "answer": "何を理解し、何を根拠に説明するかまで具体化する。",
+      "listen": "化学分野の対象と学習例は、聞いて理解を広げる。",
+      "reduce": "三つの柱の定義の反復を減らし、具体例を比較する。",
+      "report": "Aの学習目標、Bの目標と内容",
+      "bridge": "第7回で目標を科目と教育課程へ結び付ける。",
+      "links": [
+        "field-subjects.md"
+      ],
+      "lesson": 6,
+      "course": "Ⅰ",
+      "course_slug": "i",
+      "status": "reviewed_design_media_not_rebuilt",
+      "existing_title": "工業科の目標と育成する資質・能力",
+      "existing_slides": 40,
+      "existing_video_seconds": 1485.1666666666667,
+      "existing_content_sha256": "8e0385c31b81c6e9584e708fc317e882b41926620e984619a6e635db411197ac",
+      "required_thinking_tasks": 1,
+      "weekly_submission": false,
+      "source_materials": {
+        "goal": [
+          "解説 工業編 第1章第3節 pp.13-15",
+          "https://www.mext.go.jp/content/20251203-mxt_kyoiku01-100002620_23.pdf"
+        ],
+        "basic": [
+          "解説 工業編 第2章第1節 pp.19-21",
+          "https://www.mext.go.jp/content/20251203-mxt_kyoiku01-100002620_23.pdf"
+        ],
+        "portal": [
+          "文部科学省 高等学校学習指導要領 本文・解説",
+          "https://www.mext.go.jp/a_menu/shotou/new-cs/1384661.htm"
+        ]
+      }
+    },
+    {
+      "title": "専門分野の科目と教育課程を読む",
+      "goals": [
+        "原則履修・共通的な内容・分野別科目を区別して教育課程表を読める。",
+        "土木・建築等の科目が担う異なる学習を説明できる。"
+      ],
+      "core": [
+        "59科目の構成と、各校の科目・単位・選択の読み方",
+        "土木の測量・力学・設計・施工・社会基盤",
+        "建築の構造・計画・設計・施工・法規と建築設備"
+      ],
+      "task": "二つの教育課程の指定部分から科目の配置を読み、分かることと確認することを一つずつ示す。",
+      "product": "科目配置の事実と確認先の二行メモ",
+      "check": "共通的な内容を持つ7科目は全て原則履修科目か。",
+      "answer": "原則履修の2科目とは区分が異なる。本文と各校の注記を確かめる。",
+      "listen": "土木・建築の各4～6分程度の原稿と設備の解説を中心にし、専門計算を課さない。",
+      "reduce": "第2回の分野紹介と、第5回の原文探索手順の再説明を削る。",
+      "report": "Aの資料の読み取り、Bの内容の根拠",
+      "bridge": "第8回で同じ題材を異なる科目の目的で見る。",
+      "links": [
+        "field-study-plan.md",
+        "field-narration-draft.md",
+        "field-subjects.md"
+      ],
+      "lesson": 7,
+      "course": "Ⅰ",
+      "course_slug": "i",
+      "status": "reviewed_design_media_not_rebuilt",
+      "existing_title": "工業科の科目構成と教育課程",
+      "existing_slides": 40,
+      "existing_video_seconds": 1498.1999999999998,
+      "existing_content_sha256": "6ae2a0ed9c7f4a05e06889e059c3c5bafef2804319ebfe8fb3d115966ce9ee26",
+      "required_thinking_tasks": 1,
+      "weekly_submission": false,
+      "source_materials": {
+        "industrial": [
+          "解説 工業編 第1章第4節 pp.16-17",
+          "https://www.mext.go.jp/content/20251203-mxt_kyoiku01-100002620_23.pdf"
+        ],
+        "portal": [
+          "文部科学省 高等学校学習指導要領 本文・解説",
+          "https://www.mext.go.jp/a_menu/shotou/new-cs/1384661.htm"
+        ],
+        "school": [
+          "徳島科学技術高校 令和8年度教育課程 掲載ページ",
+          "https://tokushima-hst.tokushima-ec.ed.jp/prospetus/curriculum"
+        ],
+        "machine": [
+          "同校 機械コース 令和8年度教育課程 PDF",
+          "https://tokushima-hst.tokushima-ec.ed.jp/file/2779"
+        ]
+      }
+    },
+    {
+      "title": "工業技術基礎と実習と課題研究",
+      "goals": [
+        "三科目の目的の違いを同じ題材で比較できる。",
+        "技能の練習と、問いを設定して探究する活動の役割を区別できる。"
+      ],
+      "core": [
+        "工業技術基礎・実習・課題研究の本文と取扱い",
+        "繊維・インテリア分野の学びのミニ解説",
+        "同じ製品や測定を、基礎・実習・課題研究で扱う違い"
+      ],
+      "task": "同じ題材の三つの授業例を、科目の目的に対応させ、判断理由を一つ示す。",
+      "product": "三科目の比較表。作業や製作の提出は不要",
+      "check": "同じ物を作れば、どの科目でも同じ学習になるか。",
+      "answer": "目標、問い、教師の支援、確かめる証拠で違いが生じる。",
+      "listen": "繊維・インテリアの紹介は視聴中心とする。",
+      "reduce": "課題研究の詳細な実践紹介は第10回へまとめる。",
+      "report": "Aの題材選択、Bの活動の位置付け",
+      "bridge": "第9回で学習の入口を支える方法を考える。",
+      "links": [
+        "field-subjects.md"
+      ],
+      "lesson": 8,
+      "course": "Ⅰ",
+      "course_slug": "i",
+      "status": "reviewed_design_media_not_rebuilt",
+      "existing_title": "工業技術基礎・実習・課題研究の検討",
+      "existing_slides": 40,
+      "existing_video_seconds": 1573.1000000000001,
+      "existing_content_sha256": "172e11b13dd6de3f4e6d1891b188d4cbf8e170d3f62183eb1eada9c8d7bf6c57",
+      "required_thinking_tasks": 1,
+      "weekly_submission": false,
+      "source_materials": {
+        "basic": [
+          "解説 工業編 第2章第1節 pp.19-23",
+          "https://www.mext.go.jp/content/20251203-mxt_kyoiku01-100002620_23.pdf"
+        ],
+        "study": [
+          "解説 工業編 第2章第2節 pp.24-27",
+          "https://www.mext.go.jp/content/20251203-mxt_kyoiku01-100002620_23.pdf"
+        ],
+        "practice": [
+          "解説 工業編 第2章第3節 pp.28-32",
+          "https://www.mext.go.jp/content/20251203-mxt_kyoiku01-100002620_23.pdf"
+        ],
+        "portal": [
+          "文部科学省 本文・解説の掲載ページ",
+          "https://www.mext.go.jp/a_menu/shotou/new-cs/1384661.htm"
+        ]
+      }
+    },
+    {
+      "title": "学習状況の読み取りと専門科目の支援",
+      "goals": [
+        "調査が測る内容と限界を区別して説明できる。",
+        "つまずきを決め付けず、目標に対応する支援と確認を示せる。"
+      ],
+      "core": [
+        "一般的な基礎学力・専門の知識・実技等の違い",
+        "全国学力調査と工業基礎学力テストの対象の違い",
+        "単位・図・手順・語彙を分けて確認する支援"
+      ],
+      "task": "図の寸法を読み違えた架空例から、追加の確認、支援、その後の確かめ方を一つずつ考える。",
+      "product": "三項目の短い支援案。レポートAへ利用できる",
+      "check": "一つの誤答から、意欲や能力全体を判断してよいか。",
+      "answer": "何を読み、どう考えたかを確かめ、条件を分けて支援する。",
+      "listen": "調査の説明は対象と読み方に絞る。",
+      "reduce": "Ⅱ第10回では同じ誤答検討を繰り返さず、中高間のICT接続へ重点を移す。",
+      "report": "Aのまとめ 第9回後",
+      "bridge": "第10回から授業設計を具体化する。",
+      "links": [
+        "statistics-reading.md",
+        "web-teaching-resources.md"
+      ],
+      "lesson": 9,
+      "course": "Ⅰ",
+      "course_slug": "i",
+      "status": "reviewed_design_media_not_rebuilt",
+      "existing_title": "生徒の学習状況と専門科目の指導上の配慮",
+      "existing_slides": 32,
+      "existing_video_seconds": 1160.1333333333332,
+      "existing_content_sha256": "13e7f280072e4a7c7374d38186f7e1ba121ab58c12090b42cebb2e80d8e92315",
+      "required_thinking_tasks": 1,
+      "weekly_submission": false,
+      "source_materials": {
+        "survey": [
+          "全工協 令和7年度工業基礎学力テスト報告 PDF冒頭",
+          "https://zenkoukyo.or.jp/web/content/uploads/r07kisogaku_kekka.pdf"
+        ],
+        "mextsurvey": [
+          "文部科学省 全国学力・学習状況調査 概要",
+          "https://www.mext.go.jp/a_menu/shotou/gakuryoku-chousa/zenkoku/1344101.htm"
+        ],
+        "industrial": [
+          "学習指導要領解説 工業編 第1章・第3章",
+          "https://www.mext.go.jp/content/20251203-mxt_kyoiku01-100002620_23.pdf"
+        ]
+      }
+    },
+    {
+      "title": "課題研究の設計と実践を読む",
+      "goals": [
+        "実践報告から課題設定・支援・成果の証拠を読み取れる。",
+        "科学技術の成果と生徒の学習の成果を区別できる。"
+      ],
+      "core": [
+        "課題研究の目標と、問い・探究・説明・振り返り",
+        "提供された課題研究の公刊実践と卒業後調査",
+        "植物画像の技術資料を授業題材へ応用する場合の条件"
+      ],
+      "task": "公刊実践の指定箇所から教師の支援と生徒の学習の証拠を一つずつ示し、別の題材へ移す条件を考える。",
+      "product": "実践の事実と、講義独自の応用案を分けたメモ",
+      "check": "技術が高精度だったことだけで、生徒の学びの効果を説明できるか。",
+      "answer": "学習者、活動、支援、記録等の証拠が別に必要になる。",
+      "listen": "技術部分は図解で概略を説明し、論文の全読解を課さない。",
+      "reduce": "論文全体の要約や新たな実験・製作を求めない。",
+      "report": "Bの授業案の題材と支援",
+      "bridge": "第11回で教材そのものを検討する。",
+      "links": [
+        "web-teaching-resources.md"
+      ],
+      "lesson": 10,
+      "course": "Ⅰ",
+      "course_slug": "i",
+      "status": "reviewed_design_media_not_rebuilt",
+      "existing_title": "高校における課題学習の設計と実践",
+      "existing_slides": 32,
+      "existing_video_seconds": 1292.3333333333333,
+      "existing_content_sha256": "25c0f354e02318a71d8e34fcae187cff33b44c95b49458a5c6af687d2ff8753c",
+      "required_thinking_tasks": 1,
+      "weekly_submission": false,
+      "source_materials": {
+        "research": [
+          "同解説 第2章第2節 課題研究 pp.24-27",
+          "https://www.mext.go.jp/content/20251203-mxt_kyoiku01-100002620_23.pdf"
+        ],
+        "nagai2020": [
+          "長井・菊地（2020）課題研究の授業実践 pp.369-375",
+          "https://doi.org/10.32309/jjste.62.4_367"
+        ],
+        "nagai2023": [
+          "長井・菊地（2023）卒業後の追跡調査 pp.83-87",
+          "https://www.jstage.jst.go.jp/article/jjste/65/2/65_81/_article/-char/ja/"
+        ]
+      }
+    },
+    {
+      "title": "教材研究とICTと生成AIの活用",
+      "goals": [
+        "目標に照らして教材の役割と支援の必要性を説明できる。",
+        "生成AIによる説明案を根拠資料と照合して点検できる。"
+      ],
+      "core": [
+        "三面図・測定・配管断面積等の教材を見て学ぶ",
+        "デザイン分野の機能・表現・社会生活のミニ解説",
+        "生成AIの出力を教材の候補とし、正確さ・根拠・学習効果を確認する"
+      ],
+      "task": "教師が用意した架空のAI説明案と正しい資料を比べ、単位か図の読み方の誤りを直し、確認方法を示す。",
+      "product": "修正した一文と根拠の箇所。AIへの登録や操作は不要",
+      "check": "説明が自然で、出典らしい名称があれば、そのまま教材として使えるか。",
+      "answer": "元資料の存在と対応、数値・単位・文脈を確かめる。",
+      "listen": "教材の見せ方は教師の説明を見る部分を設ける。",
+      "reduce": "三つの教材全てを学生に解かせず、共通の問いは一つに絞る。",
+      "report": "Bの活動と支援、教材の根拠",
+      "bridge": "第12回で実施する条件と安全を検討する。",
+      "links": [
+        "web-teaching-resources.md",
+        "ai-learning-plan.md"
+      ],
+      "lesson": 11,
+      "course": "Ⅰ",
+      "course_slug": "i",
+      "status": "reviewed_design_media_not_rebuilt",
+      "existing_title": "工業科の授業づくりと教材研究",
+      "existing_slides": 32,
+      "existing_video_seconds": 1130.6333333333332,
+      "existing_content_sha256": "763eb244fecf31d221f27d5e24a2970f1717b4ac405cc490f5a4e256bd56a5ba",
+      "required_thinking_tasks": 1,
+      "weekly_submission": false,
+      "source_materials": {
+        "industrial": [
+          "学習指導要領解説 工業編 第1章・第3章",
+          "https://www.mext.go.jp/content/20251203-mxt_kyoiku01-100002620_23.pdf"
+        ],
+        "practice": [
+          "同解説 第2章第3節 実習 pp.28-32",
+          "https://www.mext.go.jp/content/20251203-mxt_kyoiku01-100002620_23.pdf"
+        ],
+        "evaluation": [
+          "国立教育政策研究所 指導と評価の一体化 工業 第1編・第3編",
+          "https://www.nier.go.jp/kaihatsu/pdf/hyouka/r030820_hig_kougyou.pdf"
+        ]
+      }
+    },
+    {
+      "title": "実験と実習の安全を支える指導",
+      "goals": [
+        "危険を個人の不注意だけに帰さず、環境・手順・支援から整理できる。",
+        "作業前の確認、中止・相談の判断を教育上の条件として示せる。"
+      ],
+      "core": [
+        "安全を学習の前提として捉える",
+        "測量・加工・電気・化学等のKYT教材の比較",
+        "説明、理解確認、設備・人数・見守りと中止判断"
+      ],
+      "task": "架空の実習場所の図から、優先して整える環境、説明、作業開始前の確認を一つずつ挙げる。",
+      "product": "優先順位付きの三項目",
+      "check": "注意を十分伝えれば、それだけで安全の条件は整うか。",
+      "answer": "設備・環境・手順・実施体制と理解の確認も必要。",
+      "listen": "分野ごとに異なる危険の例は説明中心とする。",
+      "reduce": "実機の作業手順の実演や、AIの説明をそのまま安全手順にする活動を置かない。",
+      "report": "Bの実施条件",
+      "bridge": "第13回で学びを確かめる方法を考える。",
+      "links": [
+        "web-teaching-resources.md",
+        "ai-learning-plan.md"
+      ],
+      "lesson": 12,
+      "course": "Ⅰ",
+      "course_slug": "i",
+      "status": "reviewed_design_media_not_rebuilt",
+      "existing_title": "実験と実習の指導と安全",
+      "existing_slides": 32,
+      "existing_video_seconds": 1110.8666666666666,
+      "existing_content_sha256": "2b65e1cd9173e458f8fc7124cdb95d2bd706dfef95864496f8a89b1284ad0118",
+      "required_thinking_tasks": 1,
+      "weekly_submission": false,
+      "source_materials": {
+        "practice": [
+          "同解説 第2章第3節 実習 pp.28-32",
+          "https://www.mext.go.jp/content/20251203-mxt_kyoiku01-100002620_23.pdf"
+        ],
+        "industrial": [
+          "学習指導要領解説 工業編 第1章・第3章",
+          "https://www.mext.go.jp/content/20251203-mxt_kyoiku01-100002620_23.pdf"
+        ],
+        "portal": [
+          "文部科学省 学習指導要領 本文・解説",
+          "https://www.mext.go.jp/a_menu/shotou/new-cs/1384661.htm"
+        ]
+      }
+    },
+    {
+      "title": "学習評価と学びの証拠",
+      "goals": [
+        "目標に合う記録や説明を評価の証拠として挙げられる。",
+        "観点と判断の根拠を具体的な記述で示せる。"
+      ],
+      "core": [
+        "指導と評価の関係、作品だけでは見えない学習",
+        "国立教育政策研究所の電気回路の評価事例",
+        "観点、記述、過程の証拠をそろえる"
+      ],
+      "task": "同じ完成品について異なる記録を読み、何を根拠にどの目標の達成を確かめるかを示す。",
+      "product": "目標と証拠の対照表",
+      "check": "発言の多さや作品の見栄えだけで、全ての観点を判断できるか。",
+      "answer": "目標に対応する説明、判断、記録等を確かめる。",
+      "listen": "評価制度の説明は必要な要点に絞る。",
+      "reduce": "この大学講義のレポート用ルーブリックと高校の評価制度の説明を混ぜない。",
+      "report": "Bの評価の根拠",
+      "bridge": "第14回で授業を支える組織の仕事を見る。",
+      "links": [
+        "field-study-plan.md"
+      ],
+      "lesson": 13,
+      "course": "Ⅰ",
+      "course_slug": "i",
+      "status": "reviewed_design_media_not_rebuilt",
+      "existing_title": "工業科における学習評価",
+      "existing_slides": 32,
+      "existing_video_seconds": 1144.2333333333331,
+      "existing_content_sha256": "ef687d0b61ff73a755274cdb70e2402d8aaedfb989bec2a17f47127fe67764ef",
+      "required_thinking_tasks": 1,
+      "weekly_submission": false,
+      "source_materials": {
+        "evaluation": [
+          "国立教育政策研究所 指導と評価の一体化 工業 第1編・第3編",
+          "https://www.nier.go.jp/kaihatsu/pdf/hyouka/r030820_hig_kougyou.pdf"
+        ],
+        "industrial": [
+          "学習指導要領解説 工業編 第1章・第3章",
+          "https://www.mext.go.jp/content/20251203-mxt_kyoiku01-100002620_23.pdf"
+        ]
+      }
+    },
+    {
+      "title": "工業科教員の仕事と免許と教科経営",
+      "goals": [
+        "授業外の準備・設備・連携が実習を支えることを説明できる。",
+        "専門高校に関わる教員免許の教科と取得経路の確認方法を示せる。"
+      ],
+      "core": [
+        "教材・材料・設備、安全、校内外との分担",
+        "工業・農業・商業・水産等の教員免許の全体像",
+        "担当者交代時の教材・出典・条件・判断の引継ぎ"
+      ],
+      "task": "架空の実習の引継ぎで、教材以外に残すべき情報を三つ選び、理由を一言ずつ添える。",
+      "product": "引継ぎ項目と理由の短い表",
+      "check": "取得可能大学一覧に載っていれば、現在誰でもその免許を取れると言えるか。",
+      "answer": "課程、年度、履修・入学条件等を大学の案内で確認する。",
+      "listen": "教員免許の全体像は視聴中心とし、大学名の暗記を求めない。",
+      "reduce": "生徒の取得資格はⅡ第3～9回へまとめ、教員免許と混同しない。",
+      "report": "Bの実施条件、科目全体の背景",
+      "bridge": "第15回で一つの授業案へまとめる。",
+      "links": [],
+      "lesson": 14,
+      "course": "Ⅰ",
+      "course_slug": "i",
+      "status": "reviewed_design_media_not_rebuilt",
+      "existing_title": "工業科教員の仕事と教科経営",
+      "existing_slides": 32,
+      "existing_video_seconds": 1184.6000000000001,
+      "existing_content_sha256": "df154d1dd5b6467221b2e69d90299876c6a260331fd717ce10fe4350b09faa9d",
+      "required_thinking_tasks": 1,
+      "weekly_submission": false,
+      "source_materials": {
+        "industrial": [
+          "学習指導要領解説 工業編 第1章・第3章",
+          "https://www.mext.go.jp/content/20251203-mxt_kyoiku01-100002620_23.pdf"
+        ],
+        "qa": [
+          "文部科学省 教員免許状に関するQ&A",
+          "https://www.mext.go.jp/a_menu/shotou/kyoin/main13_a2.htm"
+        ],
+        "license": [
+          "文部科学省 免許状取得可能大学 令和7年4月1日現在",
+          "https://www.mext.go.jp/a_menu/shotou/kyoin/daigaku/1286948.htm"
+        ],
+        "marine": [
+          "東京海洋大学 取得可能資格",
+          "https://www.kaiyodai.ac.jp/campuslife/career/"
+        ]
+      }
+    },
+    {
+      "title": "目標と内容と指導と評価をつなぐ",
+      "goals": [
+        "一つの授業例で目標・内容・支援・評価のつながりを説明できる。",
+        "実施条件と未確認事項を含む小さな授業案をまとめられる。"
+      ],
+      "core": [
+        "第6～14回の既出例の再利用",
+        "原文の根拠、活動、支援、証拠、実施条件の対応",
+        "他の妥当な案と比べて一か所改善する"
+      ],
+      "task": "既出の題材で小さな授業案を作り、目標と評価が合っているか一か所を見直す。",
+      "product": "レポートBの四項目に対応するメモ",
+      "check": "別の教材や案を選んでも、同じ観点で検討できるか。",
+      "answer": "題材の好みではなく、根拠と対応関係で確認する。",
+      "listen": "新しい制度や題材を増やさず、整理と説明を中心にする。",
+      "reduce": "新たな大きな指導案、模擬授業、実物制作の提出を追加しない。",
+      "report": "Bのまとめ 第15回後",
+      "bridge": "後期Ⅱで中学校教師の情報提供と進路支援へ進む。",
+      "links": [],
+      "lesson": 15,
+      "course": "Ⅰ",
+      "course_slug": "i",
+      "status": "reviewed_design_media_not_rebuilt",
+      "existing_title": "工業科教育の目標と内容と指導と評価",
+      "existing_slides": 32,
+      "existing_video_seconds": 1139.3,
+      "existing_content_sha256": "77e28735e8a6f2a5c8944403653e8d47fb31834765f16c391951cf06df7a7485",
+      "required_thinking_tasks": 1,
+      "weekly_submission": false,
+      "source_materials": {
+        "industrial": [
+          "学習指導要領解説 工業編 第1章・第3章",
+          "https://www.mext.go.jp/content/20251203-mxt_kyoiku01-100002620_23.pdf"
+        ],
+        "research": [
+          "同解説 第2章第2節 課題研究 pp.24-27",
+          "https://www.mext.go.jp/content/20251203-mxt_kyoiku01-100002620_23.pdf"
+        ],
+        "evaluation": [
+          "国立教育政策研究所 指導と評価の一体化 工業 第1編・第3編",
+          "https://www.nier.go.jp/kaihatsu/pdf/hyouka/r030820_hig_kougyou.pdf"
+        ],
+        "portal": [
+          "文部科学省 学習指導要領 本文・解説",
+          "https://www.mext.go.jp/a_menu/shotou/new-cs/1384661.htm"
+        ]
+      }
+    }
+  ]
+}

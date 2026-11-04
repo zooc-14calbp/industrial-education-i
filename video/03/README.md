@@ -1,5 +1,9 @@
 # 工業科教育論Ⅰ 第3回 動画・演習
 
+[全体見直し後の第3回の設計](../../lessons/03/revision-plan.md)。以下は現在の動画初稿の利用案内です。
+
+**問いの読み替え：スライド5では、自分の高校生活を振り返る必要はありません。公開資料や架空の実習例を一つ選び、「どんな活動をし、何を学ぶか」を考えてください。本人や家族の経験の記入・申告は不要です。**
+
 工業高校の授業と学校生活。2026年11月4日、検討用の動画初稿。
 
 [動画MP4](https://github.com/zooc-14calbp/industrial-education-i/releases/download/videos-exercise-first-20261104/industrial-education-i-03.mp4)／[音声MP3](https://github.com/zooc-14calbp/industrial-education-i/releases/download/videos-exercise-first-20261104/industrial-education-i-03-audio.mp3)／[動画用PPTX](slides.pptx)／[動画用PDF](slides.pdf)／[演習ガイドPDF](exercise-guide.pdf)／[演習の問い](exercise.md)／[字幕SRT](captions.srt)／[字幕VTT](captions.vtt)／[原稿](narration.txt)。[既出の学生用ガイド](../../lessons/03/student-guide.pdf)も使えます。

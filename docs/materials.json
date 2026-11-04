@@ -38,7 +38,11 @@
     "learning_design": "exercise-first-v1",
     "student_trial_completed": false,
     "human_full_audio_review": false,
-    "initial_slides": 32
+    "initial_slides": 32,
+    "planned_title": "高校教育の中の工業高校と職業教育",
+    "curriculum_revision": "overall-review-20261104",
+    "curriculum_plan": "lessons/01/revision-plan.md",
+    "planned_content_in_current_media": false
   },
   {
     "lesson": 2,
@@ -79,7 +83,11 @@
     "learning_design": "exercise-first-v1",
     "student_trial_completed": false,
     "human_full_audio_review": false,
-    "initial_slides": 32
+    "initial_slides": 32,
+    "planned_title": "工業の専門分野と社会を支える技術",
+    "curriculum_revision": "overall-review-20261104",
+    "curriculum_plan": "lessons/02/revision-plan.md",
+    "planned_content_in_current_media": false
   },
   {
     "lesson": 3,
@@ -120,7 +128,11 @@
     "learning_design": "exercise-first-v1",
     "student_trial_completed": false,
     "human_full_audio_review": false,
-    "initial_slides": 32
+    "initial_slides": 32,
+    "planned_title": "工業高校の授業と実習を具体的に知る",
+    "curriculum_revision": "overall-review-20261104",
+    "curriculum_plan": "lessons/03/revision-plan.md",
+    "planned_content_in_current_media": false
   },
   {
     "lesson": 4,
@@ -161,7 +173,11 @@
     "learning_design": "exercise-first-v1",
     "student_trial_completed": false,
     "human_full_audio_review": false,
-    "initial_slides": 32
+    "initial_slides": 32,
+    "planned_title": "工業教育の歴史と地域社会と進路",
+    "curriculum_revision": "overall-review-20261104",
+    "curriculum_plan": "lessons/04/revision-plan.md",
+    "planned_content_in_current_media": false
   },
   {
     "lesson": 5,
@@ -202,7 +218,11 @@
     "learning_design": "exercise-first-v1",
     "student_trial_completed": false,
     "human_full_audio_review": false,
-    "initial_slides": 38
+    "initial_slides": 38,
+    "planned_title": "教育法規と学習指導要領の法的根拠",
+    "curriculum_revision": "overall-review-20261104",
+    "curriculum_plan": "lessons/05/revision-plan.md",
+    "planned_content_in_current_media": false
   },
   {
     "lesson": 6,
@@ -243,7 +263,11 @@
     "learning_design": "exercise-first-v1",
     "student_trial_completed": false,
     "human_full_audio_review": false,
-    "initial_slides": 32
+    "initial_slides": 32,
+    "planned_title": "工業科で育てる力と授業の目標",
+    "curriculum_revision": "overall-review-20261104",
+    "curriculum_plan": "lessons/06/revision-plan.md",
+    "planned_content_in_current_media": false
   },
   {
     "lesson": 7,
@@ -284,7 +308,11 @@
     "learning_design": "exercise-first-v1",
     "student_trial_completed": false,
     "human_full_audio_review": false,
-    "initial_slides": 32
+    "initial_slides": 32,
+    "planned_title": "専門分野の科目と教育課程を読む",
+    "curriculum_revision": "overall-review-20261104",
+    "curriculum_plan": "lessons/07/revision-plan.md",
+    "planned_content_in_current_media": false
   },
   {
     "lesson": 8,
@@ -325,7 +353,11 @@
     "learning_design": "exercise-first-v1",
     "student_trial_completed": false,
     "human_full_audio_review": false,
-    "initial_slides": 32
+    "initial_slides": 32,
+    "planned_title": "工業技術基礎と実習と課題研究",
+    "curriculum_revision": "overall-review-20261104",
+    "curriculum_plan": "lessons/08/revision-plan.md",
+    "planned_content_in_current_media": false
   },
   {
     "lesson": 9,
@@ -366,7 +398,11 @@
     "learning_design": "exercise-first-v1",
     "student_trial_completed": false,
     "human_full_audio_review": false,
-    "initial_slides": 24
+    "initial_slides": 24,
+    "planned_title": "学習状況の読み取りと専門科目の支援",
+    "curriculum_revision": "overall-review-20261104",
+    "curriculum_plan": "lessons/09/revision-plan.md",
+    "planned_content_in_current_media": false
   },
   {
     "lesson": 10,
@@ -407,7 +443,11 @@
     "learning_design": "exercise-first-v1",
     "student_trial_completed": false,
     "human_full_audio_review": false,
-    "initial_slides": 24
+    "initial_slides": 24,
+    "planned_title": "課題研究の設計と実践を読む",
+    "curriculum_revision": "overall-review-20261104",
+    "curriculum_plan": "lessons/10/revision-plan.md",
+    "planned_content_in_current_media": false
   },
   {
     "lesson": 11,
@@ -448,7 +488,11 @@
     "learning_design": "exercise-first-v1",
     "student_trial_completed": false,
     "human_full_audio_review": false,
-    "initial_slides": 24
+    "initial_slides": 24,
+    "planned_title": "教材研究とICTと生成AIの活用",
+    "curriculum_revision": "overall-review-20261104",
+    "curriculum_plan": "lessons/11/revision-plan.md",
+    "planned_content_in_current_media": false
   },
   {
     "lesson": 12,
@@ -489,7 +533,11 @@
     "learning_design": "exercise-first-v1",
     "student_trial_completed": false,
     "human_full_audio_review": false,
-    "initial_slides": 24
+    "initial_slides": 24,
+    "planned_title": "実験と実習の安全を支える指導",
+    "curriculum_revision": "overall-review-20261104",
+    "curriculum_plan": "lessons/12/revision-plan.md",
+    "planned_content_in_current_media": false
   },
   {
     "lesson": 13,
@@ -530,7 +578,11 @@
     "learning_design": "exercise-first-v1",
     "student_trial_completed": false,
     "human_full_audio_review": false,
-    "initial_slides": 24
+    "initial_slides": 24,
+    "planned_title": "学習評価と学びの証拠",
+    "curriculum_revision": "overall-review-20261104",
+    "curriculum_plan": "lessons/13/revision-plan.md",
+    "planned_content_in_current_media": false
   },
   {
     "lesson": 14,
@@ -571,7 +623,11 @@
     "learning_design": "exercise-first-v1",
     "student_trial_completed": false,
     "human_full_audio_review": false,
-    "initial_slides": 24
+    "initial_slides": 24,
+    "planned_title": "工業科教員の仕事と免許と教科経営",
+    "curriculum_revision": "overall-review-20261104",
+    "curriculum_plan": "lessons/14/revision-plan.md",
+    "planned_content_in_current_media": false
   },
   {
     "lesson": 15,
@@ -612,6 +668,10 @@
     "learning_design": "exercise-first-v1",
     "student_trial_completed": false,
     "human_full_audio_review": false,
-    "initial_slides": 24
+    "initial_slides": 24,
+    "planned_title": "目標と内容と指導と評価をつなぐ",
+    "curriculum_revision": "overall-review-20261104",
+    "curriculum_plan": "lessons/15/revision-plan.md",
+    "planned_content_in_current_media": false
   }
 ]

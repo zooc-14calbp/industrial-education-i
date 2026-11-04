@@ -1,5 +1,7 @@
 # 工業科教育論Ⅰ 第15回 動画・演習
 
+[全体見直し後の第15回の設計](../../lessons/15/revision-plan.md)。以下は現在の動画初稿の利用案内です。
+
 工業科教育の目標と内容と指導と評価。2026年11月4日、検討用の動画初稿。
 
 [動画MP4](https://github.com/zooc-14calbp/industrial-education-i/releases/download/videos-exercise-first-20261104/industrial-education-i-15.mp4)／[音声MP3](https://github.com/zooc-14calbp/industrial-education-i/releases/download/videos-exercise-first-20261104/industrial-education-i-15-audio.mp3)／[動画用PPTX](slides.pptx)／[動画用PDF](slides.pdf)／[演習ガイドPDF](exercise-guide.pdf)／[演習の問い](exercise.md)／[字幕SRT](captions.srt)／[字幕VTT](captions.vtt)／[原稿](narration.txt)。[既出の学生用ガイド](../../lessons/15/student-guide.pdf)も使えます。
