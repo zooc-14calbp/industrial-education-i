@@ -1,0 +1,679 @@
+{
+  "checked_on": "2026-11-04",
+  "status": "revision_proposal_not_in_current_video",
+  "grouping": "本講義の整理用であり全国共通の学科分類ではない",
+  "sources": {
+    "commentary": "https://www.mext.go.jp/content/20251203-mxt_kyoiku01-100002620_23.pdf"
+  },
+  "subjects": [
+    {
+      "section": 1,
+      "subject": "工業技術基礎",
+      "printed_page": 19,
+      "pdf_page": 29,
+      "url": "https://www.mext.go.jp/content/20251203-mxt_kyoiku01-100002620_23.pdf#page=29"
+    },
+    {
+      "section": 2,
+      "subject": "課題研究",
+      "printed_page": 24,
+      "pdf_page": 34,
+      "url": "https://www.mext.go.jp/content/20251203-mxt_kyoiku01-100002620_23.pdf#page=34"
+    },
+    {
+      "section": 3,
+      "subject": "実習",
+      "printed_page": 28,
+      "pdf_page": 38,
+      "url": "https://www.mext.go.jp/content/20251203-mxt_kyoiku01-100002620_23.pdf#page=38"
+    },
+    {
+      "section": 4,
+      "subject": "製図",
+      "printed_page": 33,
+      "pdf_page": 43,
+      "url": "https://www.mext.go.jp/content/20251203-mxt_kyoiku01-100002620_23.pdf#page=43"
+    },
+    {
+      "section": 5,
+      "subject": "工業情報数理",
+      "printed_page": 38,
+      "pdf_page": 48,
+      "url": "https://www.mext.go.jp/content/20251203-mxt_kyoiku01-100002620_23.pdf#page=48"
+    },
+    {
+      "section": 6,
+      "subject": "工業材料技術",
+      "printed_page": 44,
+      "pdf_page": 54,
+      "url": "https://www.mext.go.jp/content/20251203-mxt_kyoiku01-100002620_23.pdf#page=54"
+    },
+    {
+      "section": 7,
+      "subject": "工業技術英語",
+      "printed_page": 51,
+      "pdf_page": 61,
+      "url": "https://www.mext.go.jp/content/20251203-mxt_kyoiku01-100002620_23.pdf#page=61"
+    },
+    {
+      "section": 8,
+      "subject": "工業管理技術",
+      "printed_page": 56,
+      "pdf_page": 66,
+      "url": "https://www.mext.go.jp/content/20251203-mxt_kyoiku01-100002620_23.pdf#page=66"
+    },
+    {
+      "section": 9,
+      "subject": "工業環境技術",
+      "printed_page": 63,
+      "pdf_page": 73,
+      "url": "https://www.mext.go.jp/content/20251203-mxt_kyoiku01-100002620_23.pdf#page=73"
+    },
+    {
+      "section": 10,
+      "subject": "機械工作",
+      "printed_page": 69,
+      "pdf_page": 79,
+      "url": "https://www.mext.go.jp/content/20251203-mxt_kyoiku01-100002620_23.pdf#page=79"
+    },
+    {
+      "section": 11,
+      "subject": "機械設計",
+      "printed_page": 74,
+      "pdf_page": 84,
+      "url": "https://www.mext.go.jp/content/20251203-mxt_kyoiku01-100002620_23.pdf#page=84"
+    },
+    {
+      "section": 12,
+      "subject": "原動機",
+      "printed_page": 80,
+      "pdf_page": 90,
+      "url": "https://www.mext.go.jp/content/20251203-mxt_kyoiku01-100002620_23.pdf#page=90"
+    },
+    {
+      "section": 13,
+      "subject": "電子機械",
+      "printed_page": 86,
+      "pdf_page": 96,
+      "url": "https://www.mext.go.jp/content/20251203-mxt_kyoiku01-100002620_23.pdf#page=96"
+    },
+    {
+      "section": 14,
+      "subject": "生産技術",
+      "printed_page": 93,
+      "pdf_page": 103,
+      "url": "https://www.mext.go.jp/content/20251203-mxt_kyoiku01-100002620_23.pdf#page=103"
+    },
+    {
+      "section": 15,
+      "subject": "自動車工学",
+      "printed_page": 100,
+      "pdf_page": 110,
+      "url": "https://www.mext.go.jp/content/20251203-mxt_kyoiku01-100002620_23.pdf#page=110"
+    },
+    {
+      "section": 16,
+      "subject": "自動車整備",
+      "printed_page": 107,
+      "pdf_page": 117,
+      "url": "https://www.mext.go.jp/content/20251203-mxt_kyoiku01-100002620_23.pdf#page=117"
+    },
+    {
+      "section": 17,
+      "subject": "船舶工学",
+      "printed_page": 112,
+      "pdf_page": 122,
+      "url": "https://www.mext.go.jp/content/20251203-mxt_kyoiku01-100002620_23.pdf#page=122"
+    },
+    {
+      "section": 18,
+      "subject": "電気回路",
+      "printed_page": 118,
+      "pdf_page": 128,
+      "url": "https://www.mext.go.jp/content/20251203-mxt_kyoiku01-100002620_23.pdf#page=128"
+    },
+    {
+      "section": 19,
+      "subject": "電気機器",
+      "printed_page": 125,
+      "pdf_page": 135,
+      "url": "https://www.mext.go.jp/content/20251203-mxt_kyoiku01-100002620_23.pdf#page=135"
+    },
+    {
+      "section": 20,
+      "subject": "電力技術",
+      "printed_page": 131,
+      "pdf_page": 141,
+      "url": "https://www.mext.go.jp/content/20251203-mxt_kyoiku01-100002620_23.pdf#page=141"
+    },
+    {
+      "section": 21,
+      "subject": "電子技術",
+      "printed_page": 138,
+      "pdf_page": 148,
+      "url": "https://www.mext.go.jp/content/20251203-mxt_kyoiku01-100002620_23.pdf#page=148"
+    },
+    {
+      "section": 22,
+      "subject": "電子回路",
+      "printed_page": 144,
+      "pdf_page": 154,
+      "url": "https://www.mext.go.jp/content/20251203-mxt_kyoiku01-100002620_23.pdf#page=154"
+    },
+    {
+      "section": 23,
+      "subject": "電子計測制御",
+      "printed_page": 149,
+      "pdf_page": 159,
+      "url": "https://www.mext.go.jp/content/20251203-mxt_kyoiku01-100002620_23.pdf#page=159"
+    },
+    {
+      "section": 24,
+      "subject": "通信技術",
+      "printed_page": 155,
+      "pdf_page": 165,
+      "url": "https://www.mext.go.jp/content/20251203-mxt_kyoiku01-100002620_23.pdf#page=165"
+    },
+    {
+      "section": 25,
+      "subject": "プログラミング技術",
+      "printed_page": 161,
+      "pdf_page": 171,
+      "url": "https://www.mext.go.jp/content/20251203-mxt_kyoiku01-100002620_23.pdf#page=171"
+    },
+    {
+      "section": 26,
+      "subject": "ハードウェア技術",
+      "printed_page": 165,
+      "pdf_page": 175,
+      "url": "https://www.mext.go.jp/content/20251203-mxt_kyoiku01-100002620_23.pdf#page=175"
+    },
+    {
+      "section": 27,
+      "subject": "ソフトウェア技術",
+      "printed_page": 171,
+      "pdf_page": 181,
+      "url": "https://www.mext.go.jp/content/20251203-mxt_kyoiku01-100002620_23.pdf#page=181"
+    },
+    {
+      "section": 28,
+      "subject": "コンピュータシステム技術",
+      "printed_page": 176,
+      "pdf_page": 186,
+      "url": "https://www.mext.go.jp/content/20251203-mxt_kyoiku01-100002620_23.pdf#page=186"
+    },
+    {
+      "section": 29,
+      "subject": "建築構造",
+      "printed_page": 182,
+      "pdf_page": 192,
+      "url": "https://www.mext.go.jp/content/20251203-mxt_kyoiku01-100002620_23.pdf#page=192"
+    },
+    {
+      "section": 30,
+      "subject": "建築計画",
+      "printed_page": 189,
+      "pdf_page": 199,
+      "url": "https://www.mext.go.jp/content/20251203-mxt_kyoiku01-100002620_23.pdf#page=199"
+    },
+    {
+      "section": 31,
+      "subject": "建築構造設計",
+      "printed_page": 196,
+      "pdf_page": 206,
+      "url": "https://www.mext.go.jp/content/20251203-mxt_kyoiku01-100002620_23.pdf#page=206"
+    },
+    {
+      "section": 32,
+      "subject": "建築施工",
+      "printed_page": 203,
+      "pdf_page": 213,
+      "url": "https://www.mext.go.jp/content/20251203-mxt_kyoiku01-100002620_23.pdf#page=213"
+    },
+    {
+      "section": 33,
+      "subject": "建築法規",
+      "printed_page": 209,
+      "pdf_page": 219,
+      "url": "https://www.mext.go.jp/content/20251203-mxt_kyoiku01-100002620_23.pdf#page=219"
+    },
+    {
+      "section": 34,
+      "subject": "設備計画",
+      "printed_page": 213,
+      "pdf_page": 223,
+      "url": "https://www.mext.go.jp/content/20251203-mxt_kyoiku01-100002620_23.pdf#page=223"
+    },
+    {
+      "section": 35,
+      "subject": "空気調和設備",
+      "printed_page": 219,
+      "pdf_page": 229,
+      "url": "https://www.mext.go.jp/content/20251203-mxt_kyoiku01-100002620_23.pdf#page=229"
+    },
+    {
+      "section": 36,
+      "subject": "衛生・防災設備",
+      "printed_page": 226,
+      "pdf_page": 236,
+      "url": "https://www.mext.go.jp/content/20251203-mxt_kyoiku01-100002620_23.pdf#page=236"
+    },
+    {
+      "section": 37,
+      "subject": "測量",
+      "printed_page": 233,
+      "pdf_page": 243,
+      "url": "https://www.mext.go.jp/content/20251203-mxt_kyoiku01-100002620_23.pdf#page=243"
+    },
+    {
+      "section": 38,
+      "subject": "土木基盤力学",
+      "printed_page": 240,
+      "pdf_page": 250,
+      "url": "https://www.mext.go.jp/content/20251203-mxt_kyoiku01-100002620_23.pdf#page=250"
+    },
+    {
+      "section": 39,
+      "subject": "土木構造設計",
+      "printed_page": 244,
+      "pdf_page": 254,
+      "url": "https://www.mext.go.jp/content/20251203-mxt_kyoiku01-100002620_23.pdf#page=254"
+    },
+    {
+      "section": 40,
+      "subject": "土木施工",
+      "printed_page": 250,
+      "pdf_page": 260,
+      "url": "https://www.mext.go.jp/content/20251203-mxt_kyoiku01-100002620_23.pdf#page=260"
+    },
+    {
+      "section": 41,
+      "subject": "社会基盤工学",
+      "printed_page": 256,
+      "pdf_page": 266,
+      "url": "https://www.mext.go.jp/content/20251203-mxt_kyoiku01-100002620_23.pdf#page=266"
+    },
+    {
+      "section": 42,
+      "subject": "工業化学",
+      "printed_page": 262,
+      "pdf_page": 272,
+      "url": "https://www.mext.go.jp/content/20251203-mxt_kyoiku01-100002620_23.pdf#page=272"
+    },
+    {
+      "section": 43,
+      "subject": "化学工学",
+      "printed_page": 270,
+      "pdf_page": 280,
+      "url": "https://www.mext.go.jp/content/20251203-mxt_kyoiku01-100002620_23.pdf#page=280"
+    },
+    {
+      "section": 44,
+      "subject": "地球環境化学",
+      "printed_page": 276,
+      "pdf_page": 286,
+      "url": "https://www.mext.go.jp/content/20251203-mxt_kyoiku01-100002620_23.pdf#page=286"
+    },
+    {
+      "section": 45,
+      "subject": "材料製造技術",
+      "printed_page": 282,
+      "pdf_page": 292,
+      "url": "https://www.mext.go.jp/content/20251203-mxt_kyoiku01-100002620_23.pdf#page=292"
+    },
+    {
+      "section": 46,
+      "subject": "材料工学",
+      "printed_page": 289,
+      "pdf_page": 299,
+      "url": "https://www.mext.go.jp/content/20251203-mxt_kyoiku01-100002620_23.pdf#page=299"
+    },
+    {
+      "section": 47,
+      "subject": "材料加工",
+      "printed_page": 296,
+      "pdf_page": 306,
+      "url": "https://www.mext.go.jp/content/20251203-mxt_kyoiku01-100002620_23.pdf#page=306"
+    },
+    {
+      "section": 48,
+      "subject": "セラミック化学",
+      "printed_page": 302,
+      "pdf_page": 312,
+      "url": "https://www.mext.go.jp/content/20251203-mxt_kyoiku01-100002620_23.pdf#page=312"
+    },
+    {
+      "section": 49,
+      "subject": "セラミック技術",
+      "printed_page": 309,
+      "pdf_page": 319,
+      "url": "https://www.mext.go.jp/content/20251203-mxt_kyoiku01-100002620_23.pdf#page=319"
+    },
+    {
+      "section": 50,
+      "subject": "セラミック工業",
+      "printed_page": 315,
+      "pdf_page": 325,
+      "url": "https://www.mext.go.jp/content/20251203-mxt_kyoiku01-100002620_23.pdf#page=325"
+    },
+    {
+      "section": 51,
+      "subject": "繊維製品",
+      "printed_page": 322,
+      "pdf_page": 332,
+      "url": "https://www.mext.go.jp/content/20251203-mxt_kyoiku01-100002620_23.pdf#page=332"
+    },
+    {
+      "section": 52,
+      "subject": "繊維・染色技術",
+      "printed_page": 327,
+      "pdf_page": 337,
+      "url": "https://www.mext.go.jp/content/20251203-mxt_kyoiku01-100002620_23.pdf#page=337"
+    },
+    {
+      "section": 53,
+      "subject": "染織デザイン",
+      "printed_page": 332,
+      "pdf_page": 342,
+      "url": "https://www.mext.go.jp/content/20251203-mxt_kyoiku01-100002620_23.pdf#page=342"
+    },
+    {
+      "section": 54,
+      "subject": "インテリア計画",
+      "printed_page": 337,
+      "pdf_page": 347,
+      "url": "https://www.mext.go.jp/content/20251203-mxt_kyoiku01-100002620_23.pdf#page=347"
+    },
+    {
+      "section": 55,
+      "subject": "インテリア装備",
+      "printed_page": 345,
+      "pdf_page": 355,
+      "url": "https://www.mext.go.jp/content/20251203-mxt_kyoiku01-100002620_23.pdf#page=355"
+    },
+    {
+      "section": 56,
+      "subject": "インテリアエレメント生産",
+      "printed_page": 352,
+      "pdf_page": 362,
+      "url": "https://www.mext.go.jp/content/20251203-mxt_kyoiku01-100002620_23.pdf#page=362"
+    },
+    {
+      "section": 57,
+      "subject": "デザイン実践",
+      "printed_page": 358,
+      "pdf_page": 368,
+      "url": "https://www.mext.go.jp/content/20251203-mxt_kyoiku01-100002620_23.pdf#page=368"
+    },
+    {
+      "section": 58,
+      "subject": "デザイン材料",
+      "printed_page": 365,
+      "pdf_page": 375,
+      "url": "https://www.mext.go.jp/content/20251203-mxt_kyoiku01-100002620_23.pdf#page=375"
+    },
+    {
+      "section": 59,
+      "subject": "デザイン史",
+      "printed_page": 370,
+      "pdf_page": 380,
+      "url": "https://www.mext.go.jp/content/20251203-mxt_kyoiku01-100002620_23.pdf#page=380"
+    }
+  ],
+  "fields": [
+    {
+      "field": "機械と自動車と船舶",
+      "section_range": [
+        10,
+        17
+      ],
+      "subjects": [
+        "機械工作",
+        "機械設計",
+        "原動機",
+        "電子機械",
+        "生産技術",
+        "自動車工学",
+        "自動車整備",
+        "船舶工学"
+      ],
+      "printed_pages": [
+        69,
+        117
+      ],
+      "pdf_start": 79,
+      "reading_focus": "材料を加工する方法、機械の設計、動力、制御、生産、自動車や船舶を学ぶ。",
+      "lecture_example": "動く仕組みだけでなく、加工・設計・安全・環境を結び付けて紹介する。",
+      "source_url": "https://www.mext.go.jp/content/20251203-mxt_kyoiku01-100002620_23.pdf#page=79"
+    },
+    {
+      "field": "電気と電子",
+      "section_range": [
+        18,
+        24
+      ],
+      "subjects": [
+        "電気回路",
+        "電気機器",
+        "電力技術",
+        "電子技術",
+        "電子回路",
+        "電子計測制御",
+        "通信技術"
+      ],
+      "printed_pages": [
+        118,
+        160
+      ],
+      "pdf_start": 128,
+      "reading_focus": "回路、電気機器、電力、電子技術、計測制御、通信を学ぶ。",
+      "lecture_example": "回路図、測定結果、装置の動作を対応させる授業例を示す。",
+      "source_url": "https://www.mext.go.jp/content/20251203-mxt_kyoiku01-100002620_23.pdf#page=128"
+    },
+    {
+      "field": "情報技術",
+      "section_range": [
+        25,
+        28
+      ],
+      "subjects": [
+        "プログラミング技術",
+        "ハードウェア技術",
+        "ソフトウェア技術",
+        "コンピュータシステム技術"
+      ],
+      "printed_pages": [
+        161,
+        181
+      ],
+      "pdf_start": 171,
+      "reading_focus": "プログラム、ハードウェア、ソフトウェア、システムの構築や運用を学ぶ。",
+      "lecture_example": "アプリの操作だけでなく、処理の仕組みと問題解決を扱う。",
+      "source_url": "https://www.mext.go.jp/content/20251203-mxt_kyoiku01-100002620_23.pdf#page=171"
+    },
+    {
+      "field": "建築",
+      "section_range": [
+        29,
+        33
+      ],
+      "subjects": [
+        "建築構造",
+        "建築計画",
+        "建築構造設計",
+        "建築施工",
+        "建築法規"
+      ],
+      "printed_pages": [
+        182,
+        212
+      ],
+      "pdf_start": 192,
+      "reading_focus": "構造、空間の計画、構造設計、施工、法規を学ぶ。",
+      "lecture_example": "見た目に加え、使いやすさ、材料、耐震、安全、法的条件を説明する。",
+      "source_url": "https://www.mext.go.jp/content/20251203-mxt_kyoiku01-100002620_23.pdf#page=192"
+    },
+    {
+      "field": "建築設備",
+      "section_range": [
+        34,
+        36
+      ],
+      "subjects": [
+        "設備計画",
+        "空気調和設備",
+        "衛生・防災設備"
+      ],
+      "printed_pages": [
+        213,
+        232
+      ],
+      "pdf_start": 223,
+      "reading_focus": "設備の計画、空気調和、衛生や防災に関わる設備を学ぶ。",
+      "lecture_example": "建物の骨組みと生活環境を支える設備の役割を分ける。",
+      "source_url": "https://www.mext.go.jp/content/20251203-mxt_kyoiku01-100002620_23.pdf#page=223"
+    },
+    {
+      "field": "土木",
+      "section_range": [
+        37,
+        41
+      ],
+      "subjects": [
+        "測量",
+        "土木基盤力学",
+        "土木構造設計",
+        "土木施工",
+        "社会基盤工学"
+      ],
+      "printed_pages": [
+        233,
+        261
+      ],
+      "pdf_start": 243,
+      "reading_focus": "測量、土と水の力学、構造設計、施工、社会基盤の整備を学ぶ。",
+      "lecture_example": "測る・記録する・図面にする・整備を考える学びのつながりを示す。",
+      "source_url": "https://www.mext.go.jp/content/20251203-mxt_kyoiku01-100002620_23.pdf#page=243"
+    },
+    {
+      "field": "化学",
+      "section_range": [
+        42,
+        44
+      ],
+      "subjects": [
+        "工業化学",
+        "化学工学",
+        "地球環境化学"
+      ],
+      "printed_pages": [
+        262,
+        281
+      ],
+      "pdf_start": 272,
+      "reading_focus": "物質の性質と反応、製造の工程や装置、環境保全を学ぶ。",
+      "lecture_example": "実験室の反応と、工業生産の流れ・装置を扱う学習を区別する。",
+      "source_url": "https://www.mext.go.jp/content/20251203-mxt_kyoiku01-100002620_23.pdf#page=272"
+    },
+    {
+      "field": "材料",
+      "section_range": [
+        45,
+        47
+      ],
+      "subjects": [
+        "材料製造技術",
+        "材料工学",
+        "材料加工"
+      ],
+      "printed_pages": [
+        282,
+        301
+      ],
+      "pdf_start": 292,
+      "reading_focus": "材料の製造、性質と利用、加工を学ぶ。",
+      "lecture_example": "製品の用途に応じて材料や加工方法を選ぶ説明例を使う。",
+      "source_url": "https://www.mext.go.jp/content/20251203-mxt_kyoiku01-100002620_23.pdf#page=292"
+    },
+    {
+      "field": "セラミック",
+      "section_range": [
+        48,
+        50
+      ],
+      "subjects": [
+        "セラミック化学",
+        "セラミック技術",
+        "セラミック工業"
+      ],
+      "printed_pages": [
+        302,
+        321
+      ],
+      "pdf_start": 312,
+      "reading_focus": "セラミックの化学的な性質、製造技術、工業的な利用を学ぶ。",
+      "lecture_example": "身近な製品から、原料・構造・性質・製造の関係へつなぐ。",
+      "source_url": "https://www.mext.go.jp/content/20251203-mxt_kyoiku01-100002620_23.pdf#page=312"
+    },
+    {
+      "field": "繊維と染色",
+      "section_range": [
+        51,
+        53
+      ],
+      "subjects": [
+        "繊維製品",
+        "繊維・染色技術",
+        "染織デザイン"
+      ],
+      "printed_pages": [
+        322,
+        336
+      ],
+      "pdf_start": 332,
+      "reading_focus": "繊維製品、繊維や染色の技術、染織のデザインを学ぶ。",
+      "lecture_example": "外観だけでなく、材料の性質、製造、用途との関係を示す。",
+      "source_url": "https://www.mext.go.jp/content/20251203-mxt_kyoiku01-100002620_23.pdf#page=332"
+    },
+    {
+      "field": "インテリア",
+      "section_range": [
+        54,
+        56
+      ],
+      "subjects": [
+        "インテリア計画",
+        "インテリア装備",
+        "インテリアエレメント生産"
+      ],
+      "printed_pages": [
+        337,
+        357
+      ],
+      "pdf_start": 347,
+      "reading_focus": "住空間の計画、室内の装備、家具等のエレメント生産を学ぶ。",
+      "lecture_example": "使う人と空間、材料、製作が結び付く例を使う。",
+      "source_url": "https://www.mext.go.jp/content/20251203-mxt_kyoiku01-100002620_23.pdf#page=347"
+    },
+    {
+      "field": "デザイン",
+      "section_range": [
+        57,
+        59
+      ],
+      "subjects": [
+        "デザイン実践",
+        "デザイン材料",
+        "デザイン史"
+      ],
+      "printed_pages": [
+        358,
+        373
+      ],
+      "pdf_start": 368,
+      "reading_focus": "デザインの実践、材料、歴史を学ぶ。",
+      "lecture_example": "装飾の紹介だけでなく、機能や社会生活の課題を捉える学びを説明する。",
+      "source_url": "https://www.mext.go.jp/content/20251203-mxt_kyoiku01-100002620_23.pdf#page=368"
+    }
+  ]
+}

@@ -4,6 +4,10 @@
 
 [全15回の動画・演習教材](video/README.md)／[動画時間の実測と授業設計](docs/video-duration-current.md)／[要点解説・関連教材・クイズの次の改訂案](docs/microlearning-plan.md)
 
+## 学修の進め方
+
+動画視聴・資料の確認・Thinking time（考える時間）・小休止を含め、1回90分程度を目安に学修します。動画の再生時間を一律70分にそろえる構成ではありません。 [詳しい進め方](docs/study-guide.md)を確認してください。
+
 ## 教材
 
 | 回 | 内容 | スライド PPTX | スライド PDF | 学生用ガイド PDF |
@@ -68,3 +72,9 @@
 ## 演習中心の改訂版
 
 各回に8枚の演習を追加し、現在のスライドは全15回で550枚です。教材一覧のPPTX・PDFも動画と対応する版へ更新しました。概要ガイドの初期の時間配分に代わり、[各回の利用案内](video/README.md)と演習ガイドの進め方を使います。
+
+## 専門分野の補足と教材の調査
+
+[分野別解説の配置案](docs/field-study-plan.md)／[12分野と59科目の参照箇所](docs/field-subjects.md)／[土木・建築の視聴用原稿](docs/field-narration-draft.md)／[ウェブ教材の候補](docs/web-teaching-resources.md)。いずれも次の改訂用で、現行動画への反映前です。
+
+[統計を読む活動](docs/statistics-reading.md)と、Ⅱで整理する[資格・免許・検定の補足案](https://github.com/zooc-14calbp/industrial-education-ii/blob/main/docs/qualifications-plan.md)にも関連付けます。
