@@ -1,0 +1,479 @@
+{
+  "date": "2026-11-05",
+  "rubric_version": "1",
+  "scope": "reorganized lessons and mapped existing media; editorial provisional scores",
+  "dimensions": [
+    "A 説明",
+    "B 演習",
+    "C 根拠",
+    "D 読みやすさ",
+    "E 整合"
+  ],
+  "lessons": [
+    {
+      "id": "i01",
+      "number": 1,
+      "title": "工業高校と高校教育・職業教育の見取り図",
+      "before": [
+        2,
+        2,
+        2,
+        2,
+        1
+      ],
+      "after": [
+        3,
+        3,
+        2,
+        2,
+        1
+      ],
+      "before_total": 45,
+      "after_total": 55,
+      "finding": "普通教育と専門教育の関係、学科・科目・専攻科の説明が短い",
+      "remaining": "制度図を新本文に対応させ、学生による用語の試読を行う",
+      "evidence_heading": "学校案内を読むための基本用語",
+      "source_lessons": [
+        1
+      ],
+      "before_sha256": "7cead140971ec6e06c49543ec3ca282471ed3dec5db0f7c88109a699d864f494",
+      "after_sha256": "d2a2a7514072e263eb4d85b6e60711fd1f6adfe76ecf82e1e45e245f48161567",
+      "chars_added": 535,
+      "media_updated": false
+    },
+    {
+      "id": "i02",
+      "number": 2,
+      "title": "工業の専門分野と社会を支える技術",
+      "before": [
+        2,
+        3,
+        2,
+        2,
+        1
+      ],
+      "after": [
+        3,
+        3,
+        2,
+        2,
+        1
+      ],
+      "before_total": 50,
+      "after_total": 55,
+      "finding": "設備例はあるが主要分野の学ぶ対象の説明が不足",
+      "remaining": "材料・セラミック等を含む既存分野表と写真の読み取りをスライドへ統合",
+      "evidence_heading": "分野名を具体的な学習へ置き換える",
+      "source_lessons": [
+        2
+      ],
+      "before_sha256": "661f757f67faaead5b2b407a7d9c2b013be4a66201d83c1ca24def9fca355f76",
+      "after_sha256": "c0f12bc897896efe650292ff8a1b0579566f6c9750a598749c51d763d13e418d",
+      "chars_added": 603,
+      "media_updated": false
+    },
+    {
+      "id": "i03",
+      "number": 3,
+      "title": "工業高校の授業と実習を具体的に知る",
+      "before": [
+        2,
+        3,
+        2,
+        2,
+        1
+      ],
+      "after": [
+        3,
+        3,
+        3,
+        2,
+        1
+      ],
+      "before_total": 50,
+      "after_total": 60,
+      "finding": "寸法の差から合否や原因を判断する前提が不明瞭",
+      "remaining": "許容範囲を設定した別の例と実習過程図を配信版へ反映",
+      "evidence_heading": "数値と写真から実習の過程を読む",
+      "source_lessons": [
+        3
+      ],
+      "before_sha256": "b18216c755b9d32bf0053caed62ce34131543098166a89c5bda62c7613a7d0ac",
+      "after_sha256": "c847d10a05ec2c670e67a0acc9ad1003733e5628ab983dfa864262658a791d04",
+      "chars_added": 511,
+      "media_updated": false
+    },
+    {
+      "id": "i04",
+      "number": 4,
+      "title": "工業教育の歴史と地域社会と進路",
+      "before": [
+        1,
+        2,
+        2,
+        2,
+        1
+      ],
+      "after": [
+        3,
+        3,
+        2,
+        2,
+        1
+      ],
+      "before_total": 40,
+      "after_total": 55,
+      "finding": "歴史という到達目標に増補本文が対応せず、解答例も抽象的",
+      "remaining": "地域選定の理由を添えた実グラフと歴史年表を一つの授業へ統合",
+      "evidence_heading": "歴史の変化と進学率の読み方",
+      "source_lessons": [
+        4
+      ],
+      "before_sha256": "1d4d5ca518086b29c61d7dcb83076cdeb9c790e4d9d6aeb093b92322c9d72d9b",
+      "after_sha256": "3b10944a0d6897f73c28b3487139cbd6f6909c78e4c4f25ff38ec4bdee09a50e",
+      "chars_added": 628,
+      "media_updated": false
+    },
+    {
+      "id": "i05",
+      "number": 5,
+      "title": "教育法規と学習指導要領の法的根拠",
+      "before": [
+        2,
+        2,
+        2,
+        2,
+        1
+      ],
+      "after": [
+        3,
+        3,
+        2,
+        2,
+        1
+      ],
+      "before_total": 45,
+      "after_total": 55,
+      "finding": "教育基本法・学校教育法・省令・告示の関係を本文で追えない",
+      "remaining": "判例の該当箇所と現行法令の照合を担当者が再確認",
+      "evidence_heading": "法令の根拠と授業づくりの関係",
+      "source_lessons": [
+        5
+      ],
+      "before_sha256": "cbd45c9c391dc5eabb912526a61d27905284103f0dbd9e2c6b96230409bc7efa",
+      "after_sha256": "246a028c27b70645a68daec580cf583614190593be370ea1a185bf20b33ec3b0",
+      "chars_added": 818,
+      "media_updated": false
+    },
+    {
+      "id": "i06",
+      "number": 6,
+      "title": "工業科で育てる力と授業の目標",
+      "before": [
+        2,
+        2,
+        2,
+        2,
+        1
+      ],
+      "after": [
+        3,
+        3,
+        3,
+        2,
+        1
+      ],
+      "before_total": 45,
+      "after_total": 60,
+      "finding": "資質・能力の三つの柱が到達目標にあるが本文では省略",
+      "remaining": "化学等の別題材でも同じ見方を使えるか試読で確認",
+      "evidence_heading": "三つの柱を一つの活動に結び付ける",
+      "source_lessons": [
+        6
+      ],
+      "before_sha256": "3319ed72b0bc231b4d82cb7ae58678f4ba86353d9cd553f5761c03256c2e05bf",
+      "after_sha256": "16e17d9c1a8604f4a76b7c1f298399268146f19fc53b47dc16e42fda030edf8c",
+      "chars_added": 610,
+      "media_updated": false
+    },
+    {
+      "id": "i07",
+      "number": 7,
+      "title": "専門分野の科目と教育課程を読む",
+      "before": [
+        2,
+        2,
+        2,
+        2,
+        1
+      ],
+      "after": [
+        3,
+        3,
+        2,
+        2,
+        1
+      ],
+      "before_total": 45,
+      "after_total": 55,
+      "finding": "原則履修・共通科目の説明が教育課程表の読み方に接続していない",
+      "remaining": "建築・土木の実際の表で科目配置と注記を担当者が照合",
+      "evidence_heading": "原則履修と学校ごとの科目配置",
+      "source_lessons": [
+        7
+      ],
+      "before_sha256": "f36df0d46b00ba284cb96c5aace367a781ccf199f2e0a25ad183b289ed5b3e3e",
+      "after_sha256": "948b9407c5102241fa140213db0eb42fd4515611e8b83c81ca92ebea9f973b09",
+      "chars_added": 581,
+      "media_updated": false
+    },
+    {
+      "id": "i08",
+      "number": 8,
+      "title": "工業技術基礎と実習と課題研究",
+      "before": [
+        2,
+        3,
+        2,
+        2,
+        1
+      ],
+      "after": [
+        3,
+        3,
+        2,
+        2,
+        1
+      ],
+      "before_total": 50,
+      "after_total": 55,
+      "finding": "三科目の違いが単純化され、問いを絞る教師の支援が薄い",
+      "remaining": "三科目の目標と内容の取扱いの並列図を改訂版へ統合",
+      "evidence_heading": "課題研究の問いを小さく設計する",
+      "source_lessons": [
+        8
+      ],
+      "before_sha256": "4911b6d442a672b84d04b5f70c759781ef424b2c528705d4a12cb56001af0313",
+      "after_sha256": "734273c0814f0df45cb3ef472748722fdab33f6a824a87d277843c658e89b6c8",
+      "chars_added": 561,
+      "media_updated": false
+    },
+    {
+      "id": "i09",
+      "number": 9,
+      "title": "工業科の学習状況を捉え、参加と理解を支える",
+      "before": [
+        1,
+        2,
+        1,
+        2,
+        1
+      ],
+      "after": [
+        3,
+        3,
+        2,
+        2,
+        1
+      ],
+      "before_total": 35,
+      "after_total": 55,
+      "finding": "学力調査を読む到達目標に対して調査の説明と出典が不足",
+      "remaining": "工業基礎学力テストの原表・設問・参加範囲を再照合して図示",
+      "evidence_heading": "集団の調査と目の前の理解を区別する",
+      "source_lessons": [
+        9
+      ],
+      "before_sha256": "c00abe73a5e896becf7a3f3d7035fe72faeb866582cf06249863140bae2020c7",
+      "after_sha256": "f09435e10c9d00475d1a673438a402c91304a0761bf8be867309aed4f1b6e958",
+      "chars_added": 923,
+      "media_updated": false
+    },
+    {
+      "id": "i10",
+      "number": 10,
+      "title": "課題研究と教育実践研究の読み方",
+      "before": [
+        3,
+        3,
+        2,
+        2,
+        1
+      ],
+      "after": [
+        3,
+        3,
+        2,
+        2,
+        1
+      ],
+      "before_total": 55,
+      "after_total": 55,
+      "finding": "成果の区別はあるが因果関係・研究方法の説明が圧縮されている",
+      "remaining": "公刊論文と未公表の技術原稿の範囲を維持し、引用箇所を最終照合",
+      "evidence_heading": "研究で確かめるものを明確にする",
+      "source_lessons": [
+        10
+      ],
+      "before_sha256": "61cc6c9ea7a4c0cae5986ab74e4987be321c35d3654cee48dd11a99dc7ccb474",
+      "after_sha256": "d7c0891ac54496e0a71a5cea50202e5a77ba3d0b8d13e03106b72080e7eaffdc",
+      "chars_added": 541,
+      "media_updated": false
+    },
+    {
+      "id": "i11",
+      "number": 11,
+      "title": "教材研究とICTと生成AIの活用",
+      "before": [
+        2,
+        3,
+        2,
+        2,
+        1
+      ],
+      "after": [
+        3,
+        3,
+        3,
+        2,
+        1
+      ],
+      "before_total": 50,
+      "after_total": 60,
+      "finding": "AIの計算誤りの例に比べ、教材選択と視認性の説明が少ない",
+      "remaining": "修正した本文と動画の説明・字幕の対応を確認",
+      "evidence_heading": "教材の役割と生成AIの点検",
+      "source_lessons": [
+        11
+      ],
+      "before_sha256": "f95aa94f74889d018716dcbe6be517671f474862539a5373ebc27ab33dfb40cb",
+      "after_sha256": "bee2e6277b836618eaa730845de856f6d6c5b9826e10e93f3e9ff19b915e0b59",
+      "chars_added": 567,
+      "media_updated": false
+    },
+    {
+      "id": "i12",
+      "number": 12,
+      "title": "実験と実習の安全を支える指導",
+      "before": [
+        2,
+        3,
+        2,
+        2,
+        1
+      ],
+      "after": [
+        3,
+        3,
+        2,
+        2,
+        1
+      ],
+      "before_total": 50,
+      "after_total": 55,
+      "finding": "安全を支える環境と作業開始の判断が十分つながっていない",
+      "remaining": "設備固有の安全説明は実習担当者の点検を行う",
+      "evidence_heading": "安全の判断を授業の仕組みにする",
+      "source_lessons": [
+        12
+      ],
+      "before_sha256": "b81ea83d97a0ae89560bba91720065686e82d620a4f5d880849f3fcfadaf41aa",
+      "after_sha256": "3e00287c42ebc82c9e4ce40650c7d28cbf62daa759fea054ea524644387b7401",
+      "chars_added": 497,
+      "media_updated": false
+    },
+    {
+      "id": "i13",
+      "number": 13,
+      "title": "学習評価と学びの証拠",
+      "before": [
+        2,
+        3,
+        2,
+        2,
+        1
+      ],
+      "after": [
+        3,
+        3,
+        3,
+        2,
+        1
+      ],
+      "before_total": 50,
+      "after_total": 60,
+      "finding": "態度の評価と形成的な確認を具体的に説明する本文が不足",
+      "remaining": "同じ記録を複数の担当者が評価する照合例を追加",
+      "evidence_heading": "評価を次の学習へ返す",
+      "source_lessons": [
+        13
+      ],
+      "before_sha256": "e254a7023eb2c837e4a14e2947e5ee8ed6e26b56b608f428af52dfc3f4918b38",
+      "after_sha256": "b58312fd4d325f741055237c40a2bbaa15742b6bde7942388faaf89770437070",
+      "chars_added": 601,
+      "media_updated": false
+    },
+    {
+      "id": "i14",
+      "number": 14,
+      "title": "工業科教員の仕事と免許と教科経営",
+      "before": [
+        1,
+        2,
+        2,
+        2,
+        1
+      ],
+      "after": [
+        3,
+        3,
+        2,
+        2,
+        1
+      ],
+      "before_total": 40,
+      "after_total": 55,
+      "finding": "免許の教科の全体像が本文に示されていない",
+      "remaining": "免許取得可能大学の基準日を統一し、希少な教科の確認例を追加",
+      "evidence_heading": "免許と専門性を引き継ぐ仕組み",
+      "source_lessons": [
+        14
+      ],
+      "before_sha256": "065e9e742373b0ddb357bb1ec43770a1b341fa51518b2b1fdf55c46b736ccfb8",
+      "after_sha256": "b8f6d9926805f206a0e70ea9e84e0ac997cebb3c996f8c0405d424ac558c6f3f",
+      "chars_added": 747,
+      "media_updated": false
+    },
+    {
+      "id": "i15",
+      "number": 15,
+      "title": "目標と内容と指導と評価をつなぐ",
+      "before": [
+        2,
+        3,
+        2,
+        2,
+        1
+      ],
+      "after": [
+        3,
+        3,
+        3,
+        2,
+        1
+      ],
+      "before_total": 50,
+      "after_total": 60,
+      "finding": "小さな授業案の例はあるが支援・評価の点検手順が短い",
+      "remaining": "レポートBの完成例とルーブリックとの対応を試読",
+      "evidence_heading": "授業案を一つの流れとして点検する",
+      "source_lessons": [
+        15
+      ],
+      "before_sha256": "af8f1cb92bfcd3ffa5075b43fb6f93609742d843723b0a7b5c1ee529499d5328",
+      "after_sha256": "30ef6c1044b80c5d9029dbe3e8202767f12d227af29ef8120c013d00718c164d",
+      "chars_added": 486,
+      "media_updated": false
+    }
+  ]
+}
