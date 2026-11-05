@@ -268,21 +268,21 @@
       "after": [
         3,
         3,
-        2,
+        3,
         2,
         2
       ],
       "before_total": 45,
-      "after_total": 60,
+      "after_total": 65,
       "finding": "教育基本法・学校教育法・省令・告示の関係を本文で追えない",
-      "remaining": "判例の該当箇所と現行法令の照合を担当者が再確認",
+      "remaining": "判決全文・事実関係の担当者による確認と、測定授業例の試読。",
       "evidence_heading": "法令の根拠と授業づくりの関係",
       "source_lessons": [
         5
       ],
       "before_sha256": "cbd45c9c391dc5eabb912526a61d27905284103f0dbd9e2c6b96230409bc7efa",
-      "after_sha256": "66f0f7949c9f5f3c56aa3fed21585e36570d88201531bb4bae79ab520f28b015",
-      "chars_added": 818,
+      "after_sha256": "363270668613322b097d9c242a850ac5946600d23634f77ae7e5f25620f05cac",
+      "chars_added": 1998,
       "media_updated": false,
       "revision_history": [
         {
@@ -306,6 +306,28 @@
           "after_total": 60,
           "reason": "増補PPTX・PDFの説明要点、演習と説明例を本文に合わせ、頁対応と未更新媒体を記録。Eのみ1→2。",
           "before_body_sha256": "246a028c27b70645a68daec580cf583614190593be370ea1a185bf20b33ec3b0"
+        },
+        {
+          "date": "2026-11-05",
+          "stage": "法令・免許・資格の重点改稿",
+          "before": [
+            3,
+            3,
+            2,
+            2,
+            2
+          ],
+          "after": [
+            3,
+            3,
+            3,
+            2,
+            2
+          ],
+          "before_total": 60,
+          "after_total": 65,
+          "reason": "法律・省令・告示の根拠と、基準・裁量の区別を具体化。判決は教育委員会掲載の抜粋と明記。",
+          "before_body_sha256": "66f0f7949c9f5f3c56aa3fed21585e36570d88201531bb4bae79ab520f28b015"
         }
       ],
       "media_status": {
@@ -833,21 +855,21 @@
       "after": [
         3,
         3,
-        2,
+        3,
         2,
         2
       ],
       "before_total": 40,
-      "after_total": 60,
+      "after_total": 65,
       "finding": "免許の教科の全体像が本文に示されていない",
-      "remaining": "免許取得可能大学の基準日を統一し、希少な教科の確認例を追加",
+      "remaining": "希少教科の取得可能大学数の同一基準日での集計と、具体的な履修条件の確認。",
       "evidence_heading": "免許と専門性を引き継ぐ仕組み",
       "source_lessons": [
         14
       ],
       "before_sha256": "065e9e742373b0ddb357bb1ec43770a1b341fa51518b2b1fdf55c46b736ccfb8",
-      "after_sha256": "8d1993360a61704d70928567a4dae348221bc96b5d8934a941be60de4a062c82",
-      "chars_added": 747,
+      "after_sha256": "cecced02e6e817cf996e92e0119c39a4e9203ae0371f5ab9ea36a374f1367629",
+      "chars_added": 2178,
       "media_updated": false,
       "revision_history": [
         {
@@ -871,6 +893,28 @@
           "after_total": 60,
           "reason": "増補PPTX・PDFの説明要点、演習と説明例を本文に合わせ、頁対応と未更新媒体を記録。Eのみ1→2。",
           "before_body_sha256": "b8f6d9926805f206a0e70ea9e84e0ac997cebb3c996f8c0405d424ac558c6f3f"
+        },
+        {
+          "date": "2026-11-05",
+          "stage": "法令・免許・資格の重点改稿",
+          "before": [
+            3,
+            3,
+            2,
+            2,
+            2
+          ],
+          "after": [
+            3,
+            3,
+            3,
+            2,
+            2
+          ],
+          "before_total": 60,
+          "after_total": 65,
+          "reason": "免許法第4条の区分・教科を照合し、修得・授与・採用と一覧の基準日を区別。",
+          "before_body_sha256": "8d1993360a61704d70928567a4dae348221bc96b5d8934a941be60de4a062c82"
         }
       ],
       "media_status": {
