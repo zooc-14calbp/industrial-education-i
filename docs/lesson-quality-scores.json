@@ -495,21 +495,21 @@
       "after": [
         3,
         3,
-        2,
+        3,
         2,
         2
       ],
       "before_total": 50,
-      "after_total": 60,
+      "after_total": 65,
       "finding": "三科目の違いが単純化され、問いを絞る教師の支援が薄い",
-      "remaining": "三科目の目標と内容の取扱いの並列図を改訂版へ統合",
+      "remaining": "三科目の説明を既存本編へ反映し、専門的な器具を知らない受講者による試読で確かめる。",
       "evidence_heading": "課題研究の問いを小さく設計する",
       "source_lessons": [
         8
       ],
       "before_sha256": "4911b6d442a672b84d04b5f70c759781ef424b2c528705d4a12cb56001af0313",
-      "after_sha256": "97055f9e740820b4b5597496bce2a393e3cd4b2a8c1f8368c45921ed869dbcc6",
-      "chars_added": 561,
+      "after_sha256": "34f18fc6d12e7af6137877a41fc298946e67ca91b1aff8ac11da022d1071289c",
+      "chars_added": 1867,
       "media_updated": false,
       "revision_history": [
         {
@@ -533,6 +533,28 @@
           "after_total": 60,
           "reason": "増補PPTX・PDFの説明要点、演習と説明例を本文に合わせ、頁対応と未更新媒体を記録。Eのみ1→2。",
           "before_body_sha256": "734273c0814f0df45cb3ef472748722fdab33f6a824a87d277843c658e89b6c8"
+        },
+        {
+          "date": "2026-11-05",
+          "stage": "科目・研究・体験の根拠と具体例",
+          "before": [
+            3,
+            3,
+            2,
+            2,
+            2
+          ],
+          "after": [
+            3,
+            3,
+            3,
+            2,
+            2
+          ],
+          "before_total": 60,
+          "after_total": 65,
+          "reason": "工業編の三科目の目標と課題研究の取扱いを原文照合し、架空の三授業と教師の支援・生徒の判断を具体化。",
+          "before_body_sha256": "97055f9e740820b4b5597496bce2a393e3cd4b2a8c1f8368c45921ed869dbcc6"
         }
       ],
       "media_status": {
@@ -633,21 +655,21 @@
       "after": [
         3,
         3,
-        2,
+        3,
         2,
         2
       ],
       "before_total": 55,
-      "after_total": 60,
+      "after_total": 65,
       "finding": "成果の区別はあるが因果関係・研究方法の説明が圧縮されている",
-      "remaining": "公刊論文と未公表の技術原稿の範囲を維持し、引用箇所を最終照合",
+      "remaining": "既存本編へ反映。論文中の分析全体の再照合と、実践の工業への応用案を担当者が検討する。",
       "evidence_heading": "研究で確かめるものを明確にする",
       "source_lessons": [
         10
       ],
       "before_sha256": "61cc6c9ea7a4c0cae5986ab74e4987be321c35d3654cee48dd11a99dc7ccb474",
-      "after_sha256": "39d472ffa206b150b93b26ce12ad6f86c28c90953ede3277902b1f0e50b8759a",
-      "chars_added": 541,
+      "after_sha256": "286d852161db4bd4593770d9cecfdeef155f3ca2c7fcee18f5d910cbffe3a49f",
+      "chars_added": 1950,
       "media_updated": false,
       "revision_history": [
         {
@@ -671,6 +693,28 @@
           "after_total": 60,
           "reason": "増補PPTX・PDFの説明要点、演習と説明例を本文に合わせ、頁対応と未更新媒体を記録。Eのみ1→2。",
           "before_body_sha256": "d7c0891ac54496e0a71a5cea50202e5a77ba3d0b8d13e03106b72080e7eaffdc"
+        },
+        {
+          "date": "2026-11-05",
+          "stage": "科目・研究・体験の根拠と具体例",
+          "before": [
+            3,
+            3,
+            2,
+            2,
+            2
+          ],
+          "after": [
+            3,
+            3,
+            3,
+            2,
+            2
+          ],
+          "before_total": 60,
+          "after_total": 65,
+          "reason": "原論文の専門教科、対象・回答人数、調査方法と印刷頁を照合。技術・学習・感想の証拠を架空カードで分ける。",
+          "before_body_sha256": "39d472ffa206b150b93b26ce12ad6f86c28c90953ede3277902b1f0e50b8759a"
         }
       ],
       "media_status": {

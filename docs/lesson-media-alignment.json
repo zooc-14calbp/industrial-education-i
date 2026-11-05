@@ -3,8 +3,8 @@
   "scope": "再編案の増補要点スライドのみ。旧番号の本編スライド・動画は未更新。",
   "duration_policy": "動画視聴・資料の確認・考える時間・小休止を含め、1回90分程度を目安に学修します。動画自体を90分にする必要はなく、「70分＋20分」も固定の配分ではありません。時間を埋めるための説明や課題は加えず、到達目標の理解と受講生の負担を基準に調整します。",
   "files": {
-    "slides.pptx": "41be25d8ac9d0ad1bf037553cfec5323aa2d3d880abfd34e5a7c8560a6f6a042",
-    "slides.pdf": "91c1bef7e0338e9aa1a5d7a3685396eda9edd13dbf99616712c956a3aa737f89"
+    "slides.pptx": "71bf376f8c9dc1276bd62b233ab8e1103f757c5fb064e3c25fcd0fe8714923a3",
+    "slides.pdf": "22b4b7775015b01dc37566b6dc156004c491eebd3d76da78c4a237dd24ff4f86"
   },
   "verification": {
     "pages_per_course": 61,
@@ -13,7 +13,7 @@
     "activity_matches_body": true,
     "figures_preserved": true,
     "pdf_bookmarks": 15,
-    "visual_review": "前段階で全頁確認。第5段階の改訂8頁を再確認し、その他の頁は本文抽出の一致を確認。",
+    "visual_review": "前段階で全頁確認。第6段階の変更12頁を画像で確認し、他の回の頁は本文抽出の一致を確認。",
     "screen_reader_trial": "未実施"
   },
   "lessons": [
@@ -169,8 +169,8 @@
     {
       "number": 8,
       "body": "reorganized/20261105/expanded/08.md",
-      "body_sha256": "97055f9e740820b4b5597496bce2a393e3cd4b2a8c1f8368c45921ed869dbcc6",
-      "notes_body_sha256_lf": "734273c0814f0df45cb3ef472748722fdab33f6a824a87d277843c658e89b6c8",
+      "body_sha256": "34f18fc6d12e7af6137877a41fc298946e67ca91b1aff8ac11da022d1071289c",
+      "notes_body_sha256_lf": "794469bba56dec4d23b37bf2302596e3ff859704533174ca2797d357204f78ad",
       "pages": [
         30,
         31,
@@ -185,7 +185,8 @@
         "supplement_pdf": "updated",
         "original_slides": "pending",
         "videos": "pending"
-      }
+      },
+      "revision": "科目・研究・体験の根拠と具体例"
     },
     {
       "number": 9,
@@ -211,8 +212,8 @@
     {
       "number": 10,
       "body": "reorganized/20261105/expanded/10.md",
-      "body_sha256": "39d472ffa206b150b93b26ce12ad6f86c28c90953ede3277902b1f0e50b8759a",
-      "notes_body_sha256_lf": "d7c0891ac54496e0a71a5cea50202e5a77ba3d0b8d13e03106b72080e7eaffdc",
+      "body_sha256": "286d852161db4bd4593770d9cecfdeef155f3ca2c7fcee18f5d910cbffe3a49f",
+      "notes_body_sha256_lf": "6cadd8a40552fed14093c71a375f1755ee671a9aa5365893499572b728e30279",
       "pages": [
         38,
         39,
@@ -227,7 +228,8 @@
         "supplement_pdf": "updated",
         "original_slides": "pending",
         "videos": "pending"
-      }
+      },
+      "revision": "科目・研究・体験の根拠と具体例"
     },
     {
       "number": 11,
