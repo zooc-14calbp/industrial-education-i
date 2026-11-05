@@ -463,20 +463,20 @@
         3,
         3,
         2,
-        2
+        3
       ],
       "before_total": 45,
-      "after_total": 65,
+      "after_total": 70,
       "finding": "資質・能力の三つの柱が到達目標にあるが本文では省略",
-      "remaining": "化学等の別題材でも同じ見方を使えるか試読で確認",
+      "remaining": "化学等の別題材でも同じ見方を使えるか試読で確認。支援技術での読み順、担当者による発音、受講者による読解・演習時間の確認。",
       "evidence_heading": "三つの柱を一つの活動に結び付ける",
       "source_lessons": [
         6
       ],
       "before_sha256": "3319ed72b0bc231b4d82cb7ae58678f4ba86353d9cd553f5761c03256c2e05bf",
-      "after_sha256": "5760bf73fd93f13617dab4693dfa4ae20f41792754a83acd15cfddee79237c04",
+      "after_sha256": "679c1ca6eb19da550bb85cd273ca432afae74cdaa93dbf44558baeecefddbb0e",
       "chars_added": 610,
-      "media_updated": false,
+      "media_updated": true,
       "revision_history": [
         {
           "date": "2026-11-05",
@@ -499,13 +499,35 @@
           "after_total": 65,
           "reason": "増補PPTX・PDFの説明要点、演習と説明例を本文に合わせ、頁対応と未更新媒体を記録。Eのみ1→2。",
           "before_body_sha256": "16e17d9c1a8604f4a76b7c1f298399268146f19fc53b47dc16e42fda030edf8c"
+        },
+        {
+          "date": "2026-11-06",
+          "stage": "本編媒体統合第9段階",
+          "before": [
+            3,
+            3,
+            3,
+            2,
+            2
+          ],
+          "after": [
+            3,
+            3,
+            3,
+            2,
+            3
+          ],
+          "before_total": 65,
+          "after_total": 70,
+          "reason": "本文・本編・ガイド・音声・字幕・動画と新版の案内を同期。Dは読み順精査が残るため2を維持。"
         }
       ],
       "media_status": {
         "supplement_pptx": "updated",
         "supplement_pdf": "updated",
-        "original_slides": "pending",
-        "videos": "pending"
+        "original_slides": "updated_in_reorganized_main",
+        "videos": "updated_in_reorganized_main",
+        "main_entry": "reorganized/20261105/main/06/README.md"
       }
     },
     {

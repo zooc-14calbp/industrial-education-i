@@ -158,7 +158,7 @@
     {
       "number": 6,
       "body": "reorganized/20261105/expanded/06.md",
-      "body_sha256": "5760bf73fd93f13617dab4693dfa4ae20f41792754a83acd15cfddee79237c04",
+      "body_sha256": "679c1ca6eb19da550bb85cd273ca432afae74cdaa93dbf44558baeecefddbb0e",
       "notes_body_sha256_lf": "748dc90789802406ce9cb93a204e3a0a2f7f660d61aa0b0a8a0687e4610ef802",
       "pages": [
         22,
@@ -172,12 +172,16 @@
       "status": {
         "supplement_pptx": "updated",
         "supplement_pdf": "updated",
-        "original_slides": "pending",
-        "videos": "pending"
+        "original_slides": "updated_in_reorganized_main",
+        "videos": "updated_in_reorganized_main"
       },
-      "prerequisite_check": "本文の到達目標の後に問いと答えを追加。既存のスライド・PDF・動画は追加前の版。",
+      "prerequisite_check": "日常の例と比較表を本文・本編に反映し、資料の読み方を考える問いと説明例を掲載。",
       "collaboration_wording": "本文で実習中の具体的な行動を説明。Ⅰ第6回は配布用本編スライドにも例を追加。既存の動画と増補スライドは追記前。",
-      "terminology_review": "増補スライドの説明頁に用語の手がかりを追加。問いと答えは各回の本文で確認。各回の旧本編と動画は今回の改訂前。"
+      "terminology_review": "本文・本編で初出の用語を短く説明。増補要点スライドは別冊で前の版。",
+      "main_entry": "reorganized/20261105/main/06/README.md",
+      "main_manifest": "reorganized/20261105/main/06/manifest.json",
+      "main_notes_body_sha256_lf": "748dc90789802406ce9cb93a204e3a0a2f7f660d61aa0b0a8a0687e4610ef802",
+      "reading_example_update": "改訂本文を本編スライド・学習ガイド・字幕付き動画へ反映。全15回の要点スライドは別冊。"
     },
     {
       "number": 7,
