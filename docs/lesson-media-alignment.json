@@ -20,8 +20,8 @@
     {
       "number": 1,
       "body": "reorganized/20261105/expanded/01.md",
-      "body_sha256": "bb55052abdab82fa9839e28bc0929223f2e6ebfc5a3845d28d5d07b88779f786",
-      "notes_body_sha256_lf": "fee58ff8252ce319d7d18d19b5757768fa7b444bd5b7179edb1cfde6f59918e4",
+      "body_sha256": "d21d20f68148ece78249fd865793bd855c5a0640e50014a5c2f1e80fd5175f62",
+      "notes_body_sha256_lf": "26ef391e98516f54fa0dfddc720583e2f8318c551bdf2464925dd444f26a6de6",
       "pages": [
         2,
         3,
@@ -34,12 +34,15 @@
       "status": {
         "supplement_pptx": "updated",
         "supplement_pdf": "updated",
-        "original_slides": "pending",
-        "videos": "pending"
+        "original_slides": "updated_in_reorganized_main",
+        "videos": "updated_in_reorganized_main"
       },
       "prerequisite_check": "本文の到達目標の後に問いと答えを追加。既存のスライド・PDF・動画は追加前の版。",
       "terminology_review": "増補スライドの説明頁に用語の手がかりを追加。問いと答えは各回の本文で確認。各回の旧本編と動画は今回の改訂前。",
-      "reading_example_update": "2026-11-06 第1回の本文に資料の読み分けを具体化。要点スライドのノートと動画は追記前。"
+      "reading_example_update": "2026-11-06 第1回の本文に資料の読み分けを具体化。要点スライドのノートと動画は追記前。",
+      "main_entry": "reorganized/20261105/main/01/README.md",
+      "main_manifest": "reorganized/20261105/main/01/manifest.json",
+      "navigation_only_update": "本文末尾に本編入口を追加。本編スライドと動画は学校案内・就業者の例を反映。全15回の要点スライドは別冊。"
     },
     {
       "number": 2,
