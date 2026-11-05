@@ -13,7 +13,7 @@
 | 1 | [第1回 工業高校と高校教育・職業教育の見取り図](reorganized/20261105/main/01/README.md) | [PDF](reorganized/20261105/main/01/slides.pdf)・[PowerPoint](reorganized/20261105/main/01/slides.pptx)・[学習ガイド](reorganized/20261105/main/01/student-guide.pdf)・[本文](reorganized/20261105/expanded/01.md) | [動画 7:06](https://github.com/zooc-14calbp/industrial-education-i/releases/download/mainmedia-20261106-stage3/industrial-education-i-01.mp4) |
 | 2 | [第2回 工業の専門分野と社会を支える技術](reorganized/20261105/main/02/README.md) | [PDF](reorganized/20261105/main/02/slides.pdf)・[PowerPoint](reorganized/20261105/main/02/slides.pptx)・[学習ガイド](reorganized/20261105/main/02/student-guide.pdf)・[本文](reorganized/20261105/expanded/02.md) | [動画 6:37](https://github.com/zooc-14calbp/industrial-education-i/releases/download/mainmedia-20261106-stage4/industrial-education-i-02.mp4) |
 | 3 | [第3回 工業高校の授業と実習を具体的に知る](reorganized/20261105/main/03/README.md) | [PDF](reorganized/20261105/main/03/slides.pdf)・[PowerPoint](reorganized/20261105/main/03/slides.pptx)・[学習ガイド](reorganized/20261105/main/03/student-guide.pdf)・[本文](reorganized/20261105/expanded/03.md) | [動画 6:04](https://github.com/zooc-14calbp/industrial-education-i/releases/download/mainmedia-20261106-stage5/industrial-education-i-03.mp4) |
-| 4 | [第4回 工業教育の歴史と地域社会と進路](reorganized/20261105/expanded/04.md) | 本文・考える時間 | 準備中 |
+| 4 | [第4回 工業教育の歴史と地域社会と進路](reorganized/20261105/main/04/README.md) | [PDF](reorganized/20261105/main/04/slides.pdf)・[PowerPoint](reorganized/20261105/main/04/slides.pptx)・[学習ガイド](reorganized/20261105/main/04/student-guide.pdf)・[本文](reorganized/20261105/expanded/04.md) | [動画 7:58](https://github.com/zooc-14calbp/industrial-education-i/releases/download/mainmedia-20261106-stage7/industrial-education-i-04.mp4) |
 | 5 | [第5回 教育法規と学習指導要領の法的根拠](reorganized/20261105/expanded/05.md) | 本文・考える時間 | 準備中 |
 | 6 | [第6回 工業科で育てる力と授業の目標](reorganized/20261105/expanded/06.md) | 本文・考える時間 | 準備中 |
 | 7 | [第7回 専門分野の科目と教育課程を読む](reorganized/20261105/expanded/07.md) | 本文・考える時間 | 準備中 |
@@ -40,7 +40,7 @@
 
 ## 改訂情報・制作資料
 
-- 2026年11月6日　第3回の本文・スライド・学習ガイド・字幕付き動画を更新。
+- 2026年11月6日　第4回の本文・スライド・学習ガイド・字幕付き動画を更新。
 - [本編教材の更新状況](docs/main-media-status.md)
 - [Ⅰ・Ⅱ共通の授業方針](docs/teaching-policy.md)
 - [教材設計と再編の経緯](docs/reorganization-proposal-20261105.md) ／ [各回の教材点検](docs/lesson-quality-review.md)

@@ -275,20 +275,20 @@
         3,
         2,
         2,
-        2
+        3
       ],
       "before_total": 40,
-      "after_total": 60,
+      "after_total": 65,
       "finding": "歴史という到達目標に増補本文が対応せず、解答例も抽象的",
-      "remaining": "地域選定の理由を添えた実グラフと歴史年表を一つの授業へ統合",
+      "remaining": "地域選定の理由を添えた実グラフと歴史年表を一つの授業へ統合。支援技術での読み順、担当者による発音、受講者による読解・演習時間の確認。",
       "evidence_heading": "歴史の変化と進学率の読み方",
       "source_lessons": [
         4
       ],
       "before_sha256": "1d4d5ca518086b29c61d7dcb83076cdeb9c790e4d9d6aeb093b92322c9d72d9b",
-      "after_sha256": "db75f0100c3eed5d4c5820b9d2b0341f8bb743fc0c5d79ccfab3e3770b1100e2",
+      "after_sha256": "57350550ba46389bbcac77f5073f594bc8f0ed7e94d566aed4582d2f28648871",
       "chars_added": 628,
-      "media_updated": false,
+      "media_updated": true,
       "revision_history": [
         {
           "date": "2026-11-05",
@@ -311,13 +311,35 @@
           "after_total": 60,
           "reason": "増補PPTX・PDFの説明要点、演習と説明例を本文に合わせ、頁対応と未更新媒体を記録。Eのみ1→2。",
           "before_body_sha256": "3b10944a0d6897f73c28b3487139cbd6f6909c78e4c4f25ff38ec4bdee09a50e"
+        },
+        {
+          "date": "2026-11-06",
+          "stage": "本編媒体統合第7段階",
+          "before": [
+            3,
+            3,
+            2,
+            2,
+            2
+          ],
+          "after": [
+            3,
+            3,
+            2,
+            2,
+            3
+          ],
+          "before_total": 60,
+          "after_total": 65,
+          "reason": "本文・本編・ガイド・音声・字幕・動画と新版の案内を同期。Dは読み順精査が残るため2を維持。"
         }
       ],
       "media_status": {
         "supplement_pptx": "updated",
         "supplement_pdf": "updated",
-        "original_slides": "pending",
-        "videos": "pending"
+        "original_slides": "updated_in_reorganized_main",
+        "videos": "updated_in_reorganized_main",
+        "main_entry": "reorganized/20261105/main/04/README.md"
       }
     },
     {
