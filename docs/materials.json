@@ -91,11 +91,11 @@
   },
   {
     "lesson": 3,
-    "slides": 40,
+    "slides": 25,
     "status": "draft",
-    "video_recorded": false,
-    "content_minutes_planned": 70,
-    "activity_minutes_planned": 20,
+    "video_recorded": true,
+    "content_minutes_planned": null,
+    "activity_minutes_planned": null,
     "formats": {
       "slides": [
         "pptx",
@@ -106,7 +106,7 @@
       ]
     },
     "revision": 1,
-    "pdf_exported": "2026-11-04",
+    "pdf_exported": "2026-11-05",
     "total_study_time_verified": false,
     "timing_audit_date": "2026-11-04",
     "timing_status": "video_measured_activities_estimated",
@@ -120,19 +120,30 @@
       "verified": false
     },
     "video_created": true,
-    "video_status": "draft_review_pending",
-    "video_seconds": 1473.133,
+    "video_status": "revised_draft_review_pending",
+    "video_seconds": 997.967,
     "video_voice": "ja-JP-NanamiNeural",
     "video_guide": "video/03/README.md",
-    "video_slides": 40,
-    "learning_design": "exercise-first-v1",
+    "video_slides": 25,
+    "learning_design": "one_central_thinking_task",
     "student_trial_completed": false,
     "human_full_audio_review": false,
     "initial_slides": 32,
     "planned_title": "工業高校の授業と実習を具体的に知る",
     "curriculum_revision": "overall-review-20261104",
     "curriculum_plan": "lessons/03/revision-plan.md",
-    "planned_content_in_current_media": false
+    "planned_content_in_current_media": true,
+    "media_revision": "curriculum-replacement-20261105-batch1",
+    "reading_minutes_range": [
+      15,
+      20
+    ],
+    "central_thinking_minutes_range": [
+      35,
+      45
+    ],
+    "quiz_minutes_planned": 5,
+    "break_minutes_planned": 5
   },
   {
     "lesson": 4,
@@ -451,11 +462,11 @@
   },
   {
     "lesson": 11,
-    "slides": 32,
+    "slides": 27,
     "status": "draft",
-    "video_recorded": false,
-    "content_minutes_planned": 70,
-    "activity_minutes_planned": 20,
+    "video_recorded": true,
+    "content_minutes_planned": null,
+    "activity_minutes_planned": null,
     "formats": {
       "slides": [
         "pptx",
@@ -466,7 +477,7 @@
       ]
     },
     "revision": 1,
-    "pdf_exported": "2026-11-04",
+    "pdf_exported": "2026-11-05",
     "total_study_time_verified": false,
     "timing_audit_date": "2026-11-04",
     "timing_status": "video_measured_activities_estimated",
@@ -480,19 +491,30 @@
       "verified": false
     },
     "video_created": true,
-    "video_status": "draft_review_pending",
-    "video_seconds": 1130.633,
+    "video_status": "revised_draft_review_pending",
+    "video_seconds": 1141.6,
     "video_voice": "ja-JP-NanamiNeural",
     "video_guide": "video/11/README.md",
-    "video_slides": 32,
-    "learning_design": "exercise-first-v1",
+    "video_slides": 27,
+    "learning_design": "one_central_thinking_task",
     "student_trial_completed": false,
     "human_full_audio_review": false,
     "initial_slides": 24,
     "planned_title": "教材研究とICTと生成AIの活用",
     "curriculum_revision": "overall-review-20261104",
     "curriculum_plan": "lessons/11/revision-plan.md",
-    "planned_content_in_current_media": false
+    "planned_content_in_current_media": true,
+    "media_revision": "curriculum-replacement-20261105-batch1",
+    "reading_minutes_range": [
+      15,
+      20
+    ],
+    "central_thinking_minutes_range": [
+      35,
+      45
+    ],
+    "quiz_minutes_planned": 5,
+    "break_minutes_planned": 5
   },
   {
     "lesson": 12,

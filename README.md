@@ -2,6 +2,8 @@
 
 工業高校の具体的な学びを知り、学習指導要領を手がかりに目標・内容・指導・評価を理解するオンデマンド教材の制作リポジトリです。前期90分×15回を想定しています。大学の正式な公開講座や確定シラバスではなく、教材の初稿です。
 
+**2026年11月5日更新：** 全体見直しに基づく[動画・スライドの差替状況](docs/media-replacement-status.md)。Ⅰ第3・11回、Ⅱ第10回を差替済みで、他の回は順次改訂します。
+
 [全15回の動画・演習教材](video/README.md)／[動画時間の実測と授業設計](docs/video-duration-current.md)／[要点解説・関連教材・クイズの次の改訂案](docs/microlearning-plan.md)
 
 ## 見直し後の講義全体
@@ -18,7 +20,7 @@
 |---|---|---|---|---|
 | 1 | 高校教育の中の工業高校 | [PPTX](lessons/01/slides.pptx) | [PDF](lessons/01/slides.pdf) | [概要PDF](lessons/01/student-guide.pdf)・[演習PDF](lessons/01/exercise-guide.pdf) |
 | 2 | 工業高校の学科と専門分野 | [PPTX](lessons/02/slides.pptx) | [PDF](lessons/02/slides.pdf) | [概要PDF](lessons/02/student-guide.pdf)・[演習PDF](lessons/02/exercise-guide.pdf) |
-| 3 | 工業高校の授業と学校生活 | [PPTX](lessons/03/slides.pptx) | [PDF](lessons/03/slides.pdf) | [概要PDF](lessons/03/student-guide.pdf)・[演習PDF](lessons/03/exercise-guide.pdf) |
+| 3 | 工業高校の授業と実習を具体的に知る（11/5差替） | [PPTX](lessons/03/slides.pptx) | [PDF](lessons/03/slides.pdf) | [概要PDF](lessons/03/student-guide.pdf)・[演習PDF](lessons/03/exercise-guide.pdf) |
 | 4 | 工業教育の歴史と生徒の進路 | [PPTX](lessons/04/slides.pptx) | [PDF](lessons/04/slides.pdf) | [概要PDF](lessons/04/student-guide.pdf)・[演習PDF](lessons/04/exercise-guide.pdf) |
 | 5 | 学習指導要領の法的根拠と読み方 | [PPTX](lessons/05/slides.pptx) | [PDF](lessons/05/slides.pdf) | [概要PDF](lessons/05/student-guide.pdf)・[演習PDF](lessons/05/exercise-guide.pdf) |
 | 6 | 工業科の目標と育成する資質と能力 | [PPTX](lessons/06/slides.pptx) | [PDF](lessons/06/slides.pdf) | [概要PDF](lessons/06/student-guide.pdf)・[演習PDF](lessons/06/exercise-guide.pdf) |
@@ -26,7 +28,7 @@
 | 8 | 工業技術基礎と実習と課題研究の検討 | [PPTX](lessons/08/slides.pptx) | [PDF](lessons/08/slides.pdf) | [概要PDF](lessons/08/student-guide.pdf)・[演習PDF](lessons/08/exercise-guide.pdf) |
 | 9 | 生徒の学習状況と専門科目の指導上の配慮 | [PPTX](lessons/09/slides.pptx) | [PDF](lessons/09/slides.pdf) | [概要PDF](lessons/09/student-guide.pdf)・[演習PDF](lessons/09/exercise-guide.pdf) |
 | 10 | 高校における課題学習の設計と実践 | [PPTX](lessons/10/slides.pptx) | [PDF](lessons/10/slides.pdf) | [概要PDF](lessons/10/student-guide.pdf)・[演習PDF](lessons/10/exercise-guide.pdf) |
-| 11 | 工業科の授業づくりと教材研究 | [PPTX](lessons/11/slides.pptx) | [PDF](lessons/11/slides.pdf) | [概要PDF](lessons/11/student-guide.pdf)・[演習PDF](lessons/11/exercise-guide.pdf) |
+| 11 | 教材研究とICTと生成AIの活用（11/5差替） | [PPTX](lessons/11/slides.pptx) | [PDF](lessons/11/slides.pdf) | [概要PDF](lessons/11/student-guide.pdf)・[演習PDF](lessons/11/exercise-guide.pdf) |
 | 12 | 実験と実習の指導と安全 | [PPTX](lessons/12/slides.pptx) | [PDF](lessons/12/slides.pdf) | [概要PDF](lessons/12/student-guide.pdf)・[演習PDF](lessons/12/exercise-guide.pdf) |
 | 13 | 工業科における学習評価 | [PPTX](lessons/13/slides.pptx) | [PDF](lessons/13/slides.pdf) | [概要PDF](lessons/13/student-guide.pdf)・[演習PDF](lessons/13/exercise-guide.pdf) |
 | 14 | 工業科教員の仕事と教科経営 | [PPTX](lessons/14/slides.pptx) | [PDF](lessons/14/slides.pdf) | [概要PDF](lessons/14/student-guide.pdf)・[演習PDF](lessons/14/exercise-guide.pdf) |
@@ -52,7 +54,7 @@
 
 2026年11月4日、全15回にPDFを追加しました。第1回は第2稿として、学科と課程の区別、教科・科目・教育課程の用語、実習の学びの流れを図表で補い、レポート2本の案内を統一しました。個人の出身校や経験の提示を求めず、公開資料と架空事例で考えられる導入にしています。
 
-第2～15回は1周目の初稿です。[全15回の構成点検と次の改訂](docs/second-pass-review.md)に、重複の整理、具体例の追加、活動の見直しを記録しています。
+第2～15回の旧版は1周目の初稿です。第3・11回は上記の差替状況を優先してください。[全15回の構成点検と次の改訂](docs/second-pass-review.md)に、重複の整理、具体例の追加、活動の見直しを記録しています。
 
 ## 更新
 

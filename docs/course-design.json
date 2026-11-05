@@ -3,7 +3,7 @@
   "review_date": "2026-11-04",
   "course": "Ⅰ",
   "aim": "工業高校の学習目標・内容・指導・評価を、専門分野と具体的な授業の姿から理解する。",
-  "status": "design_review_complete_media_revision_pending",
+  "status": "design_review_complete_media_partially_rebuilt",
   "lesson_count": 15,
   "minutes_target": 90,
   "includes": [
@@ -164,7 +164,7 @@
       "lesson": 3,
       "course": "Ⅰ",
       "course_slug": "i",
-      "status": "reviewed_design_media_not_rebuilt",
+      "status": "media_rebuilt_instructor_review_pending",
       "existing_title": "工業高校の授業と学校生活",
       "existing_slides": 40,
       "existing_video_seconds": 1473.1333333333334,
@@ -192,7 +192,11 @@
           "徳島科学技術高校 令和8年度教育課程",
           "https://tokushima-hst.tokushima-ec.ed.jp/prospetus/curriculum"
         ]
-      }
+      },
+      "media_revision": "curriculum-replacement-20261105-batch1",
+      "current_video_seconds": 997.967,
+      "current_slides": 25,
+      "current_content_sha256": "c6f7ea69db676ea8c0f1a30451df3a75afcedc1f13c26d6ac458585324af269b"
     },
     {
       "title": "工業教育の歴史と地域社会と進路",
@@ -608,7 +612,7 @@
       "lesson": 11,
       "course": "Ⅰ",
       "course_slug": "i",
-      "status": "reviewed_design_media_not_rebuilt",
+      "status": "media_rebuilt_instructor_review_pending",
       "existing_title": "工業科の授業づくりと教材研究",
       "existing_slides": 32,
       "existing_video_seconds": 1130.6333333333332,
@@ -628,7 +632,11 @@
           "国立教育政策研究所 指導と評価の一体化 工業 第1編・第3編",
           "https://www.nier.go.jp/kaihatsu/pdf/hyouka/r030820_hig_kougyou.pdf"
         ]
-      }
+      },
+      "media_revision": "curriculum-replacement-20261105-batch1",
+      "current_video_seconds": 1141.6,
+      "current_slides": 27,
+      "current_content_sha256": "209d1521c0716d6072d732cdfe8099b93d00335269150b5607725e7ef53b10d7"
     },
     {
       "title": "実験と実習の安全を支える指導",
@@ -819,5 +827,6 @@
         ]
       }
     }
-  ]
+  ],
+  "media_revision_date": "2026-11-05"
 }

@@ -1,89 +1,96 @@
 {
-  "status": "draft_review_pending",
-  "created": "2026-11-04",
+  "course": "工業科教育論Ⅰ",
+  "lesson": 11,
+  "title": "教材研究とICTと生成AIの活用",
+  "revision": "curriculum-replacement-20261105-batch1",
+  "created": "2026-11-05",
   "voice": "ja-JP-NanamiNeural",
-  "voice_display_name": "Nanami (Natural)",
   "rate": "-5%",
   "pitch": "+0Hz",
-  "seconds": 1130.6333333333332,
-  "fps": 30,
-  "slides": 32,
-  "captions": 180,
-  "visual_design": "long-view-v1",
-  "learning_design": "exercise-first-v1",
+  "slides": 27,
+  "seconds": 1141.6,
+  "video_seconds": 1141.6,
+  "status": "revised_draft_review_pending",
+  "learning_design": "one_central_thinking_task",
   "total_study_time_verified": false,
   "student_trial_completed": false,
   "human_full_audio_review": false,
   "timing": {
     "course": "Ⅰ",
     "lesson": 11,
-    "title": "工業科の授業づくりと教材研究",
-    "video_seconds": 1130.633,
-    "video_minutes": 18.84,
-    "reading_minutes_min": 5,
-    "reading_minutes_max": 10,
-    "existing_thinking_minutes": 15,
+    "title": "教材研究とICTと生成AIの活用",
+    "video_seconds": 1141.6,
+    "video_minutes": 19.03,
+    "reading_minutes_min": 15,
+    "reading_minutes_max": 20,
+    "existing_thinking_minutes": 5,
     "break_minutes": 5,
-    "basic_exercise_minutes_min": 24,
-    "basic_exercise_minutes_max": 30,
-    "optional_exercise_minutes": 10,
-    "basic_total_minutes_min": 67.8,
-    "basic_total_minutes_max": 78.8,
-    "including_optional_minutes_max": 88.8,
+    "basic_exercise_minutes_min": 35,
+    "basic_exercise_minutes_max": 45,
+    "optional_exercise_minutes": 0,
+    "basic_total_minutes_min": 79.0,
+    "basic_total_minutes_max": 94.0,
+    "including_optional_minutes_max": 94.0,
     "student_trial_completed": false,
     "human_full_audio_review": false
   },
-  "video_url": "https://github.com/zooc-14calbp/industrial-education-i/releases/download/videos-exercise-first-20261104/industrial-education-i-11.mp4",
-  "audio_url": "https://github.com/zooc-14calbp/industrial-education-i/releases/download/videos-exercise-first-20261104/industrial-education-i-11-audio.mp3",
+  "video_url": "https://github.com/zooc-14calbp/industrial-education-i/releases/download/curriculum-replacement-20261105-batch1/industrial-education-i-11.mp4",
+  "audio_url": "https://github.com/zooc-14calbp/industrial-education-i/releases/download/curriculum-replacement-20261105-batch1/industrial-education-i-11-audio.mp3",
   "files": {
     "slides.pptx": {
-      "bytes": 145156,
-      "sha256": "212487fb13ba38735bb0c1b771636abf3e6dd879fdbcc1deb61e82fa2e05f2f1"
+      "bytes": 120259,
+      "sha256": "a6e31cd0ba7876614ee4f0d65b1d656f4a56648e92d39419c6dd4c664c79a036"
     },
     "slides.pdf": {
-      "bytes": 441037,
-      "sha256": "363282fd8d4512ccafcb68e7012a0cf029c2956d26aa47c730c6348918be51c1"
+      "bytes": 380052,
+      "sha256": "4cf48326b569dbf109e77e764a23f759e6cd482cebaaf2c10864144fe2696b61"
+    },
+    "student-guide.pdf": {
+      "bytes": 118880,
+      "sha256": "e9314173edd53c7f3db398b58242e3d7a19d38843dce843e1b7a6141d7aa174c"
     },
     "exercise-guide.pdf": {
-      "bytes": 108758,
-      "sha256": "2020ada03d0d6de802a4a9b847d5455ee3c2ecfe6f14b9eb035fbfc53d13fdf4"
-    },
-    "exercise.md": {
-      "bytes": 2160,
-      "sha256": "f7f63331dbdb24a3d400f915b6dce736a9836dfb75103990a89b20a7602635c2"
-    },
-    "captions.srt": {
-      "bytes": 21322,
-      "sha256": "3dd681fea6c8b6495a14836fca3ddabee3dbfaa7fea05dd4fbd8babff9ecc464"
-    },
-    "captions.vtt": {
-      "bytes": 20540,
-      "sha256": "1fecb887c26c91f997eb9a3a823decb73e015ce219018579f89120cd31bf3bde"
-    },
-    "narration.txt": {
-      "bytes": 15298,
-      "sha256": "6c2548a07b067bd222f1028691961522adace05aa5bd550b3c6a5e90147fbc15"
+      "bytes": 118880,
+      "sha256": "e9314173edd53c7f3db398b58242e3d7a19d38843dce843e1b7a6141d7aa174c"
     },
     "content.json": {
-      "bytes": 45431,
-      "sha256": "763eb244fecf31d221f27d5e24a2970f1717b4ac405cc490f5a4e256bd56a5ba"
+      "bytes": 49006,
+      "sha256": "209d1521c0716d6072d732cdfe8099b93d00335269150b5607725e7ef53b10d7"
+    },
+    "captions.srt": {
+      "bytes": 22120,
+      "sha256": "e169cb2e5364e0bf63f8f7c269fa8dd56ea0fcce869f74034bbfc13c0b6c7f48"
+    },
+    "captions.vtt": {
+      "bytes": 21378,
+      "sha256": "be94a02a18944dbf215fa87d87c09f21ef9701b47a61288ceece7fb3609a2c33"
+    },
+    "narration.txt": {
+      "bytes": 16467,
+      "sha256": "4337b0dfe540f1149fae5fcc771600d2ac2052e8538405de840a644242eb7de4"
     },
     "timeline.json": {
-      "bytes": 8784,
-      "sha256": "02ed6042157e840b7bceb549ad9b246ac924cb6266ac555b12760f31800a90f6"
+      "bytes": 7638,
+      "sha256": "e3555ff4beb47bbcb20818a5bedfbe27190da45324654a1de40262b9db8ea53e"
+    },
+    "exercise.md": {
+      "bytes": 1043,
+      "sha256": "5351b9c23cd153bd89b4e15f854add58ed5a9fd53512ee002c23b95bea9ec860"
+    },
+    "README.md": {
+      "bytes": 2999,
+      "sha256": "6fe4408937329f9c7363220ad72bb893310c68b47bd25c5bea9fe911985566bf"
     },
     "industrial-education-i-11.mp4": {
-      "bytes": 64354912,
-      "sha256": "2e802c87a79c7084b0b88b10db97f6f22db58bccf1e1ebe2eae3c5c6ebb1c10a"
+      "bytes": 61296441,
+      "sha256": "c6fae2de92913e67b4e3af3bb52cb2dfba4c2ee59914b9b11efb56d63caae8a0"
     },
     "industrial-education-i-11-audio.mp3": {
-      "bytes": 13568588,
-      "sha256": "5025c48f7e4f97a75a07132709e74092c06d5442bf4cd95a4b8ab2e17afe76b0"
+      "bytes": 13700204,
+      "sha256": "06828abcfb9c63e97fc07e0f432df46f79a7ec46a9ade4b6209a99eec5843d24"
     }
   },
-  "timing_panel_revision": "exercise-first-v1",
-  "study_instructions": "thinking_time_included_90min_target",
   "curriculum_plan": "lessons/11/revision-plan.md",
   "curriculum_revision": "overall-review-20261104",
-  "planned_content_in_current_media": false
+  "planned_content_in_current_media": true
 }
