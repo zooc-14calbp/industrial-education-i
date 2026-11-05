@@ -109,20 +109,20 @@
         3,
         2,
         2,
-        2
+        3
       ],
       "before_total": 50,
-      "after_total": 60,
+      "after_total": 65,
       "finding": "設備例はあるが主要分野の学ぶ対象の説明が不足",
-      "remaining": "材料・セラミック等を含む既存分野表と写真の読み取りをスライドへ統合",
+      "remaining": "材料・セラミック等を含む既存分野表と写真の読み取りをスライドへ統合。支援技術での読み順、担当者による発音、受講者による読解・演習時間の確認。",
       "evidence_heading": "分野名を具体的な学習へ置き換える",
       "source_lessons": [
         2
       ],
       "before_sha256": "661f757f67faaead5b2b407a7d9c2b013be4a66201d83c1ca24def9fca355f76",
-      "after_sha256": "12e0ea55b7231e5157a0b91d4861dbcc0ab26725130bd4503cd529c23ee60545",
+      "after_sha256": "af379fa9eb3e1f942475a844b1ae5f46dd9604dd397a31502ee32f4e9cbadb02",
       "chars_added": 603,
-      "media_updated": false,
+      "media_updated": true,
       "revision_history": [
         {
           "date": "2026-11-05",
@@ -145,13 +145,35 @@
           "after_total": 60,
           "reason": "増補PPTX・PDFの説明要点、演習と説明例を本文に合わせ、頁対応と未更新媒体を記録。Eのみ1→2。",
           "before_body_sha256": "c0f12bc897896efe650292ff8a1b0579566f6c9750a598749c51d763d13e418d"
+        },
+        {
+          "date": "2026-11-06",
+          "stage": "本編媒体統合第4段階",
+          "before": [
+            3,
+            3,
+            2,
+            2,
+            2
+          ],
+          "after": [
+            3,
+            3,
+            2,
+            2,
+            3
+          ],
+          "before_total": 60,
+          "after_total": 65,
+          "reason": "本文・本編・ガイド・音声・字幕・動画と新版の案内を同期。Dは読み順精査が残るため2を維持。"
         }
       ],
       "media_status": {
         "supplement_pptx": "updated",
         "supplement_pdf": "updated",
-        "original_slides": "pending",
-        "videos": "pending"
+        "original_slides": "updated_in_reorganized_main",
+        "videos": "updated_in_reorganized_main",
+        "main_entry": "reorganized/20261105/main/02/README.md"
       }
     },
     {

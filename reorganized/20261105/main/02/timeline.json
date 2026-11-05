@@ -1,0 +1,166 @@
+{
+  "seconds": 397.36666666666673,
+  "fps": 30,
+  "slides": 15,
+  "captions": 58,
+  "voice": "ja-JP-NanamiNeural",
+  "rate": "-5%",
+  "pause_minutes_planned": 20,
+  "reading_minutes_planned": null,
+  "combined_minutes_planned": null,
+  "student_trial_completed": false,
+  "timeline": [
+    {
+      "slide": 1,
+      "title": "工業の専門分野と社会を支える技術",
+      "start": 0,
+      "end": 17.566666666666666,
+      "seconds": 17.566666666666666,
+      "spoken_seconds": 16.056,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 2,
+      "title": "この回の到達目標",
+      "start": 17.566666666666666,
+      "end": 31.9,
+      "seconds": 14.333333333333334,
+      "spoken_seconds": 12.816,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 3,
+      "title": "考える時間を含む学び方",
+      "start": 31.9,
+      "end": 52.86666666666666,
+      "seconds": 20.966666666666665,
+      "spoken_seconds": 19.464,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 4,
+      "title": "水が出ないとき、何から確かめるか",
+      "start": 52.86666666666666,
+      "end": 85.0,
+      "seconds": 32.13333333333333,
+      "spoken_seconds": 30.624,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 5,
+      "title": "道路から各階まで水を届ける",
+      "start": 85.0,
+      "end": 113.26666666666667,
+      "seconds": 28.266666666666666,
+      "spoken_seconds": 26.76,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 6,
+      "title": "給水設備のどこを見るか",
+      "start": 113.26666666666667,
+      "end": 136.03333333333333,
+      "seconds": 22.766666666666666,
+      "spoken_seconds": 21.264,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 7,
+      "title": "機械・電気・電子・情報",
+      "start": 136.03333333333333,
+      "end": 176.86666666666667,
+      "seconds": 40.833333333333336,
+      "spoken_seconds": 39.312,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 8,
+      "title": "建築・土木・化学・材料",
+      "start": 176.86666666666667,
+      "end": 208.9,
+      "seconds": 32.03333333333333,
+      "spoken_seconds": 30.504,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 9,
+      "title": "指導要領の解説で学ぶ内容を見る",
+      "start": 208.9,
+      "end": 252.8,
+      "seconds": 43.9,
+      "spoken_seconds": 42.384,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 10,
+      "title": "学校の科目表と実習紹介で比べる",
+      "start": 252.8,
+      "end": 288.6,
+      "seconds": 35.8,
+      "spoken_seconds": 34.272,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 11,
+      "title": "考える時間：一つの問い",
+      "start": 288.6,
+      "end": 325.23333333333335,
+      "seconds": 36.63333333333333,
+      "spoken_seconds": 35.112,
+      "pause_minutes": 15,
+      "exercise": true
+    },
+    {
+      "slide": 12,
+      "title": "自分の説明を確かめる",
+      "start": 325.23333333333335,
+      "end": 335.6666666666667,
+      "seconds": 10.433333333333334,
+      "spoken_seconds": 8.904,
+      "pause_minutes": 5,
+      "exercise": true
+    },
+    {
+      "slide": 13,
+      "title": "説明例",
+      "start": 335.6666666666667,
+      "end": 352.83333333333337,
+      "seconds": 17.166666666666668,
+      "spoken_seconds": 15.648,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 14,
+      "title": "今回の学びを次へ",
+      "start": 352.83333333333337,
+      "end": 375.2666666666667,
+      "seconds": 22.433333333333334,
+      "spoken_seconds": 20.928,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 15,
+      "title": "参考資料：読む場所",
+      "start": 375.2666666666667,
+      "end": 397.36666666666673,
+      "seconds": 22.1,
+      "spoken_seconds": 20.592,
+      "pause_minutes": 0,
+      "exercise": false
+    }
+  ],
+  "study_time_verified": false,
+  "duration_note": "視聴・読解・考える時間・小休止を含む90分程度が目標。学生試用は未実施。動画と停止箇所の単純合計を授業時間としない。"
+}
