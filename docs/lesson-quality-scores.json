@@ -546,20 +546,20 @@
         3,
         3,
         2,
-        2
+        3
       ],
       "before_total": 45,
-      "after_total": 65,
+      "after_total": 70,
       "finding": "原則履修・共通科目の説明が教育課程表の読み方に接続していない",
-      "remaining": "選択記号の全組合せ、実習題材・評価計画、代替の内容対応を学校資料で確認する。",
+      "remaining": "選択記号の全組合せ、実習題材・評価計画、代替の内容対応を学校資料で確認する。支援技術での読み順、担当者による発音、受講者による読解・演習時間の確認。",
       "evidence_heading": "原則履修と学校ごとの科目配置",
       "source_lessons": [
         7
       ],
       "before_sha256": "f36df0d46b00ba284cb96c5aace367a781ccf199f2e0a25ad183b289ed5b3e3e",
-      "after_sha256": "6313371dac7adf604b22b185eb9a37e0817b64c1db16e5018120f960f53791b1",
+      "after_sha256": "c875c1b559cdd2f73e85b1c2181c6cfa3536fda0ccb14bbfc810cb15b4a95c7a",
       "chars_added": 2072,
-      "media_updated": false,
+      "media_updated": true,
       "revision_history": [
         {
           "date": "2026-11-05",
@@ -604,13 +604,35 @@
           "after_total": 65,
           "reason": "学校公表の教育課程表を画像と本文で照合。入学年度、実習・製図の配当、代替の脚注を具体化。",
           "before_body_sha256": "971c7085d64a0f35e70a0639d455bbfe1c6549d6f52d03ce1fd38d23b3f9f8f1"
+        },
+        {
+          "date": "2026-11-06",
+          "stage": "本編媒体統合第10段階",
+          "before": [
+            3,
+            3,
+            3,
+            2,
+            2
+          ],
+          "after": [
+            3,
+            3,
+            3,
+            2,
+            3
+          ],
+          "before_total": 65,
+          "after_total": 70,
+          "reason": "本文・本編・ガイド・音声・字幕・動画と新版の案内を同期。Dは読み順精査が残るため2を維持。"
         }
       ],
       "media_status": {
         "supplement_pptx": "updated",
         "supplement_pdf": "updated",
-        "original_slides": "pending",
-        "videos": "pending"
+        "original_slides": "updated_in_reorganized_main",
+        "videos": "updated_in_reorganized_main",
+        "main_entry": "reorganized/20261105/main/07/README.md"
       }
     },
     {

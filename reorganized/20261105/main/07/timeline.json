@@ -1,0 +1,286 @@
+{
+  "seconds": 685.1333333333333,
+  "fps": 30,
+  "slides": 27,
+  "captions": 102,
+  "voice": "ja-JP-NanamiNeural",
+  "rate": "-5%",
+  "pause_minutes_planned": 20,
+  "reading_minutes_planned": null,
+  "combined_minutes_planned": null,
+  "student_trial_completed": false,
+  "timeline": [
+    {
+      "slide": 1,
+      "title": "専門分野の科目と教育課程を読む",
+      "start": 0,
+      "end": 17.533333333333335,
+      "seconds": 17.533333333333335,
+      "spoken_seconds": 16.032,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 2,
+      "title": "この回の到達目標",
+      "start": 17.533333333333335,
+      "end": 33.1,
+      "seconds": 15.566666666666666,
+      "spoken_seconds": 14.04,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 3,
+      "title": "考える時間を含む学び方",
+      "start": 33.1,
+      "end": 54.06666666666666,
+      "seconds": 20.966666666666665,
+      "spoken_seconds": 19.464,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 4,
+      "title": "言葉を使って確かめる",
+      "start": 54.06666666666666,
+      "end": 67.19999999999999,
+      "seconds": 13.133333333333333,
+      "spoken_seconds": 11.616,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 5,
+      "title": "言葉を使って確かめる：答え",
+      "start": 67.19999999999999,
+      "end": 85.56666666666666,
+      "seconds": 18.366666666666667,
+      "spoken_seconds": 16.848,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 6,
+      "title": "原則履修と学校ごとの科目配置",
+      "start": 85.56666666666666,
+      "end": 116.23333333333333,
+      "seconds": 30.666666666666668,
+      "spoken_seconds": 29.16,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 7,
+      "title": "原則履修と学校ごとの科目配置（2）",
+      "start": 116.23333333333333,
+      "end": 152.66666666666666,
+      "seconds": 36.43333333333333,
+      "spoken_seconds": 34.92,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 8,
+      "title": "原則履修と学校ごとの科目配置（3）",
+      "start": 152.66666666666666,
+      "end": 185.36666666666667,
+      "seconds": 32.7,
+      "spoken_seconds": 31.176,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 9,
+      "title": "実際の表を読む：まず入学年度をそろえる",
+      "start": 185.36666666666667,
+      "end": 223.3,
+      "seconds": 37.93333333333333,
+      "spoken_seconds": 36.432,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 10,
+      "title": "実際の表を読む：まず入学年度をそろえる（2）",
+      "start": 223.3,
+      "end": 255.5,
+      "seconds": 32.2,
+      "spoken_seconds": 30.672,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 11,
+      "title": "土木と建築の科目配置を比べる",
+      "start": 255.5,
+      "end": 279.73333333333335,
+      "seconds": 24.233333333333334,
+      "spoken_seconds": 22.704,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 12,
+      "title": "実際の表を読む：まず入学年度をそろえる（3）",
+      "start": 279.73333333333335,
+      "end": 314.83333333333337,
+      "seconds": 35.1,
+      "spoken_seconds": 33.6,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 13,
+      "title": "科目名が見つからないときは、脚注を読む",
+      "start": 314.83333333333337,
+      "end": 349.80000000000007,
+      "seconds": 34.96666666666667,
+      "spoken_seconds": 33.456,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 14,
+      "title": "科目名が見つからないときは、脚注を読む（2）",
+      "start": 349.80000000000007,
+      "end": 361.6333333333334,
+      "seconds": 11.833333333333334,
+      "spoken_seconds": 10.32,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 15,
+      "title": "科目名が見つからないときは、脚注を読む（3）",
+      "start": 361.6333333333334,
+      "end": 394.33333333333337,
+      "seconds": 32.7,
+      "spoken_seconds": 31.176,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 16,
+      "title": "科目名が見つからないときは、脚注を読む（4）",
+      "start": 394.33333333333337,
+      "end": 418.40000000000003,
+      "seconds": 24.066666666666666,
+      "spoken_seconds": 22.56,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 17,
+      "title": "数字から学習内容へ戻る",
+      "start": 418.40000000000003,
+      "end": 450.1,
+      "seconds": 31.7,
+      "spoken_seconds": 30.192,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 18,
+      "title": "数字から学習内容へ戻る（2）",
+      "start": 450.1,
+      "end": 483.8666666666667,
+      "seconds": 33.766666666666666,
+      "spoken_seconds": 32.256,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 19,
+      "title": "考える時間：一つの問い",
+      "start": 483.8666666666667,
+      "end": 517.8,
+      "seconds": 33.93333333333333,
+      "spoken_seconds": 32.424,
+      "pause_minutes": 15,
+      "exercise": true
+    },
+    {
+      "slide": 20,
+      "title": "自分の説明を確かめる",
+      "start": 517.8,
+      "end": 535.5666666666666,
+      "seconds": 17.766666666666666,
+      "spoken_seconds": 16.248,
+      "pause_minutes": 5,
+      "exercise": true
+    },
+    {
+      "slide": 21,
+      "title": "説明例",
+      "start": 535.5666666666666,
+      "end": 558.5333333333333,
+      "seconds": 22.966666666666665,
+      "spoken_seconds": 21.456,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 22,
+      "title": "今回の学びを次へ",
+      "start": 558.5333333333333,
+      "end": 582.1999999999999,
+      "seconds": 23.666666666666668,
+      "spoken_seconds": 22.152,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 23,
+      "title": "参考資料：読む場所",
+      "start": 582.1999999999999,
+      "end": 604.0999999999999,
+      "seconds": 21.9,
+      "spoken_seconds": 20.4,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 24,
+      "title": "参考資料：読む場所",
+      "start": 604.0999999999999,
+      "end": 625.6666666666666,
+      "seconds": 21.566666666666666,
+      "spoken_seconds": 20.04,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 25,
+      "title": "参考資料：読む場所",
+      "start": 625.6666666666666,
+      "end": 646.3666666666667,
+      "seconds": 20.7,
+      "spoken_seconds": 19.176,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 26,
+      "title": "参考資料：読む場所",
+      "start": 646.3666666666667,
+      "end": 666.0,
+      "seconds": 19.633333333333333,
+      "spoken_seconds": 18.12,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 27,
+      "title": "参考資料：読む場所",
+      "start": 666.0,
+      "end": 685.1333333333333,
+      "seconds": 19.133333333333333,
+      "spoken_seconds": 17.616,
+      "pause_minutes": 0,
+      "exercise": false
+    }
+  ],
+  "study_time_verified": false,
+  "duration_note": "視聴・読解・考える時間・小休止を含む90分程度が目標。学生試用は未実施。動画と停止箇所の単純合計を授業時間としない。"
+}
