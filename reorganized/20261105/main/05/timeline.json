@@ -1,0 +1,336 @@
+{
+  "seconds": 740.6333333333333,
+  "fps": 30,
+  "slides": 32,
+  "captions": 110,
+  "voice": "ja-JP-NanamiNeural",
+  "rate": "-5%",
+  "pause_minutes_planned": 20,
+  "reading_minutes_planned": null,
+  "combined_minutes_planned": null,
+  "student_trial_completed": false,
+  "timeline": [
+    {
+      "slide": 1,
+      "title": "教育法規と学習指導要領の法的根拠",
+      "start": 0,
+      "end": 17.966666666666665,
+      "seconds": 17.966666666666665,
+      "spoken_seconds": 16.464,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 2,
+      "title": "この回の到達目標",
+      "start": 17.966666666666665,
+      "end": 34.46666666666667,
+      "seconds": 16.5,
+      "spoken_seconds": 15.0,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 3,
+      "title": "考える時間を含む学び方",
+      "start": 34.46666666666667,
+      "end": 55.43333333333334,
+      "seconds": 20.966666666666665,
+      "spoken_seconds": 19.464,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 4,
+      "title": "学校が必ずやることは、どこで決まるか",
+      "start": 55.43333333333334,
+      "end": 78.86666666666667,
+      "seconds": 23.433333333333334,
+      "spoken_seconds": 21.912,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 5,
+      "title": "学校が必ずやることは、どこで決まるか（2）",
+      "start": 78.86666666666667,
+      "end": 99.26666666666668,
+      "seconds": 20.4,
+      "spoken_seconds": 18.888,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 6,
+      "title": "言葉を使って確かめる",
+      "start": 99.26666666666668,
+      "end": 110.70000000000002,
+      "seconds": 11.433333333333334,
+      "spoken_seconds": 9.912,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 7,
+      "title": "言葉を使って確かめる：答え",
+      "start": 110.70000000000002,
+      "end": 131.9666666666667,
+      "seconds": 21.266666666666666,
+      "spoken_seconds": 19.752,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 8,
+      "title": "言葉を使って確かめる（3）",
+      "start": 131.9666666666667,
+      "end": 154.8666666666667,
+      "seconds": 22.9,
+      "spoken_seconds": 21.384,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 9,
+      "title": "法令の根拠と授業づくりの関係",
+      "start": 154.8666666666667,
+      "end": 193.83333333333337,
+      "seconds": 38.96666666666667,
+      "spoken_seconds": 37.464,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 10,
+      "title": "法令の根拠と授業づくりの関係（2）",
+      "start": 193.83333333333337,
+      "end": 234.10000000000002,
+      "seconds": 40.266666666666666,
+      "spoken_seconds": 38.736,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 11,
+      "title": "法令の根拠と授業づくりの関係（3）",
+      "start": 234.10000000000002,
+      "end": 267.8666666666667,
+      "seconds": 33.766666666666666,
+      "spoken_seconds": 32.256,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 12,
+      "title": "「法律・省令・告示」を授業案までたどる",
+      "start": 267.8666666666667,
+      "end": 300.33333333333337,
+      "seconds": 32.46666666666667,
+      "spoken_seconds": 30.96,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 13,
+      "title": "法律から授業案までを読む（1）",
+      "start": 300.33333333333337,
+      "end": 318.73333333333335,
+      "seconds": 18.4,
+      "spoken_seconds": 16.896,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 14,
+      "title": "法律から授業案までを読む（2）",
+      "start": 318.73333333333335,
+      "end": 337.1333333333333,
+      "seconds": 18.4,
+      "spoken_seconds": 16.896,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 15,
+      "title": "「法律・省令・告示」を授業案までたどる（2）",
+      "start": 337.1333333333333,
+      "end": 365.7,
+      "seconds": 28.566666666666666,
+      "spoken_seconds": 27.048,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 16,
+      "title": "基準を守ることと、授業を工夫すること",
+      "start": 365.7,
+      "end": 390.8,
+      "seconds": 25.1,
+      "spoken_seconds": 23.592,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 17,
+      "title": "基準を守ることと、授業を工夫すること（2）",
+      "start": 390.8,
+      "end": 433.6333333333333,
+      "seconds": 42.833333333333336,
+      "spoken_seconds": 41.328,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 18,
+      "title": "基準を守ることと、授業を工夫すること（3）",
+      "start": 433.6333333333333,
+      "end": 443.73333333333335,
+      "seconds": 10.1,
+      "spoken_seconds": 8.592,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 19,
+      "title": "基準を守ることと、授業を工夫すること（4）",
+      "start": 443.73333333333335,
+      "end": 488.93333333333334,
+      "seconds": 45.2,
+      "spoken_seconds": 43.68,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 20,
+      "title": "基準を守ることと、授業を工夫すること（5）",
+      "start": 488.93333333333334,
+      "end": 499.9666666666667,
+      "seconds": 11.033333333333333,
+      "spoken_seconds": 9.528,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 21,
+      "title": "基準を守ることと、授業を工夫すること（6）",
+      "start": 499.9666666666667,
+      "end": 519.1333333333333,
+      "seconds": 19.166666666666668,
+      "spoken_seconds": 17.64,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 22,
+      "title": "考える時間：一つの問い",
+      "start": 519.1333333333333,
+      "end": 545.7,
+      "seconds": 26.566666666666666,
+      "spoken_seconds": 25.056,
+      "pause_minutes": 15,
+      "exercise": true
+    },
+    {
+      "slide": 23,
+      "title": "自分の説明を確かめる",
+      "start": 545.7,
+      "end": 555.4666666666667,
+      "seconds": 9.766666666666667,
+      "spoken_seconds": 8.256,
+      "pause_minutes": 5,
+      "exercise": true
+    },
+    {
+      "slide": 24,
+      "title": "説明例",
+      "start": 555.4666666666667,
+      "end": 580.9,
+      "seconds": 25.433333333333334,
+      "spoken_seconds": 23.904,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 25,
+      "title": "今回の学びを次へ",
+      "start": 580.9,
+      "end": 603.5,
+      "seconds": 22.6,
+      "spoken_seconds": 21.072,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 26,
+      "title": "参考資料：読む場所",
+      "start": 603.5,
+      "end": 623.9333333333333,
+      "seconds": 20.433333333333334,
+      "spoken_seconds": 18.912,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 27,
+      "title": "参考資料：読む場所",
+      "start": 623.9333333333333,
+      "end": 634.5,
+      "seconds": 10.566666666666666,
+      "spoken_seconds": 9.048,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 28,
+      "title": "参考資料：読む場所",
+      "start": 634.5,
+      "end": 657.1,
+      "seconds": 22.6,
+      "spoken_seconds": 21.072,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 29,
+      "title": "参考資料：読む場所",
+      "start": 657.1,
+      "end": 677.5666666666667,
+      "seconds": 20.466666666666665,
+      "spoken_seconds": 18.96,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 30,
+      "title": "参考資料：読む場所",
+      "start": 677.5666666666667,
+      "end": 699.8000000000001,
+      "seconds": 22.233333333333334,
+      "spoken_seconds": 20.712,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 31,
+      "title": "参考資料：読む場所",
+      "start": 699.8000000000001,
+      "end": 721.7,
+      "seconds": 21.9,
+      "spoken_seconds": 20.4,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 32,
+      "title": "参考資料：読む場所",
+      "start": 721.7,
+      "end": 740.6333333333333,
+      "seconds": 18.933333333333334,
+      "spoken_seconds": 17.424,
+      "pause_minutes": 0,
+      "exercise": false
+    }
+  ],
+  "study_time_verified": false,
+  "duration_note": "視聴・読解・考える時間・小休止を含む90分程度が目標。学生試用は未実施。動画と停止箇所の単純合計を授業時間としない。"
+}

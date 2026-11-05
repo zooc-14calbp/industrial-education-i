@@ -358,20 +358,20 @@
         3,
         3,
         2,
-        2
+        3
       ],
       "before_total": 45,
-      "after_total": 65,
+      "after_total": 70,
       "finding": "教育基本法・学校教育法・省令・告示の関係を本文で追えない",
-      "remaining": "判決全文・事実関係の担当者による確認と、測定授業例の試読。",
+      "remaining": "判決全文・事実関係の担当者による確認と、測定授業例の試読。支援技術での読み順、担当者による発音、受講者による読解・演習時間の確認。",
       "evidence_heading": "法令の根拠と授業づくりの関係",
       "source_lessons": [
         5
       ],
       "before_sha256": "cbd45c9c391dc5eabb912526a61d27905284103f0dbd9e2c6b96230409bc7efa",
-      "after_sha256": "5f4495e783c3f25d7f654307fb4c547b2fe6adc00b73a6a7861740f1c77f686c",
+      "after_sha256": "f3155df42819babf06f0e4e41b32508f4e476b2077fcdb1b9964d43116493ade",
       "chars_added": 1998,
-      "media_updated": false,
+      "media_updated": true,
       "revision_history": [
         {
           "date": "2026-11-05",
@@ -416,13 +416,35 @@
           "after_total": 65,
           "reason": "法律・省令・告示の根拠と、基準・裁量の区別を具体化。判決は教育委員会掲載の抜粋と明記。",
           "before_body_sha256": "66f0f7949c9f5f3c56aa3fed21585e36570d88201531bb4bae79ab520f28b015"
+        },
+        {
+          "date": "2026-11-06",
+          "stage": "本編媒体統合第8段階",
+          "before": [
+            3,
+            3,
+            3,
+            2,
+            2
+          ],
+          "after": [
+            3,
+            3,
+            3,
+            2,
+            3
+          ],
+          "before_total": 65,
+          "after_total": 70,
+          "reason": "本文・本編・ガイド・音声・字幕・動画と新版の案内を同期。Dは読み順精査が残るため2を維持。"
         }
       ],
       "media_status": {
         "supplement_pptx": "updated",
         "supplement_pdf": "updated",
-        "original_slides": "pending",
-        "videos": "pending"
+        "original_slides": "updated_in_reorganized_main",
+        "videos": "updated_in_reorganized_main",
+        "main_entry": "reorganized/20261105/main/05/README.md"
       }
     },
     {
