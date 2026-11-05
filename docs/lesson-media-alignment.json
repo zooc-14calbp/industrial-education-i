@@ -1,0 +1,336 @@
+{
+  "date": "2026-11-05",
+  "scope": "再編案の増補要点スライドのみ。旧番号の本編スライド・動画は未更新。",
+  "duration_policy": "動画視聴・資料の確認・考える時間・小休止を含め、1回90分程度を目安に学修します。動画自体を90分にする必要はなく、「70分＋20分」も固定の配分ではありません。時間を埋めるための説明や課題は加えず、到達目標の理解と受講生の負担を基準に調整します。",
+  "files": {
+    "slides.pptx": "b556e7a1eb91727168b4643ab18c472b317240aed2cbfa1a3cdadfcc865bf5e8",
+    "slides.pdf": "e7393054538f7c9703fb4515265fa7cf51c84648029bdf33d153e31906aac689"
+  },
+  "verification": {
+    "pages_per_course": 61,
+    "native_tables": 15,
+    "text_geometry_flags": 0,
+    "activity_matches_body": true,
+    "figures_preserved": true,
+    "pdf_bookmarks": 15,
+    "visual_review": "全ページ。改訂箇所は再確認。",
+    "screen_reader_trial": "未実施"
+  },
+  "lessons": [
+    {
+      "number": 1,
+      "body": "reorganized/20261105/expanded/01.md",
+      "body_sha256": "704900c6d737522250210c335a593fc49e118902b4c00a0adc18d9a8a152e12e",
+      "notes_body_sha256_lf": "d2a2a7514072e263eb4d85b6e60711fd1f6adfe76ecf82e1e45e245f48161567",
+      "pages": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "source_lessons": [
+        1
+      ],
+      "status": {
+        "supplement_pptx": "updated",
+        "supplement_pdf": "updated",
+        "original_slides": "pending",
+        "videos": "pending"
+      }
+    },
+    {
+      "number": 2,
+      "body": "reorganized/20261105/expanded/02.md",
+      "body_sha256": "3e298e1abe387587350b2a76ad64624cbe793f8abf00636cc2aa9d41ae553913",
+      "notes_body_sha256_lf": "c0f12bc897896efe650292ff8a1b0579566f6c9750a598749c51d763d13e418d",
+      "pages": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "source_lessons": [
+        2
+      ],
+      "status": {
+        "supplement_pptx": "updated",
+        "supplement_pdf": "updated",
+        "original_slides": "pending",
+        "videos": "pending"
+      }
+    },
+    {
+      "number": 3,
+      "body": "reorganized/20261105/expanded/03.md",
+      "body_sha256": "4aa02e5003081b353e48c547c0ce1afc45fb2443996ff3ed3f7c0781756c359b",
+      "notes_body_sha256_lf": "c847d10a05ec2c670e67a0acc9ad1003733e5628ab983dfa864262658a791d04",
+      "pages": [
+        10,
+        11,
+        12,
+        13
+      ],
+      "source_lessons": [
+        3
+      ],
+      "status": {
+        "supplement_pptx": "updated",
+        "supplement_pdf": "updated",
+        "original_slides": "pending",
+        "videos": "pending"
+      }
+    },
+    {
+      "number": 4,
+      "body": "reorganized/20261105/expanded/04.md",
+      "body_sha256": "4f9e8d70de103253c507168cce5ac7c5a222a588cc0137570dd17177d1e6b869",
+      "notes_body_sha256_lf": "3b10944a0d6897f73c28b3487139cbd6f6909c78e4c4f25ff38ec4bdee09a50e",
+      "pages": [
+        14,
+        15,
+        16,
+        17
+      ],
+      "source_lessons": [
+        4
+      ],
+      "status": {
+        "supplement_pptx": "updated",
+        "supplement_pdf": "updated",
+        "original_slides": "pending",
+        "videos": "pending"
+      }
+    },
+    {
+      "number": 5,
+      "body": "reorganized/20261105/expanded/05.md",
+      "body_sha256": "66f0f7949c9f5f3c56aa3fed21585e36570d88201531bb4bae79ab520f28b015",
+      "notes_body_sha256_lf": "246a028c27b70645a68daec580cf583614190593be370ea1a185bf20b33ec3b0",
+      "pages": [
+        18,
+        19,
+        20,
+        21
+      ],
+      "source_lessons": [
+        5
+      ],
+      "status": {
+        "supplement_pptx": "updated",
+        "supplement_pdf": "updated",
+        "original_slides": "pending",
+        "videos": "pending"
+      }
+    },
+    {
+      "number": 6,
+      "body": "reorganized/20261105/expanded/06.md",
+      "body_sha256": "1e6d1a5a759c4a4489236b6781580f74f8dddcdb4376059a45c1326a4ce3e4af",
+      "notes_body_sha256_lf": "16e17d9c1a8604f4a76b7c1f298399268146f19fc53b47dc16e42fda030edf8c",
+      "pages": [
+        22,
+        23,
+        24,
+        25
+      ],
+      "source_lessons": [
+        6
+      ],
+      "status": {
+        "supplement_pptx": "updated",
+        "supplement_pdf": "updated",
+        "original_slides": "pending",
+        "videos": "pending"
+      }
+    },
+    {
+      "number": 7,
+      "body": "reorganized/20261105/expanded/07.md",
+      "body_sha256": "971c7085d64a0f35e70a0639d455bbfe1c6549d6f52d03ce1fd38d23b3f9f8f1",
+      "notes_body_sha256_lf": "948b9407c5102241fa140213db0eb42fd4515611e8b83c81ca92ebea9f973b09",
+      "pages": [
+        26,
+        27,
+        28,
+        29
+      ],
+      "source_lessons": [
+        7
+      ],
+      "status": {
+        "supplement_pptx": "updated",
+        "supplement_pdf": "updated",
+        "original_slides": "pending",
+        "videos": "pending"
+      }
+    },
+    {
+      "number": 8,
+      "body": "reorganized/20261105/expanded/08.md",
+      "body_sha256": "97055f9e740820b4b5597496bce2a393e3cd4b2a8c1f8368c45921ed869dbcc6",
+      "notes_body_sha256_lf": "734273c0814f0df45cb3ef472748722fdab33f6a824a87d277843c658e89b6c8",
+      "pages": [
+        30,
+        31,
+        32,
+        33
+      ],
+      "source_lessons": [
+        8
+      ],
+      "status": {
+        "supplement_pptx": "updated",
+        "supplement_pdf": "updated",
+        "original_slides": "pending",
+        "videos": "pending"
+      }
+    },
+    {
+      "number": 9,
+      "body": "reorganized/20261105/expanded/09.md",
+      "body_sha256": "0c47bbefb6e5311dc25a20f56a71015bbd616a4f5cc4bc7ca11f7e2e7b4a127b",
+      "notes_body_sha256_lf": "73fb4d59190ca030a3918812db784d11cb51ddd3ae73f5a16d4058d6520e88cb",
+      "pages": [
+        34,
+        35,
+        36,
+        37
+      ],
+      "source_lessons": [
+        9
+      ],
+      "status": {
+        "supplement_pptx": "updated",
+        "supplement_pdf": "updated",
+        "original_slides": "pending",
+        "videos": "pending"
+      }
+    },
+    {
+      "number": 10,
+      "body": "reorganized/20261105/expanded/10.md",
+      "body_sha256": "39d472ffa206b150b93b26ce12ad6f86c28c90953ede3277902b1f0e50b8759a",
+      "notes_body_sha256_lf": "d7c0891ac54496e0a71a5cea50202e5a77ba3d0b8d13e03106b72080e7eaffdc",
+      "pages": [
+        38,
+        39,
+        40,
+        41
+      ],
+      "source_lessons": [
+        10
+      ],
+      "status": {
+        "supplement_pptx": "updated",
+        "supplement_pdf": "updated",
+        "original_slides": "pending",
+        "videos": "pending"
+      }
+    },
+    {
+      "number": 11,
+      "body": "reorganized/20261105/expanded/11.md",
+      "body_sha256": "ce4f39f229672d722be32763e27f9319d495892678000c1a62233cb6d4b93b80",
+      "notes_body_sha256_lf": "bee2e6277b836618eaa730845de856f6d6c5b9826e10e93f3e9ff19b915e0b59",
+      "pages": [
+        42,
+        43,
+        44,
+        45
+      ],
+      "source_lessons": [
+        11
+      ],
+      "status": {
+        "supplement_pptx": "updated",
+        "supplement_pdf": "updated",
+        "original_slides": "pending",
+        "videos": "pending"
+      }
+    },
+    {
+      "number": 12,
+      "body": "reorganized/20261105/expanded/12.md",
+      "body_sha256": "dae93e4f6f787b81ae16eaa2ddbc2d3c0d942e4486af41efab7dcabd3a90ab33",
+      "notes_body_sha256_lf": "3e00287c42ebc82c9e4ce40650c7d28cbf62daa759fea054ea524644387b7401",
+      "pages": [
+        46,
+        47,
+        48,
+        49
+      ],
+      "source_lessons": [
+        12
+      ],
+      "status": {
+        "supplement_pptx": "updated",
+        "supplement_pdf": "updated",
+        "original_slides": "pending",
+        "videos": "pending"
+      }
+    },
+    {
+      "number": 13,
+      "body": "reorganized/20261105/expanded/13.md",
+      "body_sha256": "fd72f632f59847dfb7b874a841e7751b5136505ecc51d6c4a80052bdda26a1cf",
+      "notes_body_sha256_lf": "b58312fd4d325f741055237c40a2bbaa15742b6bde7942388faaf89770437070",
+      "pages": [
+        50,
+        51,
+        52,
+        53
+      ],
+      "source_lessons": [
+        13
+      ],
+      "status": {
+        "supplement_pptx": "updated",
+        "supplement_pdf": "updated",
+        "original_slides": "pending",
+        "videos": "pending"
+      }
+    },
+    {
+      "number": 14,
+      "body": "reorganized/20261105/expanded/14.md",
+      "body_sha256": "8d1993360a61704d70928567a4dae348221bc96b5d8934a941be60de4a062c82",
+      "notes_body_sha256_lf": "b8f6d9926805f206a0e70ea9e84e0ac997cebb3c996f8c0405d424ac558c6f3f",
+      "pages": [
+        54,
+        55,
+        56,
+        57
+      ],
+      "source_lessons": [
+        14
+      ],
+      "status": {
+        "supplement_pptx": "updated",
+        "supplement_pdf": "updated",
+        "original_slides": "pending",
+        "videos": "pending"
+      }
+    },
+    {
+      "number": 15,
+      "body": "reorganized/20261105/expanded/15.md",
+      "body_sha256": "cedbc060afd678eb700586ee3ddb4982d42784e98d9501c9df100f6af66636ba",
+      "notes_body_sha256_lf": "30ef6c1044b80c5d9029dbe3e8202767f12d227af29ef8120c013d00718c164d",
+      "pages": [
+        58,
+        59,
+        60,
+        61
+      ],
+      "source_lessons": [
+        15
+      ],
+      "status": {
+        "supplement_pptx": "updated",
+        "supplement_pdf": "updated",
+        "original_slides": "pending",
+        "videos": "pending"
+      }
+    }
+  ]
+}
