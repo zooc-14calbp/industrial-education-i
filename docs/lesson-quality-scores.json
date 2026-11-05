@@ -1050,20 +1050,20 @@
         3,
         3,
         2,
-        2
+        3
       ],
       "before_total": 50,
-      "after_total": 65,
+      "after_total": 70,
       "finding": "小さな授業案の例はあるが支援・評価の点検手順が短い",
-      "remaining": "レポートBの完成例とルーブリックとの対応を試読",
+      "remaining": "保持した本編オブジェクトの読み順精査、担当者による内容・発音の確認、受講者による読解・演習時間の試用。",
       "evidence_heading": "授業案を一つの流れとして点検する",
       "source_lessons": [
         15
       ],
       "before_sha256": "af8f1cb92bfcd3ffa5075b43fb6f93609742d843723b0a7b5c1ee529499d5328",
-      "after_sha256": "a8023445302c0772d5327939e813beefc576e1315f5ef7b247059afc6b6cbce4",
+      "after_sha256": "2f3c7f527a7df9e213927319ac48dc60216f1255269d9e732f32638bb8cd890f",
       "chars_added": 486,
-      "media_updated": false,
+      "media_updated": true,
       "revision_history": [
         {
           "date": "2026-11-05",
@@ -1086,13 +1086,35 @@
           "after_total": 65,
           "reason": "増補PPTX・PDFの説明要点、演習と説明例を本文に合わせ、頁対応と未更新媒体を記録。Eのみ1→2。",
           "before_body_sha256": "30ef6c1044b80c5d9029dbe3e8202767f12d227af29ef8120c013d00718c164d"
+        },
+        {
+          "date": "2026-11-06",
+          "stage": "本編媒体統合第2段階",
+          "before": [
+            3,
+            3,
+            3,
+            2,
+            2
+          ],
+          "after": [
+            3,
+            3,
+            3,
+            2,
+            3
+          ],
+          "before_total": 65,
+          "after_total": 70,
+          "reason": "本文・本編・ガイド・音声・字幕・動画と新版の案内を同期。Dは読み順精査が残るため2を維持。"
         }
       ],
       "media_status": {
         "supplement_pptx": "updated",
         "supplement_pdf": "updated",
-        "original_slides": "pending",
-        "videos": "pending"
+        "original_slides": "updated_in_reorganized_main",
+        "videos": "updated_in_reorganized_main",
+        "main_entry": "reorganized/20261105/main/15/README.md"
       }
     }
   ]
