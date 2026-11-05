@@ -192,20 +192,20 @@
         3,
         3,
         2,
-        2
+        3
       ],
       "before_total": 50,
-      "after_total": 65,
+      "after_total": 70,
       "finding": "寸法の差から合否や原因を判断する前提が不明瞭",
-      "remaining": "許容範囲を設定した別の例と実習過程図を配信版へ反映",
+      "remaining": "許容範囲を設定した別の例と実習過程図を配信版へ反映。支援技術での読み順、担当者による発音、受講者による読解・演習時間の確認。",
       "evidence_heading": "数値と写真から実習の過程を読む",
       "source_lessons": [
         3
       ],
       "before_sha256": "b18216c755b9d32bf0053caed62ce34131543098166a89c5bda62c7613a7d0ac",
-      "after_sha256": "4856fc0fee6b40069a704e92cab489c83d52da1ac196d62056ffe141cf2dec92",
+      "after_sha256": "472bb73855851653021321537bf73ee5c30940b528b263ffc1d12acd878f4e05",
       "chars_added": 511,
-      "media_updated": false,
+      "media_updated": true,
       "revision_history": [
         {
           "date": "2026-11-05",
@@ -228,13 +228,35 @@
           "after_total": 65,
           "reason": "増補PPTX・PDFの説明要点、演習と説明例を本文に合わせ、頁対応と未更新媒体を記録。Eのみ1→2。",
           "before_body_sha256": "c847d10a05ec2c670e67a0acc9ad1003733e5628ab983dfa864262658a791d04"
+        },
+        {
+          "date": "2026-11-06",
+          "stage": "本編媒体統合第5段階",
+          "before": [
+            3,
+            3,
+            3,
+            2,
+            2
+          ],
+          "after": [
+            3,
+            3,
+            3,
+            2,
+            3
+          ],
+          "before_total": 65,
+          "after_total": 70,
+          "reason": "本文・本編・ガイド・音声・字幕・動画と新版の案内を同期。Dは読み順精査が残るため2を維持。"
         }
       ],
       "media_status": {
         "supplement_pptx": "updated",
         "supplement_pdf": "updated",
-        "original_slides": "pending",
-        "videos": "pending"
+        "original_slides": "updated_in_reorganized_main",
+        "videos": "updated_in_reorganized_main",
+        "main_entry": "reorganized/20261105/main/03/README.md"
       }
     },
     {

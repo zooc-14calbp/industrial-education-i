@@ -1,5 +1,5 @@
 {
-  "revision": "mainmedia-20261106-stage4",
+  "revision": "mainmedia-20261106-stage5",
   "updated": [
     {
       "id": "i01",
@@ -22,6 +22,17 @@
       "seconds": 397.36666666666673,
       "path": "reorganized/20261105/main/02",
       "body_sha256_lf": "2b14a82d38b1207752821b0a582cdf6d48216a9ae30a836fcf43fba61f55992a"
+    },
+    {
+      "id": "i03",
+      "course": "i",
+      "number": 3,
+      "source_lesson": 3,
+      "title": "工業高校の授業と実習を具体的に知る",
+      "slides": 18,
+      "seconds": 364.43333333333334,
+      "path": "reorganized/20261105/main/03",
+      "body_sha256_lf": "2037a3bda0c355e438817aa7f6c1ba494e119afe19dd3caa5839c2bccb6358c0"
     },
     {
       "id": "i08",
@@ -101,7 +112,7 @@
       "body_sha256_lf": "9c0c51068cba9b63cf78e3a8b302fec2ad3e52893beb2bde32d9c5d576c30386"
     }
   ],
-  "remaining_lessons": 21,
+  "remaining_lessons": 20,
   "scope": "reorganized course numbering; selected complete main-media packages",
   "study_time_verified": false
 }

@@ -1,0 +1,196 @@
+{
+  "seconds": 364.43333333333334,
+  "fps": 30,
+  "slides": 18,
+  "captions": 52,
+  "voice": "ja-JP-NanamiNeural",
+  "rate": "-5%",
+  "pause_minutes_planned": 20,
+  "reading_minutes_planned": null,
+  "combined_minutes_planned": null,
+  "student_trial_completed": false,
+  "timeline": [
+    {
+      "slide": 1,
+      "title": "工業高校の授業と実習を具体的に知る",
+      "start": 0,
+      "end": 17.966666666666665,
+      "seconds": 17.966666666666665,
+      "spoken_seconds": 16.464,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 2,
+      "title": "この回の到達目標",
+      "start": 17.966666666666665,
+      "end": 31.366666666666667,
+      "seconds": 13.4,
+      "spoken_seconds": 11.88,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 3,
+      "title": "考える時間を含む学び方",
+      "start": 31.366666666666667,
+      "end": 52.33333333333333,
+      "seconds": 20.966666666666665,
+      "spoken_seconds": 19.464,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 4,
+      "title": "言葉を使って確かめる",
+      "start": 52.33333333333333,
+      "end": 64.23333333333333,
+      "seconds": 11.9,
+      "spoken_seconds": 10.368,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 5,
+      "title": "言葉を使って確かめる（2）",
+      "start": 64.23333333333333,
+      "end": 77.5,
+      "seconds": 13.266666666666667,
+      "spoken_seconds": 11.736,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 6,
+      "title": "言葉を使って確かめる：答え",
+      "start": 77.5,
+      "end": 91.53333333333333,
+      "seconds": 14.033333333333333,
+      "spoken_seconds": 12.504,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 7,
+      "title": "数値と写真から実習の過程を読む",
+      "start": 91.53333333333333,
+      "end": 121.06666666666666,
+      "seconds": 29.533333333333335,
+      "spoken_seconds": 28.032,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 8,
+      "title": "数値と写真から実習の過程を読む（2）",
+      "start": 121.06666666666666,
+      "end": 156.46666666666667,
+      "seconds": 35.4,
+      "spoken_seconds": 33.888,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 9,
+      "title": "数値と写真から実習の過程を読む（3）",
+      "start": 156.46666666666667,
+      "end": 193.23333333333335,
+      "seconds": 36.766666666666666,
+      "spoken_seconds": 35.256,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 10,
+      "title": "加工前後の寸法記録",
+      "start": 193.23333333333335,
+      "end": 212.83333333333334,
+      "seconds": 19.6,
+      "spoken_seconds": 18.072,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 11,
+      "title": "加工前後の寸法記録（2）",
+      "start": 212.83333333333334,
+      "end": 237.0,
+      "seconds": 24.166666666666668,
+      "spoken_seconds": 22.656,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 12,
+      "title": "加工前後の記録を読む",
+      "start": 237.0,
+      "end": 253.83333333333334,
+      "seconds": 16.833333333333332,
+      "spoken_seconds": 15.312,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 13,
+      "title": "考える時間：一つの問い",
+      "start": 253.83333333333334,
+      "end": 280.53333333333336,
+      "seconds": 26.7,
+      "spoken_seconds": 25.2,
+      "pause_minutes": 15,
+      "exercise": true
+    },
+    {
+      "slide": 14,
+      "title": "自分の説明を確かめる",
+      "start": 280.53333333333336,
+      "end": 290.3,
+      "seconds": 9.766666666666667,
+      "spoken_seconds": 8.256,
+      "pause_minutes": 5,
+      "exercise": true
+    },
+    {
+      "slide": 15,
+      "title": "説明例",
+      "start": 290.3,
+      "end": 299.6333333333333,
+      "seconds": 9.333333333333334,
+      "spoken_seconds": 7.824,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 16,
+      "title": "今回の学びを次へ",
+      "start": 299.6333333333333,
+      "end": 323.0,
+      "seconds": 23.366666666666667,
+      "spoken_seconds": 21.864,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 17,
+      "title": "参考資料：読む場所",
+      "start": 323.0,
+      "end": 344.9,
+      "seconds": 21.9,
+      "spoken_seconds": 20.4,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 18,
+      "title": "参考資料：読む場所",
+      "start": 344.9,
+      "end": 364.43333333333334,
+      "seconds": 19.533333333333335,
+      "spoken_seconds": 18.024,
+      "pause_minutes": 0,
+      "exercise": false
+    }
+  ],
+  "study_time_verified": false,
+  "duration_note": "視聴・読解・考える時間・小休止を含む90分程度が目標。学生試用は未実施。動画と停止箇所の単純合計を授業時間としない。"
+}
