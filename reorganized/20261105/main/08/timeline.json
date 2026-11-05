@@ -1,0 +1,276 @@
+{
+  "seconds": 760.8000000000001,
+  "fps": 30,
+  "slides": 26,
+  "captions": 113,
+  "voice": "ja-JP-NanamiNeural",
+  "rate": "-5%",
+  "pause_minutes_planned": 20,
+  "reading_minutes_planned": null,
+  "combined_minutes_planned": null,
+  "student_trial_completed": false,
+  "timeline": [
+    {
+      "slide": 1,
+      "title": "工業技術基礎と実習と課題研究",
+      "start": 0,
+      "end": 17.533333333333335,
+      "seconds": 17.533333333333335,
+      "spoken_seconds": 16.008,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 2,
+      "title": "この回の到達目標",
+      "start": 17.533333333333335,
+      "end": 30.800000000000004,
+      "seconds": 13.266666666666667,
+      "spoken_seconds": 11.76,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 3,
+      "title": "考える時間を含む学修の進め方",
+      "start": 30.800000000000004,
+      "end": 51.53333333333334,
+      "seconds": 20.733333333333334,
+      "spoken_seconds": 19.224,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 4,
+      "title": "工業技術基礎の内容",
+      "start": 51.53333333333334,
+      "end": 92.46666666666667,
+      "seconds": 40.93333333333333,
+      "spoken_seconds": 39.408,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 5,
+      "title": "実習の内容を読む",
+      "start": 92.46666666666667,
+      "end": 140.56666666666666,
+      "seconds": 48.1,
+      "spoken_seconds": 46.584,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 6,
+      "title": "完成品と学習過程の両方を見る",
+      "start": 140.56666666666666,
+      "end": 174.73333333333332,
+      "seconds": 34.166666666666664,
+      "spoken_seconds": 32.64,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 7,
+      "title": "学びをつなぐ支援を考える",
+      "start": 174.73333333333332,
+      "end": 221.0,
+      "seconds": 46.266666666666666,
+      "spoken_seconds": 44.76,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 8,
+      "title": "課題研究の問いを小さく設計する",
+      "start": 221.0,
+      "end": 253.43333333333334,
+      "seconds": 32.43333333333333,
+      "spoken_seconds": 30.912,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 9,
+      "title": "課題研究の問いを小さく設計する",
+      "start": 253.43333333333334,
+      "end": 286.1666666666667,
+      "seconds": 32.733333333333334,
+      "spoken_seconds": 31.2,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 10,
+      "title": "課題研究の問いを小さく設計する",
+      "start": 286.1666666666667,
+      "end": 316.56666666666666,
+      "seconds": 30.4,
+      "spoken_seconds": 28.872,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 11,
+      "title": "同じ測定題材で三科目を比べる",
+      "start": 316.56666666666666,
+      "end": 338.8333333333333,
+      "seconds": 22.266666666666666,
+      "spoken_seconds": 20.76,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 12,
+      "title": "同じ測定題材で三科目を比べる",
+      "start": 338.8333333333333,
+      "end": 357.96666666666664,
+      "seconds": 19.133333333333333,
+      "spoken_seconds": 17.616,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 13,
+      "title": "同じ測定題材で三科目を比べる：比較表",
+      "start": 357.96666666666664,
+      "end": 379.5,
+      "seconds": 21.533333333333335,
+      "spoken_seconds": 20.016,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 14,
+      "title": "原文で三科目の違いを確かめる",
+      "start": 379.5,
+      "end": 415.8,
+      "seconds": 36.3,
+      "spoken_seconds": 34.776,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 15,
+      "title": "原文で三科目の違いを確かめる",
+      "start": 415.8,
+      "end": 461.2,
+      "seconds": 45.4,
+      "spoken_seconds": 43.872,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 16,
+      "title": "原文で三科目の違いを確かめる",
+      "start": 461.2,
+      "end": 499.3,
+      "seconds": 38.1,
+      "spoken_seconds": 36.6,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 17,
+      "title": "教師が用意する条件と、生徒が判断すること",
+      "start": 499.3,
+      "end": 542.7666666666667,
+      "seconds": 43.46666666666667,
+      "spoken_seconds": 41.952,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 18,
+      "title": "教師が用意する条件と、生徒が判断すること",
+      "start": 542.7666666666667,
+      "end": 573.1666666666666,
+      "seconds": 30.4,
+      "spoken_seconds": 28.896,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 19,
+      "title": "教師が用意する条件と、生徒が判断すること：比較表",
+      "start": 573.1666666666666,
+      "end": 617.5333333333333,
+      "seconds": 44.36666666666667,
+      "spoken_seconds": 42.84,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 20,
+      "title": "教師が用意する条件と、生徒が判断すること",
+      "start": 617.5333333333333,
+      "end": 637.2333333333333,
+      "seconds": 19.7,
+      "spoken_seconds": 18.192,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 21,
+      "title": "考える時間：一つの問い",
+      "start": 637.2333333333333,
+      "end": 663.9333333333334,
+      "seconds": 26.7,
+      "spoken_seconds": 25.2,
+      "pause_minutes": 15,
+      "exercise": true
+    },
+    {
+      "slide": 22,
+      "title": "自分の説明を確かめる",
+      "start": 663.9333333333334,
+      "end": 676.7333333333333,
+      "seconds": 12.8,
+      "spoken_seconds": 11.28,
+      "pause_minutes": 5,
+      "exercise": true
+    },
+    {
+      "slide": 23,
+      "title": "説明例",
+      "start": 676.7333333333333,
+      "end": 697.2,
+      "seconds": 20.466666666666665,
+      "spoken_seconds": 18.936,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 24,
+      "title": "今回の学びを次へ",
+      "start": 697.2,
+      "end": 719.5333333333334,
+      "seconds": 22.333333333333332,
+      "spoken_seconds": 20.808,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 25,
+      "title": "参考資料：読む場所",
+      "start": 719.5333333333334,
+      "end": 739.9000000000001,
+      "seconds": 20.366666666666667,
+      "spoken_seconds": 18.864,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 26,
+      "title": "参考資料：読む場所",
+      "start": 739.9000000000001,
+      "end": 760.8000000000001,
+      "seconds": 20.9,
+      "spoken_seconds": 19.368,
+      "pause_minutes": 0,
+      "exercise": false
+    }
+  ],
+  "study_time_verified": false,
+  "duration_note": "視聴・読解・考える時間・小休止を含む90分程度が目標。学生試用は未実施。動画と停止箇所の単純合計を授業時間としない。"
+}

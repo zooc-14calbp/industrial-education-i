@@ -1,6 +1,6 @@
 {
   "date": "2026-11-05",
-  "scope": "再編案の増補要点スライドのみ。旧番号の本編スライド・動画は未更新。",
+  "scope": "増補要点スライド全15回と、main-media-status.mdに示す本編統合済み回。その他の本編・動画は未統合。",
   "duration_policy": "動画視聴・資料の確認・考える時間・小休止を含め、1回90分程度を目安に学修します。動画自体を90分にする必要はなく、「70分＋20分」も固定の配分ではありません。時間を埋めるための説明や課題は加えず、到達目標の理解と受講生の負担を基準に調整します。",
   "files": {
     "slides.pptx": "71bf376f8c9dc1276bd62b233ab8e1103f757c5fb064e3c25fcd0fe8714923a3",
@@ -169,7 +169,7 @@
     {
       "number": 8,
       "body": "reorganized/20261105/expanded/08.md",
-      "body_sha256": "34f18fc6d12e7af6137877a41fc298946e67ca91b1aff8ac11da022d1071289c",
+      "body_sha256": "c3d28b40b13c03476dec68d104ed1da6228f8221a08ca88d226c3bebda3373b2",
       "notes_body_sha256_lf": "794469bba56dec4d23b37bf2302596e3ff859704533174ca2797d357204f78ad",
       "pages": [
         30,
@@ -183,10 +183,13 @@
       "status": {
         "supplement_pptx": "updated",
         "supplement_pdf": "updated",
-        "original_slides": "pending",
-        "videos": "pending"
+        "original_slides": "updated_in_reorganized_main",
+        "videos": "updated_in_reorganized_main"
       },
-      "revision": "科目・研究・体験の根拠と具体例"
+      "revision": "科目・研究・体験の根拠と具体例",
+      "main_entry": "reorganized/20261105/main/08/README.md",
+      "main_manifest": "reorganized/20261105/main/08/manifest.json",
+      "navigation_only_update": "本文末尾に本編入口を追加。増補ノートの本文は入口追記前の同一説明。"
     },
     {
       "number": 9,
@@ -212,7 +215,7 @@
     {
       "number": 10,
       "body": "reorganized/20261105/expanded/10.md",
-      "body_sha256": "286d852161db4bd4593770d9cecfdeef155f3ca2c7fcee18f5d910cbffe3a49f",
+      "body_sha256": "338ae270bb2171d3642725978c822938103ba8264adc7ae36d0f68ee30693b18",
       "notes_body_sha256_lf": "6cadd8a40552fed14093c71a375f1755ee671a9aa5365893499572b728e30279",
       "pages": [
         38,
@@ -226,10 +229,13 @@
       "status": {
         "supplement_pptx": "updated",
         "supplement_pdf": "updated",
-        "original_slides": "pending",
-        "videos": "pending"
+        "original_slides": "updated_in_reorganized_main",
+        "videos": "updated_in_reorganized_main"
       },
-      "revision": "科目・研究・体験の根拠と具体例"
+      "revision": "科目・研究・体験の根拠と具体例",
+      "main_entry": "reorganized/20261105/main/10/README.md",
+      "main_manifest": "reorganized/20261105/main/10/manifest.json",
+      "navigation_only_update": "本文末尾に本編入口を追加。増補ノートの本文は入口追記前の同一説明。"
     },
     {
       "number": 11,

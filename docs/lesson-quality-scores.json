@@ -497,20 +497,20 @@
         3,
         3,
         2,
-        2
+        3
       ],
       "before_total": 50,
-      "after_total": 65,
+      "after_total": 70,
       "finding": "三科目の違いが単純化され、問いを絞る教師の支援が薄い",
-      "remaining": "三科目の説明を既存本編へ反映し、専門的な器具を知らない受講者による試読で確かめる。",
+      "remaining": "保持した本編オブジェクトの読み順精査、担当者による内容・発音の確認、受講者による読解・演習時間の試用。",
       "evidence_heading": "課題研究の問いを小さく設計する",
       "source_lessons": [
         8
       ],
       "before_sha256": "4911b6d442a672b84d04b5f70c759781ef424b2c528705d4a12cb56001af0313",
-      "after_sha256": "34f18fc6d12e7af6137877a41fc298946e67ca91b1aff8ac11da022d1071289c",
+      "after_sha256": "c3d28b40b13c03476dec68d104ed1da6228f8221a08ca88d226c3bebda3373b2",
       "chars_added": 1867,
-      "media_updated": false,
+      "media_updated": true,
       "revision_history": [
         {
           "date": "2026-11-05",
@@ -555,13 +555,35 @@
           "after_total": 65,
           "reason": "工業編の三科目の目標と課題研究の取扱いを原文照合し、架空の三授業と教師の支援・生徒の判断を具体化。",
           "before_body_sha256": "97055f9e740820b4b5597496bce2a393e3cd4b2a8c1f8368c45921ed869dbcc6"
+        },
+        {
+          "date": "2026-11-05",
+          "stage": "本編媒体統合第1段階",
+          "before": [
+            3,
+            3,
+            3,
+            2,
+            2
+          ],
+          "after": [
+            3,
+            3,
+            3,
+            2,
+            3
+          ],
+          "before_total": 65,
+          "after_total": 70,
+          "reason": "本文・本編・ガイド・音声・字幕・動画と新版の案内を同期。Dは読み順精査が残るため2を維持。"
         }
       ],
       "media_status": {
         "supplement_pptx": "updated",
         "supplement_pdf": "updated",
-        "original_slides": "pending",
-        "videos": "pending"
+        "original_slides": "updated_in_reorganized_main",
+        "videos": "updated_in_reorganized_main",
+        "main_entry": "reorganized/20261105/main/08/README.md"
       }
     },
     {
@@ -657,20 +679,20 @@
         3,
         3,
         2,
-        2
+        3
       ],
       "before_total": 55,
-      "after_total": 65,
+      "after_total": 70,
       "finding": "成果の区別はあるが因果関係・研究方法の説明が圧縮されている",
-      "remaining": "既存本編へ反映。論文中の分析全体の再照合と、実践の工業への応用案を担当者が検討する。",
+      "remaining": "保持した本編オブジェクトの読み順精査、担当者による内容・発音の確認、受講者による読解・演習時間の試用。",
       "evidence_heading": "研究で確かめるものを明確にする",
       "source_lessons": [
         10
       ],
       "before_sha256": "61cc6c9ea7a4c0cae5986ab74e4987be321c35d3654cee48dd11a99dc7ccb474",
-      "after_sha256": "286d852161db4bd4593770d9cecfdeef155f3ca2c7fcee18f5d910cbffe3a49f",
+      "after_sha256": "338ae270bb2171d3642725978c822938103ba8264adc7ae36d0f68ee30693b18",
       "chars_added": 1950,
-      "media_updated": false,
+      "media_updated": true,
       "revision_history": [
         {
           "date": "2026-11-05",
@@ -715,13 +737,35 @@
           "after_total": 65,
           "reason": "原論文の専門教科、対象・回答人数、調査方法と印刷頁を照合。技術・学習・感想の証拠を架空カードで分ける。",
           "before_body_sha256": "39d472ffa206b150b93b26ce12ad6f86c28c90953ede3277902b1f0e50b8759a"
+        },
+        {
+          "date": "2026-11-05",
+          "stage": "本編媒体統合第1段階",
+          "before": [
+            3,
+            3,
+            3,
+            2,
+            2
+          ],
+          "after": [
+            3,
+            3,
+            3,
+            2,
+            3
+          ],
+          "before_total": 65,
+          "after_total": 70,
+          "reason": "本文・本編・ガイド・音声・字幕・動画と新版の案内を同期。Dは読み順精査が残るため2を維持。"
         }
       ],
       "media_status": {
         "supplement_pptx": "updated",
         "supplement_pdf": "updated",
-        "original_slides": "pending",
-        "videos": "pending"
+        "original_slides": "updated_in_reorganized_main",
+        "videos": "updated_in_reorganized_main",
+        "main_entry": "reorganized/20261105/main/10/README.md"
       }
     },
     {
