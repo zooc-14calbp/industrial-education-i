@@ -3,8 +3,8 @@
   "scope": "増補要点スライド全15回と、main-media-status.mdに示す本編統合済み回。その他の本編・動画は未統合。",
   "duration_policy": "動画視聴・資料の確認・考える時間・小休止を含め、1回90分程度を目安に学修します。動画自体を90分にする必要はなく、「70分＋20分」も固定の配分ではありません。時間を埋めるための説明や課題は加えず、到達目標の理解と受講生の負担を基準に調整します。",
   "files": {
-    "slides.pptx": "01b40adc939c106154519b3014dcc215df04f55c14f66a4cb94777952cb23487",
-    "slides.pdf": "4c53da1aebbf1fa4a2287fffb0309dac210f6510ac9184492296934d2f9d995d"
+    "slides.pptx": "5c5ab76c461ee567154c85df6faa485bc14ad49f00ed1dba493171f33b6a2fcc",
+    "slides.pdf": "e8a964d720cf46a9206aa1e7df40a3ebf39bf50f7e1fc04d095039104df11676"
   },
   "verification": {
     "pages_per_course": 61,
@@ -357,8 +357,8 @@
     {
       "number": 15,
       "body": "reorganized/20261105/expanded/15.md",
-      "body_sha256": "6feffeac5bc5aec84cc971358de00c144f2954068aadec12dc5cce6480a0ed3b",
-      "notes_body_sha256_lf": "3f69edaeaaeb18388d174fc193606095979a6cdff8ac2475886268997c103ba7",
+      "body_sha256": "141d7130e8b34b108d87b2fa8979eb1cf068e08a125e440042ecdd881452b5b8",
+      "notes_body_sha256_lf": "4a7b9118ddeac5856b11088f3a83bebee9e0940436486853833fbcfaeb4e1220",
       "pages": [
         58,
         59,
@@ -375,7 +375,8 @@
         "videos": "pending"
       },
       "prerequisite_check": "本文の到達目標の後に問いと答えを追加。既存のスライド・PDF・動画は追加前の版。",
-      "terminology_review": "増補スライドの説明頁に用語の手がかりを追加。問いと答えは各回の本文で確認。各回の旧本編と動画は今回の改訂前。"
+      "terminology_review": "増補スライドの説明頁に用語の手がかりを追加。問いと答えは各回の本文で確認。各回の旧本編と動画は今回の改訂前。",
+      "active_learning_update": "話し合いの前提・根拠・事後確認を本文と増補説明頁に追加。関連論文は docs/active-learning-discussion.md。"
     }
   ]
 }
