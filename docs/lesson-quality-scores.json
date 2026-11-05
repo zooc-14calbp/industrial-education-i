@@ -412,21 +412,21 @@
       "after": [
         3,
         3,
-        2,
+        3,
         2,
         2
       ],
       "before_total": 45,
-      "after_total": 60,
+      "after_total": 65,
       "finding": "原則履修・共通科目の説明が教育課程表の読み方に接続していない",
-      "remaining": "建築・土木の実際の表で科目配置と注記を担当者が照合",
+      "remaining": "選択記号の全組合せ、実習題材・評価計画、代替の内容対応を学校資料で確認する。",
       "evidence_heading": "原則履修と学校ごとの科目配置",
       "source_lessons": [
         7
       ],
       "before_sha256": "f36df0d46b00ba284cb96c5aace367a781ccf199f2e0a25ad183b289ed5b3e3e",
-      "after_sha256": "971c7085d64a0f35e70a0639d455bbfe1c6549d6f52d03ce1fd38d23b3f9f8f1",
-      "chars_added": 581,
+      "after_sha256": "d16b270d037d84f8f49f95d9aa2328fee061297f07390377430be09c54317a4a",
+      "chars_added": 2072,
       "media_updated": false,
       "revision_history": [
         {
@@ -450,6 +450,28 @@
           "after_total": 60,
           "reason": "増補PPTX・PDFの説明要点、演習と説明例を本文に合わせ、頁対応と未更新媒体を記録。Eのみ1→2。",
           "before_body_sha256": "948b9407c5102241fa140213db0eb42fd4515611e8b83c81ca92ebea9f973b09"
+        },
+        {
+          "date": "2026-11-05",
+          "stage": "教育課程表・各国制度図の重点改稿",
+          "before": [
+            3,
+            3,
+            2,
+            2,
+            2
+          ],
+          "after": [
+            3,
+            3,
+            3,
+            2,
+            2
+          ],
+          "before_total": 60,
+          "after_total": 65,
+          "reason": "学校公表の教育課程表を画像と本文で照合。入学年度、実習・製図の配当、代替の脚注を具体化。",
+          "before_body_sha256": "971c7085d64a0f35e70a0639d455bbfe1c6549d6f52d03ce1fd38d23b3f9f8f1"
         }
       ],
       "media_status": {
