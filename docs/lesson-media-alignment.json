@@ -20,7 +20,7 @@
     {
       "number": 1,
       "body": "reorganized/20261105/expanded/01.md",
-      "body_sha256": "6691b9d595c8550131df0888c0de19e90c72ebfa9cce0853ddcc5306466fbd82",
+      "body_sha256": "bb55052abdab82fa9839e28bc0929223f2e6ebfc5a3845d28d5d07b88779f786",
       "notes_body_sha256_lf": "fee58ff8252ce319d7d18d19b5757768fa7b444bd5b7179edb1cfde6f59918e4",
       "pages": [
         2,
@@ -38,7 +38,8 @@
         "videos": "pending"
       },
       "prerequisite_check": "本文の到達目標の後に問いと答えを追加。既存のスライド・PDF・動画は追加前の版。",
-      "terminology_review": "増補スライドの説明頁に用語の手がかりを追加。問いと答えは各回の本文で確認。各回の旧本編と動画は今回の改訂前。"
+      "terminology_review": "増補スライドの説明頁に用語の手がかりを追加。問いと答えは各回の本文で確認。各回の旧本編と動画は今回の改訂前。",
+      "reading_example_update": "2026-11-06 第1回の本文に資料の読み分けを具体化。要点スライドのノートと動画は追記前。"
     },
     {
       "number": 2,
