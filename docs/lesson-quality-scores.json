@@ -756,20 +756,20 @@
         3,
         3,
         2,
-        2
+        3
       ],
       "before_total": 35,
-      "after_total": 65,
+      "after_total": 70,
       "finding": "学力調査を読む到達目標に対して調査の説明と出典が不足",
-      "remaining": "新しい比較表・換算例を配信媒体へ反映し、初学者の試読で理解と所要時間を確認",
+      "remaining": "新しい比較表・換算例を配信媒体へ反映し、初学者の試読で理解と所要時間を確認。支援技術での読み順、担当者による発音、受講者による読解・演習時間の確認。",
       "evidence_heading": "集団の調査と目の前の理解を区別する",
       "source_lessons": [
         9
       ],
       "before_sha256": "c00abe73a5e896becf7a3f3d7035fe72faeb866582cf06249863140bae2020c7",
-      "after_sha256": "f02103cbcac4e90bea72e0e7a314c40a775fdb5c7d27d9fa55c08c36e1d2321a",
+      "after_sha256": "cf46d492fe1be902ced29ebbfbb9cce61831e6f86e29803f1daaebc5ce0ce674",
       "chars_added": 1847,
-      "media_updated": false,
+      "media_updated": true,
       "revision_history": [
         {
           "date": "2026-11-05",
@@ -808,13 +808,35 @@
           "after_total": 65,
           "reason": "増補PPTX・PDFの説明要点、演習と説明例を本文に合わせ、頁対応と未更新媒体を記録。Eのみ1→2。",
           "before_body_sha256": "73fb4d59190ca030a3918812db784d11cb51ddd3ae73f5a16d4058d6520e88cb"
+        },
+        {
+          "date": "2026-11-06",
+          "stage": "本編媒体統合第11段階",
+          "before": [
+            3,
+            3,
+            3,
+            2,
+            2
+          ],
+          "after": [
+            3,
+            3,
+            3,
+            2,
+            3
+          ],
+          "before_total": 65,
+          "after_total": 70,
+          "reason": "本文・本編・ガイド・音声・字幕・動画と新版の案内を同期。Dは読み順精査が残るため2を維持。"
         }
       ],
       "media_status": {
         "supplement_pptx": "updated",
         "supplement_pdf": "updated",
-        "original_slides": "pending",
-        "videos": "pending"
+        "original_slides": "updated_in_reorganized_main",
+        "videos": "updated_in_reorganized_main",
+        "main_entry": "reorganized/20261105/main/09/README.md"
       }
     },
     {

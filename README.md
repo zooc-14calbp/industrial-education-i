@@ -18,7 +18,7 @@
 | 6 | [第6回 工業科で育てる力と授業の目標](reorganized/20261105/main/06/README.md) | [PDF](reorganized/20261105/main/06/slides.pdf)・[PowerPoint](reorganized/20261105/main/06/slides.pptx)・[学習ガイド](reorganized/20261105/main/06/student-guide.pdf)・[本文](reorganized/20261105/expanded/06.md) | [動画 6:50](https://github.com/zooc-14calbp/industrial-education-i/releases/download/mainmedia-20261106-stage9/industrial-education-i-06.mp4) |
 | 7 | [第7回 専門分野の科目と教育課程を読む](reorganized/20261105/main/07/README.md) | [PDF](reorganized/20261105/main/07/slides.pdf)・[PowerPoint](reorganized/20261105/main/07/slides.pptx)・[学習ガイド](reorganized/20261105/main/07/student-guide.pdf)・[本文](reorganized/20261105/expanded/07.md) | [動画 11:25](https://github.com/zooc-14calbp/industrial-education-i/releases/download/mainmedia-20261106-stage10/industrial-education-i-07.mp4) |
 | 8 | [第8回 工業技術基礎と実習と課題研究](reorganized/20261105/main/08/README.md) | [PDF](reorganized/20261105/main/08/slides.pdf)・[PowerPoint](reorganized/20261105/main/08/slides.pptx)・[学習ガイド](reorganized/20261105/main/08/student-guide.pdf)・[本文](reorganized/20261105/expanded/08.md) | [動画 12:41](https://github.com/zooc-14calbp/industrial-education-i/releases/download/mainmedia-20261105-stage1/industrial-education-i-08.mp4) |
-| 9 | [第9回 工業科の学習状況を捉え、参加と理解を支える](reorganized/20261105/expanded/09.md) | 本文・考える時間 | 準備中 |
+| 9 | [第9回 工業科の学習状況を捉え、参加と理解を支える](reorganized/20261105/main/09/README.md) | [PDF](reorganized/20261105/main/09/slides.pdf)・[PowerPoint](reorganized/20261105/main/09/slides.pptx)・[学習ガイド](reorganized/20261105/main/09/student-guide.pdf)・[本文](reorganized/20261105/expanded/09.md) | [動画 9:10](https://github.com/zooc-14calbp/industrial-education-i/releases/download/mainmedia-20261106-stage11/industrial-education-i-09.mp4) |
 | 10 | [第10回 課題研究と教育実践研究の読み方](reorganized/20261105/main/10/README.md) | [PDF](reorganized/20261105/main/10/slides.pdf)・[PowerPoint](reorganized/20261105/main/10/slides.pptx)・[学習ガイド](reorganized/20261105/main/10/student-guide.pdf)・[本文](reorganized/20261105/expanded/10.md) | [動画 12:10](https://github.com/zooc-14calbp/industrial-education-i/releases/download/mainmedia-20261105-stage1/industrial-education-i-10.mp4) |
 | 11 | [第11回 教材研究とICTと生成AIの活用](reorganized/20261105/expanded/11.md) | 本文・考える時間 | 準備中 |
 | 12 | [第12回 実験と実習の安全を支える指導](reorganized/20261105/expanded/12.md) | 本文・考える時間 | 準備中 |
@@ -40,7 +40,7 @@
 
 ## 改訂情報・制作資料
 
-- 2026年11月6日　第7回の本文・スライド・学習ガイド・字幕付き動画を更新。
+- 2026年11月6日　Ⅰ第9回の本文・スライド・学習ガイド・字幕付き動画を更新。
 - [本編教材の更新状況](docs/main-media-status.md)
 - [Ⅰ・Ⅱ共通の授業方針](docs/teaching-policy.md)
 - [教材設計と再編の経緯](docs/reorganization-proposal-20261105.md) ／ [各回の教材点検](docs/lesson-quality-review.md)

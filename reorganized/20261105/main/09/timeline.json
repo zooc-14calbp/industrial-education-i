@@ -1,0 +1,266 @@
+{
+  "seconds": 549.6333333333333,
+  "fps": 30,
+  "slides": 25,
+  "captions": 82,
+  "voice": "ja-JP-NanamiNeural",
+  "rate": "-5%",
+  "pause_minutes_planned": 20,
+  "reading_minutes_planned": null,
+  "combined_minutes_planned": null,
+  "student_trial_completed": false,
+  "timeline": [
+    {
+      "slide": 1,
+      "title": "工業科の学習状況を捉え、参加と理解を支える",
+      "start": 0,
+      "end": 18.833333333333332,
+      "seconds": 18.833333333333332,
+      "spoken_seconds": 17.328,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 2,
+      "title": "この回の到達目標",
+      "start": 18.833333333333332,
+      "end": 39.2,
+      "seconds": 20.366666666666667,
+      "spoken_seconds": 18.84,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 3,
+      "title": "考える時間を含む学び方",
+      "start": 39.2,
+      "end": 60.16666666666667,
+      "seconds": 20.966666666666665,
+      "spoken_seconds": 19.464,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 4,
+      "title": "言葉を使って確かめる",
+      "start": 60.16666666666667,
+      "end": 72.2,
+      "seconds": 12.033333333333333,
+      "spoken_seconds": 10.512,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 5,
+      "title": "言葉を使って確かめる：答え",
+      "start": 72.2,
+      "end": 82.63333333333334,
+      "seconds": 10.433333333333334,
+      "spoken_seconds": 8.928,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 6,
+      "title": "集団の調査と目の前の理解を区別する",
+      "start": 82.63333333333334,
+      "end": 118.86666666666667,
+      "seconds": 36.233333333333334,
+      "spoken_seconds": 34.704,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 7,
+      "title": "二つの学力調査を混同しない（1）",
+      "start": 118.86666666666667,
+      "end": 140.0,
+      "seconds": 21.133333333333333,
+      "spoken_seconds": 19.632,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 8,
+      "title": "二つの学力調査を混同しない（2）",
+      "start": 140.0,
+      "end": 161.13333333333333,
+      "seconds": 21.133333333333333,
+      "spoken_seconds": 19.632,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 9,
+      "title": "集団の調査と目の前の理解を区別する（2）",
+      "start": 161.13333333333333,
+      "end": 182.86666666666667,
+      "seconds": 21.733333333333334,
+      "spoken_seconds": 20.208,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 10,
+      "title": "集団の調査と目の前の理解を区別する（3）",
+      "start": 182.86666666666667,
+      "end": 225.63333333333333,
+      "seconds": 42.766666666666666,
+      "spoken_seconds": 41.256,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 11,
+      "title": "平均が同じでも、必要な支援は同じとは限らない",
+      "start": 225.63333333333333,
+      "end": 236.36666666666665,
+      "seconds": 10.733333333333333,
+      "spoken_seconds": 9.216,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 12,
+      "title": "平均が同じ二組の違い",
+      "start": 236.36666666666665,
+      "end": 253.39999999999998,
+      "seconds": 17.033333333333335,
+      "spoken_seconds": 15.504,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 13,
+      "title": "平均が同じでも、必要な支援は同じとは限らない（2）",
+      "start": 253.39999999999998,
+      "end": 282.2,
+      "seconds": 28.8,
+      "spoken_seconds": 27.288,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 14,
+      "title": "一つの誤答を、教え方の改善につなげる",
+      "start": 282.2,
+      "end": 306.3333333333333,
+      "seconds": 24.133333333333333,
+      "spoken_seconds": 22.632,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 15,
+      "title": "誤答を授業改善につなぐ（1）",
+      "start": 306.3333333333333,
+      "end": 323.16666666666663,
+      "seconds": 16.833333333333332,
+      "spoken_seconds": 15.312,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 16,
+      "title": "誤答を授業改善につなぐ（2）",
+      "start": 323.16666666666663,
+      "end": 339.99999999999994,
+      "seconds": 16.833333333333332,
+      "spoken_seconds": 15.312,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 17,
+      "title": "一つの誤答を、教え方の改善につなげる（2）",
+      "start": 339.99999999999994,
+      "end": 371.5333333333333,
+      "seconds": 31.533333333333335,
+      "spoken_seconds": 30.024,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 18,
+      "title": "一つの誤答を、教え方の改善につなげる（3）",
+      "start": 371.5333333333333,
+      "end": 406.3666666666666,
+      "seconds": 34.833333333333336,
+      "spoken_seconds": 33.312,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 19,
+      "title": "考える時間：一つの問い",
+      "start": 406.3666666666666,
+      "end": 444.46666666666664,
+      "seconds": 38.1,
+      "spoken_seconds": 36.576,
+      "pause_minutes": 15,
+      "exercise": true
+    },
+    {
+      "slide": 20,
+      "title": "自分の説明を確かめる",
+      "start": 444.46666666666664,
+      "end": 457.5,
+      "seconds": 13.033333333333333,
+      "spoken_seconds": 11.52,
+      "pause_minutes": 5,
+      "exercise": true
+    },
+    {
+      "slide": 21,
+      "title": "説明例",
+      "start": 457.5,
+      "end": 484.2,
+      "seconds": 26.7,
+      "spoken_seconds": 25.2,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 22,
+      "title": "今回の学びを次へ",
+      "start": 484.2,
+      "end": 507.2,
+      "seconds": 23.0,
+      "spoken_seconds": 21.48,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 23,
+      "title": "参考資料：読む場所",
+      "start": 507.2,
+      "end": 522.0666666666666,
+      "seconds": 14.866666666666667,
+      "spoken_seconds": 13.344,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 24,
+      "title": "参考資料：読む場所",
+      "start": 522.0666666666666,
+      "end": 536.5333333333333,
+      "seconds": 14.466666666666667,
+      "spoken_seconds": 12.96,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 25,
+      "title": "参考資料：読む場所",
+      "start": 536.5333333333333,
+      "end": 549.6333333333333,
+      "seconds": 13.1,
+      "spoken_seconds": 11.592,
+      "pause_minutes": 0,
+      "exercise": false
+    }
+  ],
+  "study_time_verified": false,
+  "duration_note": "視聴・読解・考える時間・小休止を含む90分程度が目標。学生試用は未実施。動画と停止箇所の単純合計を授業時間としない。"
+}
