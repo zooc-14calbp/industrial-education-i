@@ -960,20 +960,20 @@
         3,
         3,
         2,
-        2
+        3
       ],
       "before_total": 50,
-      "after_total": 65,
+      "after_total": 70,
       "finding": "AIの計算誤りの例に比べ、教材選択と視認性の説明が少ない",
-      "remaining": "修正した本文と動画の説明・字幕の対応を確認",
+      "remaining": "修正した本文と動画の説明・字幕の対応を確認。支援技術での読み順、担当者による発音、受講者による読解・演習時間の確認。",
       "evidence_heading": "教材の役割と生成AIの点検",
       "source_lessons": [
         11
       ],
       "before_sha256": "f95aa94f74889d018716dcbe6be517671f474862539a5373ebc27ab33dfb40cb",
-      "after_sha256": "b3205ee4c0ff258f477721b7d580689fc489623754ec9f91e511686b3503d098",
+      "after_sha256": "0e48d106ec98acdb0c0026b449fa88c3e7ec0da9e20bcb3bde58cb1453f7e08a",
       "chars_added": 567,
-      "media_updated": false,
+      "media_updated": true,
       "revision_history": [
         {
           "date": "2026-11-05",
@@ -996,13 +996,35 @@
           "after_total": 65,
           "reason": "増補PPTX・PDFの説明要点、演習と説明例を本文に合わせ、頁対応と未更新媒体を記録。Eのみ1→2。",
           "before_body_sha256": "bee2e6277b836618eaa730845de856f6d6c5b9826e10e93f3e9ff19b915e0b59"
+        },
+        {
+          "date": "2026-11-06",
+          "stage": "本編媒体統合第12段階",
+          "before": [
+            3,
+            3,
+            3,
+            2,
+            2
+          ],
+          "after": [
+            3,
+            3,
+            3,
+            2,
+            3
+          ],
+          "before_total": 65,
+          "after_total": 70,
+          "reason": "本文・本編・ガイド・音声・字幕・動画と新版の案内を同期。Dは読み順精査が残るため2を維持。"
         }
       ],
       "media_status": {
         "supplement_pptx": "updated",
         "supplement_pdf": "updated",
-        "original_slides": "pending",
-        "videos": "pending"
+        "original_slides": "updated_in_reorganized_main",
+        "videos": "updated_in_reorganized_main",
+        "main_entry": "reorganized/20261105/main/11/README.md"
       }
     },
     {
@@ -1021,20 +1043,20 @@
         3,
         2,
         2,
-        2
+        3
       ],
       "before_total": 50,
-      "after_total": 60,
+      "after_total": 65,
       "finding": "安全を支える環境と作業開始の判断が十分つながっていない",
-      "remaining": "設備固有の安全説明は実習担当者の点検を行う",
+      "remaining": "設備固有の安全説明は実習担当者の点検を行う。支援技術での読み順、担当者による発音、受講者による読解・演習時間の確認。",
       "evidence_heading": "安全の判断を授業の仕組みにする",
       "source_lessons": [
         12
       ],
       "before_sha256": "b81ea83d97a0ae89560bba91720065686e82d620a4f5d880849f3fcfadaf41aa",
-      "after_sha256": "c37fb39b859b745ce57001193658c62542af568a58b2456957b6508973edb1ec",
+      "after_sha256": "6fd9695c7caf71d35b466c4f4bb66b39890ae762b8d45f67267cac8a4c36d86d",
       "chars_added": 497,
-      "media_updated": false,
+      "media_updated": true,
       "revision_history": [
         {
           "date": "2026-11-05",
@@ -1057,13 +1079,35 @@
           "after_total": 60,
           "reason": "増補PPTX・PDFの説明要点、演習と説明例を本文に合わせ、頁対応と未更新媒体を記録。Eのみ1→2。",
           "before_body_sha256": "3e00287c42ebc82c9e4ce40650c7d28cbf62daa759fea054ea524644387b7401"
+        },
+        {
+          "date": "2026-11-06",
+          "stage": "本編媒体統合第12段階",
+          "before": [
+            3,
+            3,
+            2,
+            2,
+            2
+          ],
+          "after": [
+            3,
+            3,
+            2,
+            2,
+            3
+          ],
+          "before_total": 60,
+          "after_total": 65,
+          "reason": "本文・本編・ガイド・音声・字幕・動画と新版の案内を同期。Dは読み順精査が残るため2を維持。"
         }
       ],
       "media_status": {
         "supplement_pptx": "updated",
         "supplement_pdf": "updated",
-        "original_slides": "pending",
-        "videos": "pending"
+        "original_slides": "updated_in_reorganized_main",
+        "videos": "updated_in_reorganized_main",
+        "main_entry": "reorganized/20261105/main/12/README.md"
       }
     },
     {
@@ -1082,20 +1126,20 @@
         3,
         3,
         2,
-        2
+        3
       ],
       "before_total": 50,
-      "after_total": 65,
+      "after_total": 70,
       "finding": "態度の評価と形成的な確認を具体的に説明する本文が不足",
-      "remaining": "同じ記録を複数の担当者が評価する照合例を追加",
+      "remaining": "同じ記録を複数の担当者が評価する照合例を追加。支援技術での読み順、担当者による発音、受講者による読解・演習時間の確認。",
       "evidence_heading": "評価を次の学習へ返す",
       "source_lessons": [
         13
       ],
       "before_sha256": "e254a7023eb2c837e4a14e2947e5ee8ed6e26b56b608f428af52dfc3f4918b38",
-      "after_sha256": "e3c6f8d432c61176a08945213a0f64075e6bd81918db3b201fa9d47deb8c9394",
+      "after_sha256": "986f5049ad8247d59daa42c814bee157c78a8b2a7b9db7eb4561d15620961b35",
       "chars_added": 601,
-      "media_updated": false,
+      "media_updated": true,
       "revision_history": [
         {
           "date": "2026-11-05",
@@ -1118,13 +1162,35 @@
           "after_total": 65,
           "reason": "増補PPTX・PDFの説明要点、演習と説明例を本文に合わせ、頁対応と未更新媒体を記録。Eのみ1→2。",
           "before_body_sha256": "b58312fd4d325f741055237c40a2bbaa15742b6bde7942388faaf89770437070"
+        },
+        {
+          "date": "2026-11-06",
+          "stage": "本編媒体統合第12段階",
+          "before": [
+            3,
+            3,
+            3,
+            2,
+            2
+          ],
+          "after": [
+            3,
+            3,
+            3,
+            2,
+            3
+          ],
+          "before_total": 65,
+          "after_total": 70,
+          "reason": "本文・本編・ガイド・音声・字幕・動画と新版の案内を同期。Dは読み順精査が残るため2を維持。"
         }
       ],
       "media_status": {
         "supplement_pptx": "updated",
         "supplement_pdf": "updated",
-        "original_slides": "pending",
-        "videos": "pending"
+        "original_slides": "updated_in_reorganized_main",
+        "videos": "updated_in_reorganized_main",
+        "main_entry": "reorganized/20261105/main/13/README.md"
       }
     },
     {
@@ -1143,20 +1209,20 @@
         3,
         3,
         2,
-        2
+        3
       ],
       "before_total": 40,
-      "after_total": 65,
+      "after_total": 70,
       "finding": "免許の教科の全体像が本文に示されていない",
-      "remaining": "希少教科の取得可能大学数の同一基準日での集計と、具体的な履修条件の確認。",
+      "remaining": "希少教科の取得可能大学数の同一基準日での集計と、具体的な履修条件の確認。支援技術での読み順、担当者による発音、受講者による読解・演習時間の確認。",
       "evidence_heading": "免許と専門性を引き継ぐ仕組み",
       "source_lessons": [
         14
       ],
       "before_sha256": "065e9e742373b0ddb357bb1ec43770a1b341fa51518b2b1fdf55c46b736ccfb8",
-      "after_sha256": "88f6917e445a59fc96e328dfbcd84c66979eff9f0d44dc70342a803ce943f403",
+      "after_sha256": "8c9f3be4054d9f405ed7f918d362bc85c2b9f47afbf0b7eee522fb099c993108",
       "chars_added": 2178,
-      "media_updated": false,
+      "media_updated": true,
       "revision_history": [
         {
           "date": "2026-11-05",
@@ -1201,13 +1267,35 @@
           "after_total": 65,
           "reason": "免許法第4条の区分・教科を照合し、修得・授与・採用と一覧の基準日を区別。",
           "before_body_sha256": "8d1993360a61704d70928567a4dae348221bc96b5d8934a941be60de4a062c82"
+        },
+        {
+          "date": "2026-11-06",
+          "stage": "本編媒体統合第12段階",
+          "before": [
+            3,
+            3,
+            3,
+            2,
+            2
+          ],
+          "after": [
+            3,
+            3,
+            3,
+            2,
+            3
+          ],
+          "before_total": 65,
+          "after_total": 70,
+          "reason": "本文・本編・ガイド・音声・字幕・動画と新版の案内を同期。Dは読み順精査が残るため2を維持。"
         }
       ],
       "media_status": {
         "supplement_pptx": "updated",
         "supplement_pdf": "updated",
-        "original_slides": "pending",
-        "videos": "pending"
+        "original_slides": "updated_in_reorganized_main",
+        "videos": "updated_in_reorganized_main",
+        "main_entry": "reorganized/20261105/main/14/README.md"
       }
     },
     {

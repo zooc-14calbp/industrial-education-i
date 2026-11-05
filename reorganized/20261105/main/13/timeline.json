@@ -1,0 +1,226 @@
+{
+  "seconds": 380.2666666666666,
+  "fps": 30,
+  "slides": 21,
+  "captions": 58,
+  "voice": "ja-JP-NanamiNeural",
+  "rate": "-5%",
+  "pause_minutes_planned": 20,
+  "reading_minutes_planned": null,
+  "combined_minutes_planned": null,
+  "student_trial_completed": false,
+  "timeline": [
+    {
+      "slide": 1,
+      "title": "学習評価と学びの証拠",
+      "start": 0,
+      "end": 16.7,
+      "seconds": 16.7,
+      "spoken_seconds": 15.192,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 2,
+      "title": "この回の到達目標",
+      "start": 16.7,
+      "end": 28.43333333333333,
+      "seconds": 11.733333333333333,
+      "spoken_seconds": 10.224,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 3,
+      "title": "考える時間を含む学び方",
+      "start": 28.43333333333333,
+      "end": 49.39999999999999,
+      "seconds": 20.966666666666665,
+      "spoken_seconds": 19.464,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 4,
+      "title": "言葉を使って確かめる",
+      "start": 49.39999999999999,
+      "end": 62.86666666666666,
+      "seconds": 13.466666666666667,
+      "spoken_seconds": 11.952,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 5,
+      "title": "言葉を使って確かめる（2）",
+      "start": 62.86666666666666,
+      "end": 74.86666666666666,
+      "seconds": 12.0,
+      "spoken_seconds": 10.488,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 6,
+      "title": "言葉を使って確かめる：答え",
+      "start": 74.86666666666666,
+      "end": 87.43333333333332,
+      "seconds": 12.566666666666666,
+      "spoken_seconds": 11.064,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 7,
+      "title": "評価を次の学習へ返す",
+      "start": 87.43333333333332,
+      "end": 115.76666666666665,
+      "seconds": 28.333333333333332,
+      "spoken_seconds": 26.832,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 8,
+      "title": "評価を次の学習へ返す（2）",
+      "start": 115.76666666666665,
+      "end": 122.39999999999999,
+      "seconds": 6.633333333333334,
+      "spoken_seconds": 5.112,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 9,
+      "title": "評価を次の学習へ返す（3）",
+      "start": 122.39999999999999,
+      "end": 142.1,
+      "seconds": 19.7,
+      "spoken_seconds": 18.168,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 10,
+      "title": "評価を次の学習へ返す（4）",
+      "start": 142.1,
+      "end": 153.73333333333332,
+      "seconds": 11.633333333333333,
+      "spoken_seconds": 10.128,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 11,
+      "title": "評価を次の学習へ返す（5）",
+      "start": 153.73333333333332,
+      "end": 171.26666666666665,
+      "seconds": 17.533333333333335,
+      "spoken_seconds": 16.008,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 12,
+      "title": "評価を次の学習へ返す（6）",
+      "start": 171.26666666666665,
+      "end": 187.06666666666666,
+      "seconds": 15.8,
+      "spoken_seconds": 14.28,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 13,
+      "title": "完成品と判断の記録",
+      "start": 187.06666666666666,
+      "end": 209.6,
+      "seconds": 22.533333333333335,
+      "spoken_seconds": 21.024,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 14,
+      "title": "完成品と判断の記録（2）",
+      "start": 209.6,
+      "end": 231.33333333333331,
+      "seconds": 21.733333333333334,
+      "spoken_seconds": 20.208,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 15,
+      "title": "完成品と判断の記録：表を読む",
+      "start": 231.33333333333331,
+      "end": 262.16666666666663,
+      "seconds": 30.833333333333332,
+      "spoken_seconds": 29.304,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 16,
+      "title": "考える時間：一つの問い",
+      "start": 262.16666666666663,
+      "end": 287.59999999999997,
+      "seconds": 25.433333333333334,
+      "spoken_seconds": 23.928,
+      "pause_minutes": 15,
+      "exercise": true
+    },
+    {
+      "slide": 17,
+      "title": "自分の説明を確かめる",
+      "start": 287.59999999999997,
+      "end": 303.3333333333333,
+      "seconds": 15.733333333333333,
+      "spoken_seconds": 14.232,
+      "pause_minutes": 5,
+      "exercise": true
+    },
+    {
+      "slide": 18,
+      "title": "説明例",
+      "start": 303.3333333333333,
+      "end": 314.09999999999997,
+      "seconds": 10.766666666666667,
+      "spoken_seconds": 9.24,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 19,
+      "title": "今回の学びを次へ",
+      "start": 314.09999999999997,
+      "end": 337.46666666666664,
+      "seconds": 23.366666666666667,
+      "spoken_seconds": 21.84,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 20,
+      "title": "参考資料：読む場所",
+      "start": 337.46666666666664,
+      "end": 358.3666666666666,
+      "seconds": 20.9,
+      "spoken_seconds": 19.368,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 21,
+      "title": "参考資料：読む場所",
+      "start": 358.3666666666666,
+      "end": 380.2666666666666,
+      "seconds": 21.9,
+      "spoken_seconds": 20.4,
+      "pause_minutes": 0,
+      "exercise": false
+    }
+  ],
+  "study_time_verified": false,
+  "duration_note": "視聴・読解・考える時間・小休止を含む90分程度が目標。学生試用は未実施。動画と停止箇所の単純合計を授業時間としない。"
+}

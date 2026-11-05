@@ -296,7 +296,7 @@
     {
       "number": 11,
       "body": "reorganized/20261105/expanded/11.md",
-      "body_sha256": "b3205ee4c0ff258f477721b7d580689fc489623754ec9f91e511686b3503d098",
+      "body_sha256": "0e48d106ec98acdb0c0026b449fa88c3e7ec0da9e20bcb3bde58cb1453f7e08a",
       "notes_body_sha256_lf": "aa88e58466cd77f22257eec29566c6498052b9748d0f45b78f248ad8142ff57e",
       "pages": [
         42,
@@ -310,16 +310,20 @@
       "status": {
         "supplement_pptx": "updated",
         "supplement_pdf": "updated",
-        "original_slides": "pending",
-        "videos": "pending"
+        "original_slides": "updated_in_reorganized_main",
+        "videos": "updated_in_reorganized_main"
       },
-      "prerequisite_check": "本文の到達目標の後に問いと答えを追加。既存のスライド・PDF・動画は追加前の版。",
-      "terminology_review": "増補スライドの説明頁に用語の手がかりを追加。問いと答えは各回の本文で確認。各回の旧本編と動画は今回の改訂前。"
+      "prerequisite_check": "日常の例と比較表を本文・本編に反映し、資料の読み方を考える問いと説明例を掲載。",
+      "terminology_review": "本文・本編で初出の用語を短く説明。増補要点スライドは別冊で前の版。",
+      "main_entry": "reorganized/20261105/main/11/README.md",
+      "main_manifest": "reorganized/20261105/main/11/manifest.json",
+      "main_notes_body_sha256_lf": "aa88e58466cd77f22257eec29566c6498052b9748d0f45b78f248ad8142ff57e",
+      "reading_example_update": "改訂本文を本編スライド・学習ガイド・字幕付き動画へ反映。全15回の要点スライドは別冊。"
     },
     {
       "number": 12,
       "body": "reorganized/20261105/expanded/12.md",
-      "body_sha256": "c37fb39b859b745ce57001193658c62542af568a58b2456957b6508973edb1ec",
+      "body_sha256": "6fd9695c7caf71d35b466c4f4bb66b39890ae762b8d45f67267cac8a4c36d86d",
       "notes_body_sha256_lf": "c03d0b7af7eedf379939aa670184fbffddf7aad4a528bde86c6110a4d4f1b7eb",
       "pages": [
         46,
@@ -333,16 +337,20 @@
       "status": {
         "supplement_pptx": "updated",
         "supplement_pdf": "updated",
-        "original_slides": "pending",
-        "videos": "pending"
+        "original_slides": "updated_in_reorganized_main",
+        "videos": "updated_in_reorganized_main"
       },
-      "prerequisite_check": "本文の到達目標の後に問いと答えを追加。既存のスライド・PDF・動画は追加前の版。",
-      "terminology_review": "増補スライドの説明頁に用語の手がかりを追加。問いと答えは各回の本文で確認。各回の旧本編と動画は今回の改訂前。"
+      "prerequisite_check": "日常の例と比較表を本文・本編に反映し、資料の読み方を考える問いと説明例を掲載。",
+      "terminology_review": "本文・本編で初出の用語を短く説明。増補要点スライドは別冊で前の版。",
+      "main_entry": "reorganized/20261105/main/12/README.md",
+      "main_manifest": "reorganized/20261105/main/12/manifest.json",
+      "main_notes_body_sha256_lf": "c03d0b7af7eedf379939aa670184fbffddf7aad4a528bde86c6110a4d4f1b7eb",
+      "reading_example_update": "改訂本文を本編スライド・学習ガイド・字幕付き動画へ反映。全15回の要点スライドは別冊。"
     },
     {
       "number": 13,
       "body": "reorganized/20261105/expanded/13.md",
-      "body_sha256": "e3c6f8d432c61176a08945213a0f64075e6bd81918db3b201fa9d47deb8c9394",
+      "body_sha256": "986f5049ad8247d59daa42c814bee157c78a8b2a7b9db7eb4561d15620961b35",
       "notes_body_sha256_lf": "75ee6c91d4c6e22bf307a38830edce0a461ff248922d7c69f5baa2a184828c05",
       "pages": [
         50,
@@ -356,16 +364,20 @@
       "status": {
         "supplement_pptx": "updated",
         "supplement_pdf": "updated",
-        "original_slides": "pending",
-        "videos": "pending"
+        "original_slides": "updated_in_reorganized_main",
+        "videos": "updated_in_reorganized_main"
       },
-      "prerequisite_check": "本文の到達目標の後に問いと答えを追加。既存のスライド・PDF・動画は追加前の版。",
-      "terminology_review": "増補スライドの説明頁に用語の手がかりを追加。問いと答えは各回の本文で確認。各回の旧本編と動画は今回の改訂前。"
+      "prerequisite_check": "日常の例と比較表を本文・本編に反映し、資料の読み方を考える問いと説明例を掲載。",
+      "terminology_review": "本文・本編で初出の用語を短く説明。増補要点スライドは別冊で前の版。",
+      "main_entry": "reorganized/20261105/main/13/README.md",
+      "main_manifest": "reorganized/20261105/main/13/manifest.json",
+      "main_notes_body_sha256_lf": "75ee6c91d4c6e22bf307a38830edce0a461ff248922d7c69f5baa2a184828c05",
+      "reading_example_update": "改訂本文を本編スライド・学習ガイド・字幕付き動画へ反映。全15回の要点スライドは別冊。"
     },
     {
       "number": 14,
       "body": "reorganized/20261105/expanded/14.md",
-      "body_sha256": "88f6917e445a59fc96e328dfbcd84c66979eff9f0d44dc70342a803ce943f403",
+      "body_sha256": "8c9f3be4054d9f405ed7f918d362bc85c2b9f47afbf0b7eee522fb099c993108",
       "notes_body_sha256_lf": "4b65ddcba4f99bb2409beec6cecd03b0cef20e0c85e4fa232a25f516c17e33b5",
       "pages": [
         54,
@@ -379,12 +391,16 @@
       "status": {
         "supplement_pptx": "updated",
         "supplement_pdf": "updated",
-        "original_slides": "pending",
-        "videos": "pending"
+        "original_slides": "updated_in_reorganized_main",
+        "videos": "updated_in_reorganized_main"
       },
       "revision": "法令・免許・資格の重点改稿",
-      "prerequisite_check": "本文の到達目標の後に問いと答えを追加。既存のスライド・PDF・動画は追加前の版。",
-      "terminology_review": "増補スライドの説明頁に用語の手がかりを追加。問いと答えは各回の本文で確認。各回の旧本編と動画は今回の改訂前。"
+      "prerequisite_check": "日常の例と比較表を本文・本編に反映し、資料の読み方を考える問いと説明例を掲載。",
+      "terminology_review": "本文・本編で初出の用語を短く説明。増補要点スライドは別冊で前の版。",
+      "main_entry": "reorganized/20261105/main/14/README.md",
+      "main_manifest": "reorganized/20261105/main/14/manifest.json",
+      "main_notes_body_sha256_lf": "4b65ddcba4f99bb2409beec6cecd03b0cef20e0c85e4fa232a25f516c17e33b5",
+      "reading_example_update": "改訂本文を本編スライド・学習ガイド・字幕付き動画へ反映。全15回の要点スライドは別冊。"
     },
     {
       "number": 15,

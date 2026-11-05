@@ -1,0 +1,43 @@
+{
+  "revision": "mainmedia-20261106-stage12",
+  "course": "i",
+  "lesson": 14,
+  "source_lesson": 14,
+  "body_sha256_lf": "4b65ddcba4f99bb2409beec6cecd03b0cef20e0c85e4fa232a25f516c17e33b5",
+  "slides": 35,
+  "video_seconds": 707.5333333333334,
+  "voice": "ja-JP-NanamiNeural",
+  "files": {
+    "slides.pptx": "7e2d25fe6b32abd598ceba373f3a5b3882926700f2066f613d526d9ee198309a",
+    "slides.pdf": "000f1995a456c8e91a9e3f45ab30f4bcc21bbd81391daef61a2e1038e9aac1fd",
+    "student-guide.pdf": "d41642cb351b1975023fe48fa7d9c94203368432243a19d4c3e37c6ee27a5fb9",
+    "captions.srt": "905e8605fc1d76b458f3bfea4bc649f7562dbef14c3d37eb829d88e0ce8e771c",
+    "captions.vtt": "13d930062b1c1cdb3595d0ec821d8dd788b4b34c8f54761306560f8ce1bc9454",
+    "narration.txt": "93e12d517f15887a739f63363f4030ad5994aad0eddb0281a0a1e6bec52499e4",
+    "timeline.json": "fd5883446bf5a099b5db5b05b3202b6571d797c4f485ab2f9dab611e0441e231"
+  },
+  "video": {
+    "url": "https://github.com/zooc-14calbp/industrial-education-i/releases/download/mainmedia-20261106-stage12/industrial-education-i-14.mp4",
+    "sha256": "e761e15b32fd460c0dcddcef581c236c48297a38a6d2b03a0881c8908d0040ae"
+  },
+  "audio": {
+    "url": "https://github.com/zooc-14calbp/industrial-education-i/releases/download/mainmedia-20261106-stage12/industrial-education-i-14-audio.mp3",
+    "sha256": "7ea1b0d29094c9ce834f15c5acdf4995608d44399bdb4efc8e762385be15a34d"
+  },
+  "qa": {
+    "id": "i-14",
+    "video_seconds": 707.5333333333334,
+    "video_frames": 21226,
+    "slides": 35,
+    "all_slide_samples_matched": true,
+    "worst_mean_pixel_difference": 2.2813333333333334,
+    "captions": 106,
+    "subtitle_text_matched": true,
+    "full_decode": "pass",
+    "human_full_audio_review": false,
+    "student_trial_completed": false,
+    "video_sha256": "e761e15b32fd460c0dcddcef581c236c48297a38a6d2b03a0881c8908d0040ae"
+  },
+  "student_trial_completed": false,
+  "study_time_verified": false
+}

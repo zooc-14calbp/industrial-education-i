@@ -1,0 +1,216 @@
+{
+  "seconds": 369.49999999999994,
+  "fps": 30,
+  "slides": 20,
+  "captions": 56,
+  "voice": "ja-JP-NanamiNeural",
+  "rate": "-5%",
+  "pause_minutes_planned": 20,
+  "reading_minutes_planned": null,
+  "combined_minutes_planned": null,
+  "student_trial_completed": false,
+  "timeline": [
+    {
+      "slide": 1,
+      "title": "実験と実習の安全を支える指導",
+      "start": 0,
+      "end": 17.466666666666665,
+      "seconds": 17.466666666666665,
+      "spoken_seconds": 15.936,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 2,
+      "title": "この回の到達目標",
+      "start": 17.466666666666665,
+      "end": 33.5,
+      "seconds": 16.033333333333335,
+      "spoken_seconds": 14.52,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 3,
+      "title": "考える時間を含む学び方",
+      "start": 33.5,
+      "end": 54.46666666666667,
+      "seconds": 20.966666666666665,
+      "spoken_seconds": 19.464,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 4,
+      "title": "言葉を使って確かめる",
+      "start": 54.46666666666667,
+      "end": 67.63333333333334,
+      "seconds": 13.166666666666666,
+      "spoken_seconds": 11.64,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 5,
+      "title": "言葉を使って確かめる（2）",
+      "start": 67.63333333333334,
+      "end": 78.5,
+      "seconds": 10.866666666666667,
+      "spoken_seconds": 9.36,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 6,
+      "title": "言葉を使って確かめる：答え",
+      "start": 78.5,
+      "end": 87.46666666666667,
+      "seconds": 8.966666666666667,
+      "spoken_seconds": 7.44,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 7,
+      "title": "安全の判断を授業の仕組みにする",
+      "start": 87.46666666666667,
+      "end": 113.1,
+      "seconds": 25.633333333333333,
+      "spoken_seconds": 24.12,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 8,
+      "title": "安全の判断を授業の仕組みにする（2）",
+      "start": 113.1,
+      "end": 139.79999999999998,
+      "seconds": 26.7,
+      "spoken_seconds": 25.176,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 9,
+      "title": "安全の判断を授業の仕組みにする（3）",
+      "start": 139.79999999999998,
+      "end": 145.7,
+      "seconds": 5.9,
+      "spoken_seconds": 4.368,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 10,
+      "title": "安全の判断を授業の仕組みにする（4）",
+      "start": 145.7,
+      "end": 167.66666666666666,
+      "seconds": 21.966666666666665,
+      "spoken_seconds": 20.448,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 11,
+      "title": "安全の判断を授業の仕組みにする（5）",
+      "start": 167.66666666666666,
+      "end": 178.16666666666666,
+      "seconds": 10.5,
+      "spoken_seconds": 9.0,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 12,
+      "title": "実習室の環境と作業前の確認",
+      "start": 178.16666666666666,
+      "end": 197.66666666666666,
+      "seconds": 19.5,
+      "spoken_seconds": 18.0,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 13,
+      "title": "実習室の環境と作業前の確認（2）",
+      "start": 197.66666666666666,
+      "end": 219.5,
+      "seconds": 21.833333333333332,
+      "spoken_seconds": 20.328,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 14,
+      "title": "実習室の環境と作業前の確認：表を読む",
+      "start": 219.5,
+      "end": 248.76666666666665,
+      "seconds": 29.266666666666666,
+      "spoken_seconds": 27.744,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 15,
+      "title": "考える時間：一つの問い",
+      "start": 248.76666666666665,
+      "end": 276.6333333333333,
+      "seconds": 27.866666666666667,
+      "spoken_seconds": 26.352,
+      "pause_minutes": 15,
+      "exercise": true
+    },
+    {
+      "slide": 16,
+      "title": "自分の説明を確かめる",
+      "start": 276.6333333333333,
+      "end": 292.3666666666667,
+      "seconds": 15.733333333333333,
+      "spoken_seconds": 14.232,
+      "pause_minutes": 5,
+      "exercise": true
+    },
+    {
+      "slide": 17,
+      "title": "説明例",
+      "start": 292.3666666666667,
+      "end": 304.93333333333334,
+      "seconds": 12.566666666666666,
+      "spoken_seconds": 11.04,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 18,
+      "title": "今回の学びを次へ",
+      "start": 304.93333333333334,
+      "end": 326.8333333333333,
+      "seconds": 21.9,
+      "spoken_seconds": 20.376,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 19,
+      "title": "参考資料：読む場所",
+      "start": 326.8333333333333,
+      "end": 347.59999999999997,
+      "seconds": 20.766666666666666,
+      "spoken_seconds": 19.248,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 20,
+      "title": "参考資料：読む場所",
+      "start": 347.59999999999997,
+      "end": 369.49999999999994,
+      "seconds": 21.9,
+      "spoken_seconds": 20.4,
+      "pause_minutes": 0,
+      "exercise": false
+    }
+  ],
+  "study_time_verified": false,
+  "duration_note": "視聴・読解・考える時間・小休止を含む90分程度が目標。学生試用は未実施。動画と停止箇所の単純合計を授業時間としない。"
+}

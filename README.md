@@ -20,10 +20,10 @@
 | 8 | [第8回 工業技術基礎と実習と課題研究](reorganized/20261105/main/08/README.md) | [PDF](reorganized/20261105/main/08/slides.pdf)・[PowerPoint](reorganized/20261105/main/08/slides.pptx)・[学習ガイド](reorganized/20261105/main/08/student-guide.pdf)・[本文](reorganized/20261105/expanded/08.md) | [動画 12:41](https://github.com/zooc-14calbp/industrial-education-i/releases/download/mainmedia-20261105-stage1/industrial-education-i-08.mp4) |
 | 9 | [第9回 工業科の学習状況を捉え、参加と理解を支える](reorganized/20261105/main/09/README.md) | [PDF](reorganized/20261105/main/09/slides.pdf)・[PowerPoint](reorganized/20261105/main/09/slides.pptx)・[学習ガイド](reorganized/20261105/main/09/student-guide.pdf)・[本文](reorganized/20261105/expanded/09.md) | [動画 9:10](https://github.com/zooc-14calbp/industrial-education-i/releases/download/mainmedia-20261106-stage11/industrial-education-i-09.mp4) |
 | 10 | [第10回 課題研究と教育実践研究の読み方](reorganized/20261105/main/10/README.md) | [PDF](reorganized/20261105/main/10/slides.pdf)・[PowerPoint](reorganized/20261105/main/10/slides.pptx)・[学習ガイド](reorganized/20261105/main/10/student-guide.pdf)・[本文](reorganized/20261105/expanded/10.md) | [動画 12:10](https://github.com/zooc-14calbp/industrial-education-i/releases/download/mainmedia-20261105-stage1/industrial-education-i-10.mp4) |
-| 11 | [第11回 教材研究とICTと生成AIの活用](reorganized/20261105/expanded/11.md) | 本文・考える時間 | 準備中 |
-| 12 | [第12回 実験と実習の安全を支える指導](reorganized/20261105/expanded/12.md) | 本文・考える時間 | 準備中 |
-| 13 | [第13回 学習評価と学びの証拠](reorganized/20261105/expanded/13.md) | 本文・考える時間 | 準備中 |
-| 14 | [第14回 工業科教員の仕事と免許と教科経営](reorganized/20261105/expanded/14.md) | 本文・考える時間 | 準備中 |
+| 11 | [第11回 教材研究とICTと生成AIの活用](reorganized/20261105/main/11/README.md) | [PDF](reorganized/20261105/main/11/slides.pdf)・[PowerPoint](reorganized/20261105/main/11/slides.pptx)・[学習ガイド](reorganized/20261105/main/11/student-guide.pdf)・[本文](reorganized/20261105/expanded/11.md) | [動画 6:10](https://github.com/zooc-14calbp/industrial-education-i/releases/download/mainmedia-20261106-stage12/industrial-education-i-11.mp4) |
+| 12 | [第12回 実験と実習の安全を支える指導](reorganized/20261105/main/12/README.md) | [PDF](reorganized/20261105/main/12/slides.pdf)・[PowerPoint](reorganized/20261105/main/12/slides.pptx)・[学習ガイド](reorganized/20261105/main/12/student-guide.pdf)・[本文](reorganized/20261105/expanded/12.md) | [動画 6:09](https://github.com/zooc-14calbp/industrial-education-i/releases/download/mainmedia-20261106-stage12/industrial-education-i-12.mp4) |
+| 13 | [第13回 学習評価と学びの証拠](reorganized/20261105/main/13/README.md) | [PDF](reorganized/20261105/main/13/slides.pdf)・[PowerPoint](reorganized/20261105/main/13/slides.pptx)・[学習ガイド](reorganized/20261105/main/13/student-guide.pdf)・[本文](reorganized/20261105/expanded/13.md) | [動画 6:20](https://github.com/zooc-14calbp/industrial-education-i/releases/download/mainmedia-20261106-stage12/industrial-education-i-13.mp4) |
+| 14 | [第14回 工業科教員の仕事と免許と教科経営](reorganized/20261105/main/14/README.md) | [PDF](reorganized/20261105/main/14/slides.pdf)・[PowerPoint](reorganized/20261105/main/14/slides.pptx)・[学習ガイド](reorganized/20261105/main/14/student-guide.pdf)・[本文](reorganized/20261105/expanded/14.md) | [動画 11:48](https://github.com/zooc-14calbp/industrial-education-i/releases/download/mainmedia-20261106-stage12/industrial-education-i-14.mp4) |
 | 15 | [第15回 目標と内容と指導と評価をつなぐ](reorganized/20261105/main/15/README.md) | [PDF](reorganized/20261105/main/15/slides.pdf)・[PowerPoint](reorganized/20261105/main/15/slides.pptx)・[学習ガイド](reorganized/20261105/main/15/student-guide.pdf)・[本文](reorganized/20261105/expanded/15.md) | [動画 9:52](https://github.com/zooc-14calbp/industrial-education-i/releases/download/mainmedia-20261106-stage2/industrial-education-i-15.mp4) |
 
 [全15回の要点スライド（PDF）](reorganized/20261105/expanded/slides.pdf) ／ [要点スライド（PowerPoint）](reorganized/20261105/expanded/slides.pptx) ／ [要点スライドのページ一覧](reorganized/20261105/expanded/README.md)
@@ -40,7 +40,7 @@
 
 ## 改訂情報・制作資料
 
-- 2026年11月6日　Ⅰ第9回の本文・スライド・学習ガイド・字幕付き動画を更新。
+- 2026年11月6日　第11～14回の本文・スライド・学習ガイド・字幕付き動画を更新。
 - [本編教材の更新状況](docs/main-media-status.md)
 - [Ⅰ・Ⅱ共通の授業方針](docs/teaching-policy.md)
 - [教材設計と再編の経緯](docs/reorganization-proposal-20261105.md) ／ [各回の教材点検](docs/lesson-quality-review.md)
