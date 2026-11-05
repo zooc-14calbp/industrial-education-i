@@ -272,22 +272,40 @@
       "after": [
         3,
         3,
-        2,
+        3,
         2,
         1
       ],
       "before_total": 35,
-      "after_total": 55,
+      "after_total": 60,
       "finding": "学力調査を読む到達目標に対して調査の説明と出典が不足",
-      "remaining": "工業基礎学力テストの原表・設問・参加範囲を再照合して図示",
+      "remaining": "新しい比較表・換算例を配信媒体へ反映し、初学者の試読で理解と所要時間を確認",
       "evidence_heading": "集団の調査と目の前の理解を区別する",
       "source_lessons": [
         9
       ],
       "before_sha256": "c00abe73a5e896becf7a3f3d7035fe72faeb866582cf06249863140bae2020c7",
-      "after_sha256": "f09435e10c9d00475d1a673438a402c91304a0761bf8be867309aed4f1b6e958",
-      "chars_added": 923,
-      "media_updated": false
+      "after_sha256": "73fb4d59190ca030a3918812db784d11cb51ddd3ae73f5a16d4058d6520e88cb",
+      "chars_added": 1847,
+      "media_updated": false,
+      "revision_history": [
+        {
+          "date": "2026-11-05",
+          "stage": "重点推敲2",
+          "rubric_version": "1",
+          "previous_score": [
+            3,
+            3,
+            2,
+            2,
+            1
+          ],
+          "previous_total": 55,
+          "previous_sha256": "f09435e10c9d00475d1a673438a402c91304a0761bf8be867309aed4f1b6e958",
+          "change": "二つの調査の対象・内容・比較限界、平均の架空比較、単位換算の確認と支援後評価を追加",
+          "checked_scope": "増補本文・重点一次資料・計算・リンク。既存媒体は今回未再点検。"
+        }
+      ]
     },
     {
       "id": "i10",
