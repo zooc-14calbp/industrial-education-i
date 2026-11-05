@@ -38,24 +38,24 @@
   "audio_url": "https://github.com/zooc-14calbp/industrial-education-i/releases/download/curriculum-replacement-20261105-batch1/industrial-education-i-11-audio.mp3",
   "files": {
     "slides.pptx": {
-      "bytes": 120259,
-      "sha256": "a6e31cd0ba7876614ee4f0d65b1d656f4a56648e92d39419c6dd4c664c79a036"
+      "bytes": 119009,
+      "sha256": "1f8019dc5315e182eef9e998a1b816211bf8b22bdcfad10cb5ab8da22db079ac"
     },
     "slides.pdf": {
-      "bytes": 380052,
-      "sha256": "4cf48326b569dbf109e77e764a23f759e6cd482cebaaf2c10864144fe2696b61"
+      "bytes": 368974,
+      "sha256": "59ba9638fd33ee2881d0e6523d29dd5d25e4c69efd8e2f999a205e43c4abf526"
     },
     "student-guide.pdf": {
-      "bytes": 118880,
-      "sha256": "e9314173edd53c7f3db398b58242e3d7a19d38843dce843e1b7a6141d7aa174c"
+      "bytes": 176959,
+      "sha256": "1dc1b15dca907c46afaad88ad7b041330f71971675f2e18c9d410f701a304c73"
     },
     "exercise-guide.pdf": {
-      "bytes": 118880,
-      "sha256": "e9314173edd53c7f3db398b58242e3d7a19d38843dce843e1b7a6141d7aa174c"
+      "bytes": 176959,
+      "sha256": "1dc1b15dca907c46afaad88ad7b041330f71971675f2e18c9d410f701a304c73"
     },
     "content.json": {
-      "bytes": 49006,
-      "sha256": "209d1521c0716d6072d732cdfe8099b93d00335269150b5607725e7ef53b10d7"
+      "bytes": 49010,
+      "sha256": "7b0d999fd48173eb6e7271b2fa2c332fdeadda4460c94a71a107ff8fcc927745"
     },
     "captions.srt": {
       "bytes": 22120,
@@ -66,20 +66,20 @@
       "sha256": "be94a02a18944dbf215fa87d87c09f21ef9701b47a61288ceece7fb3609a2c33"
     },
     "narration.txt": {
-      "bytes": 16467,
-      "sha256": "4337b0dfe540f1149fae5fcc771600d2ac2052e8538405de840a644242eb7de4"
+      "bytes": 16469,
+      "sha256": "ea3c1ee4ebbeacf2e382282aecb3b556552773934dd14b85c3da40ffe0125dee"
     },
     "timeline.json": {
-      "bytes": 7638,
-      "sha256": "e3555ff4beb47bbcb20818a5bedfbe27190da45324654a1de40262b9db8ea53e"
+      "bytes": 7640,
+      "sha256": "21fad143d2799d67ddcefc3efc3343f4d108c1919fcc054fc08aabd10fe5cbae"
     },
     "exercise.md": {
-      "bytes": 1043,
-      "sha256": "5351b9c23cd153bd89b4e15f854add58ed5a9fd53512ee002c23b95bea9ec860"
+      "bytes": 1045,
+      "sha256": "dbc44bbdabf96bab202a9242bd4b5b8051caab5b9f0301fab4e327db40f4e799"
     },
     "README.md": {
-      "bytes": 2999,
-      "sha256": "6fe4408937329f9c7363220ad72bb893310c68b47bd25c5bea9fe911985566bf"
+      "bytes": 3161,
+      "sha256": "016268f509d77819c06a35b68e2bae80016350437a3e0e204f2258425c224c3f"
     },
     "industrial-education-i-11.mp4": {
       "bytes": 61296441,

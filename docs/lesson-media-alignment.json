@@ -104,7 +104,7 @@
     {
       "number": 5,
       "body": "reorganized/20261105/expanded/05.md",
-      "body_sha256": "363270668613322b097d9c242a850ac5946600d23634f77ae7e5f25620f05cac",
+      "body_sha256": "9c9d0ca021ab920951b65c6f11f09279c78282662ebb80b8f378997660f5cea5",
       "notes_body_sha256_lf": "02891c7978b3b58fd97367c3260692a84d7cd7c1f461d506b3eb201eeb9112ee",
       "pages": [
         18,
@@ -121,7 +121,8 @@
         "original_slides": "pending",
         "videos": "pending"
       },
-      "revision": "法令・免許・資格の重点改稿"
+      "revision": "法令・免許・資格の重点改稿",
+      "terminology_update": "本文と既存本編スライドに用語説明を追記。増補スライドのノートと動画は追記前の版。"
     },
     {
       "number": 6,

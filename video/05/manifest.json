@@ -37,12 +37,12 @@
   "audio_url": "https://github.com/zooc-14calbp/industrial-education-i/releases/download/videos-exercise-first-20261104/industrial-education-i-05-audio.mp3",
   "files": {
     "slides.pptx": {
-      "bytes": 202478,
-      "sha256": "8067af69a0ed440e253a3382f19c2a056e35aac45c25c71a9daf61a72551cc64"
+      "bytes": 200270,
+      "sha256": "2897706f6f789e4ef58df0142b644863885014013c8a20ca0cda4b6d59826ce8"
     },
     "slides.pdf": {
-      "bytes": 582328,
-      "sha256": "8ef6b9ff89c319c2a0294072f57d232b80c4c9c933e14697ca210eee95870c76"
+      "bytes": 479254,
+      "sha256": "63707d5042ad78b3ee2274721ee8a0f2f4961f722e7161cf6172afce3cee78b6"
     },
     "exercise-guide.pdf": {
       "bytes": 112307,
@@ -65,12 +65,12 @@
       "sha256": "5e1e0783907733e97b58ec6b1247f58f0477248e3e5c1abdb5a64599b706c7d9"
     },
     "content.json": {
-      "bytes": 81716,
-      "sha256": "5e920e47f29d62c53cc3e0b3fb625acda96f6e27ae0438f6396e14de1a922ab4"
+      "bytes": 81806,
+      "sha256": "baf020a88e58d6082f94bb1005a2d8bf7c23b4918e51efa1315767645543b151"
     },
     "timeline.json": {
-      "bytes": 12409,
-      "sha256": "0c5dba697f43b21adebd629e77cc0108e2fc44e173b6921afa49ef8ccdac91f2"
+      "bytes": 12460,
+      "sha256": "025b6b9ebbceca5c6ae37a33c5cf2f3bec2b77f895e68c64a076b09cc1e5497e"
     },
     "industrial-education-i-05.mp4": {
       "bytes": 148265638,
