@@ -64,7 +64,7 @@
     {
       "number": 3,
       "body": "reorganized/20261105/expanded/03.md",
-      "body_sha256": "7924a89846e6694c491fa6ab4a94db763c6285f9d88aa8ffef945c863698d15b",
+      "body_sha256": "f64a3468a3a5d74e562afbd1967507634c8ddbd4f4d76ab263702c4058e1d7c7",
       "notes_body_sha256_lf": "c847d10a05ec2c670e67a0acc9ad1003733e5628ab983dfa864262658a791d04",
       "pages": [
         10,
@@ -81,7 +81,8 @@
         "original_slides": "pending",
         "videos": "pending"
       },
-      "prerequisite_check": "本文の到達目標の後に問いと答えを追加。既存のスライド・PDF・動画は追加前の版。"
+      "prerequisite_check": "本文の到達目標の後に問いと答えを追加。既存のスライド・PDF・動画は追加前の版。",
+      "collaboration_wording": "本文で実習中の具体的な行動を説明。Ⅰ第6回は配布用本編スライドにも例を追加。既存の動画と増補スライドは追記前。"
     },
     {
       "number": 4,
@@ -132,7 +133,7 @@
     {
       "number": 6,
       "body": "reorganized/20261105/expanded/06.md",
-      "body_sha256": "1eda31308259f29ab9811f1247b7758ea6b262f9d1f82d9538e5f60bba619682",
+      "body_sha256": "3204269d661ba307e368fd83ed456cbe3c393583c51ec463379fc0f4120c2055",
       "notes_body_sha256_lf": "16e17d9c1a8604f4a76b7c1f298399268146f19fc53b47dc16e42fda030edf8c",
       "pages": [
         22,
@@ -149,7 +150,8 @@
         "original_slides": "pending",
         "videos": "pending"
       },
-      "prerequisite_check": "本文の到達目標の後に問いと答えを追加。既存のスライド・PDF・動画は追加前の版。"
+      "prerequisite_check": "本文の到達目標の後に問いと答えを追加。既存のスライド・PDF・動画は追加前の版。",
+      "collaboration_wording": "本文で実習中の具体的な行動を説明。Ⅰ第6回は配布用本編スライドにも例を追加。既存の動画と増補スライドは追記前。"
     },
     {
       "number": 7,
@@ -203,7 +205,7 @@
     {
       "number": 9,
       "body": "reorganized/20261105/expanded/09.md",
-      "body_sha256": "246b2724624e12f5282561cb70735d844afba1f45e0e0989125a7290b2ba154e",
+      "body_sha256": "f02103cbcac4e90bea72e0e7a314c40a775fdb5c7d27d9fa55c08c36e1d2321a",
       "notes_body_sha256_lf": "73fb4d59190ca030a3918812db784d11cb51ddd3ae73f5a16d4058d6520e88cb",
       "pages": [
         34,
@@ -220,7 +222,8 @@
         "original_slides": "pending",
         "videos": "pending"
       },
-      "prerequisite_check": "本文の到達目標の後に問いと答えを追加。既存のスライド・PDF・動画は追加前の版。"
+      "prerequisite_check": "本文の到達目標の後に問いと答えを追加。既存のスライド・PDF・動画は追加前の版。",
+      "collaboration_wording": "本文で実習中の具体的な行動を説明。Ⅰ第6回は配布用本編スライドにも例を追加。既存の動画と増補スライドは追記前。"
     },
     {
       "number": 10,
