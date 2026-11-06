@@ -37,7 +37,7 @@
         1
       ],
       "before_sha256": "7cead140971ec6e06c49543ec3ca282471ed3dec5db0f7c88109a699d864f494",
-      "after_sha256": "d21d20f68148ece78249fd865793bd855c5a0640e50014a5c2f1e80fd5175f62",
+      "after_sha256": "f91805a206e891b948ad77a42ca90920e29f43449010bd3e78ed5606f350026f",
       "chars_added": 535,
       "media_updated": true,
       "revision_history": [
@@ -83,6 +83,27 @@
           "before_total": 60,
           "after_total": 65,
           "reason": "本文・本編・ガイド・音声・字幕・動画と新版の案内を同期。Dは読み順精査が残るため2を維持。"
+        },
+        {
+          "date": "2026-11-06",
+          "stage": "音声で分かる導入と図表同期",
+          "before": [
+            3,
+            3,
+            2,
+            2,
+            3
+          ],
+          "after": [
+            3,
+            3,
+            2,
+            2,
+            3
+          ],
+          "before_total": 65,
+          "after_total": 65,
+          "reason": "各回冒頭の問いと学ぶ順序を具体化。曖昧な指示語と表の不要な定型文を修正。スライド、ガイド、字幕付き動画に反映。端末・学生試用は未実施。"
         }
       ],
       "media_status": {
@@ -120,7 +141,7 @@
         2
       ],
       "before_sha256": "661f757f67faaead5b2b407a7d9c2b013be4a66201d83c1ca24def9fca355f76",
-      "after_sha256": "af379fa9eb3e1f942475a844b1ae5f46dd9604dd397a31502ee32f4e9cbadb02",
+      "after_sha256": "134a59c78506df28efc16b0c8652948ed4a978a7ef62ee550bd88400aa5f2035",
       "chars_added": 603,
       "media_updated": true,
       "revision_history": [
@@ -166,6 +187,27 @@
           "before_total": 60,
           "after_total": 65,
           "reason": "本文・本編・ガイド・音声・字幕・動画と新版の案内を同期。Dは読み順精査が残るため2を維持。"
+        },
+        {
+          "date": "2026-11-06",
+          "stage": "音声で分かる導入と図表同期",
+          "before": [
+            3,
+            3,
+            2,
+            2,
+            3
+          ],
+          "after": [
+            3,
+            3,
+            2,
+            2,
+            3
+          ],
+          "before_total": 65,
+          "after_total": 65,
+          "reason": "各回冒頭の問いと学ぶ順序を具体化。曖昧な指示語と表の不要な定型文を修正。スライド、ガイド、字幕付き動画に反映。端末・学生試用は未実施。"
         }
       ],
       "media_status": {
@@ -203,7 +245,7 @@
         3
       ],
       "before_sha256": "b18216c755b9d32bf0053caed62ce34131543098166a89c5bda62c7613a7d0ac",
-      "after_sha256": "472bb73855851653021321537bf73ee5c30940b528b263ffc1d12acd878f4e05",
+      "after_sha256": "0021d1a63ea7146130a21eaf60588d3e723965bf2bb28d2dd8ad46ae24572743",
       "chars_added": 511,
       "media_updated": true,
       "revision_history": [
@@ -249,6 +291,27 @@
           "before_total": 65,
           "after_total": 70,
           "reason": "本文・本編・ガイド・音声・字幕・動画と新版の案内を同期。Dは読み順精査が残るため2を維持。"
+        },
+        {
+          "date": "2026-11-06",
+          "stage": "音声で分かる導入と図表同期",
+          "before": [
+            3,
+            3,
+            3,
+            2,
+            3
+          ],
+          "after": [
+            3,
+            3,
+            3,
+            2,
+            3
+          ],
+          "before_total": 70,
+          "after_total": 70,
+          "reason": "各回冒頭の問いと学ぶ順序を具体化。曖昧な指示語と表の不要な定型文を修正。スライド、ガイド、字幕付き動画に反映。端末・学生試用は未実施。"
         }
       ],
       "media_status": {
@@ -286,7 +349,7 @@
         4
       ],
       "before_sha256": "1d4d5ca518086b29c61d7dcb83076cdeb9c790e4d9d6aeb093b92322c9d72d9b",
-      "after_sha256": "e83468e401e407dce4476201f0020217676aeb44196d2eeee0b8a04ec8464c8e",
+      "after_sha256": "dfe8653199dca076082f2610a13f69355bd4e808068af117256d2be115492ee5",
       "chars_added": 628,
       "media_updated": true,
       "revision_history": [
@@ -353,6 +416,27 @@
           "before_total": 65,
           "after_total": 65,
           "reason": "学校基本調査に基づく地域別進学率を再作図し、本文と全媒体へ反映。採点尺度と未確認項目は維持。"
+        },
+        {
+          "date": "2026-11-06",
+          "stage": "音声で分かる導入と図表同期",
+          "before": [
+            3,
+            3,
+            2,
+            2,
+            3
+          ],
+          "after": [
+            3,
+            3,
+            2,
+            2,
+            3
+          ],
+          "before_total": 65,
+          "after_total": 65,
+          "reason": "各回冒頭の問いと学ぶ順序を具体化。曖昧な指示語と表の不要な定型文を修正。スライド、ガイド、字幕付き動画に反映。端末・学生試用は未実施。"
         }
       ],
       "media_status": {
@@ -390,7 +474,7 @@
         5
       ],
       "before_sha256": "cbd45c9c391dc5eabb912526a61d27905284103f0dbd9e2c6b96230409bc7efa",
-      "after_sha256": "ce673528bcea8f4343bf335670fc0f1b74f47aa187752eed91bba15f7741b37f",
+      "after_sha256": "b5bd2546a47a8e096fc6f63b46a65134fe7dab94d1cfe64f5ff8c578d0a27e35",
       "chars_added": 1998,
       "media_updated": true,
       "revision_history": [
@@ -479,6 +563,27 @@
           "before_total": 70,
           "after_total": 70,
           "reason": "現行告示と審議まとめ、予定図、意見公募を区別し、全媒体に反映。採点尺度と未確認項目は維持。"
+        },
+        {
+          "date": "2026-11-06",
+          "stage": "音声で分かる導入と図表同期",
+          "before": [
+            3,
+            3,
+            3,
+            2,
+            3
+          ],
+          "after": [
+            3,
+            3,
+            3,
+            2,
+            3
+          ],
+          "before_total": 70,
+          "after_total": 70,
+          "reason": "各回冒頭の問いと学ぶ順序を具体化。曖昧な指示語と表の不要な定型文を修正。スライド、ガイド、字幕付き動画に反映。端末・学生試用は未実施。"
         }
       ],
       "media_status": {
@@ -516,7 +621,7 @@
         6
       ],
       "before_sha256": "3319ed72b0bc231b4d82cb7ae58678f4ba86353d9cd553f5761c03256c2e05bf",
-      "after_sha256": "679c1ca6eb19da550bb85cd273ca432afae74cdaa93dbf44558baeecefddbb0e",
+      "after_sha256": "17c5d8d03f09a27abb8773da85480b0a9185b86cf636c5d72d45bcc67b7b866b",
       "chars_added": 610,
       "media_updated": true,
       "revision_history": [
@@ -562,6 +667,27 @@
           "before_total": 65,
           "after_total": 70,
           "reason": "本文・本編・ガイド・音声・字幕・動画と新版の案内を同期。Dは読み順精査が残るため2を維持。"
+        },
+        {
+          "date": "2026-11-06",
+          "stage": "音声で分かる導入と図表同期",
+          "before": [
+            3,
+            3,
+            3,
+            2,
+            3
+          ],
+          "after": [
+            3,
+            3,
+            3,
+            2,
+            3
+          ],
+          "before_total": 70,
+          "after_total": 70,
+          "reason": "各回冒頭の問いと学ぶ順序を具体化。曖昧な指示語と表の不要な定型文を修正。スライド、ガイド、字幕付き動画に反映。端末・学生試用は未実施。"
         }
       ],
       "media_status": {
@@ -599,7 +725,7 @@
         7
       ],
       "before_sha256": "f36df0d46b00ba284cb96c5aace367a781ccf199f2e0a25ad183b289ed5b3e3e",
-      "after_sha256": "c875c1b559cdd2f73e85b1c2181c6cfa3536fda0ccb14bbfc810cb15b4a95c7a",
+      "after_sha256": "d2b0ff2dd3523c24f938b95f93cbac3a501eb87ef37333eeb031ee5feee67fec",
       "chars_added": 2072,
       "media_updated": true,
       "revision_history": [
@@ -667,6 +793,27 @@
           "before_total": 65,
           "after_total": 70,
           "reason": "本文・本編・ガイド・音声・字幕・動画と新版の案内を同期。Dは読み順精査が残るため2を維持。"
+        },
+        {
+          "date": "2026-11-06",
+          "stage": "音声で分かる導入と図表同期",
+          "before": [
+            3,
+            3,
+            3,
+            2,
+            3
+          ],
+          "after": [
+            3,
+            3,
+            3,
+            2,
+            3
+          ],
+          "before_total": 70,
+          "after_total": 70,
+          "reason": "各回冒頭の問いと学ぶ順序を具体化。曖昧な指示語と表の不要な定型文を修正。スライド、ガイド、字幕付き動画に反映。端末・学生試用は未実施。"
         }
       ],
       "media_status": {
@@ -704,7 +851,7 @@
         8
       ],
       "before_sha256": "4911b6d442a672b84d04b5f70c759781ef424b2c528705d4a12cb56001af0313",
-      "after_sha256": "bbcf48fdadaf04308510479bc815b589a08b1401278d7a36c35ac9728582de7f",
+      "after_sha256": "3852352f97fbf277c56a44e10c21e248680ab3c13f167ca82c04c61e891da38f",
       "chars_added": 1867,
       "media_updated": true,
       "revision_history": [
@@ -772,6 +919,27 @@
           "before_total": 65,
           "after_total": 70,
           "reason": "本文・本編・ガイド・音声・字幕・動画と新版の案内を同期。Dは読み順精査が残るため2を維持。"
+        },
+        {
+          "date": "2026-11-06",
+          "stage": "音声で分かる導入と図表同期",
+          "before": [
+            3,
+            3,
+            3,
+            2,
+            3
+          ],
+          "after": [
+            3,
+            3,
+            3,
+            2,
+            3
+          ],
+          "before_total": 70,
+          "after_total": 70,
+          "reason": "各回冒頭の問いと学ぶ順序を具体化。曖昧な指示語と表の不要な定型文を修正。スライド、ガイド、字幕付き動画に反映。端末・学生試用は未実施。"
         }
       ],
       "media_status": {
@@ -809,7 +977,7 @@
         9
       ],
       "before_sha256": "c00abe73a5e896becf7a3f3d7035fe72faeb866582cf06249863140bae2020c7",
-      "after_sha256": "cf46d492fe1be902ced29ebbfbb9cce61831e6f86e29803f1daaebc5ce0ce674",
+      "after_sha256": "b8a68d567750bf43b3e00da4146aabbab50e383589d2084d2064be84c051dd9d",
       "chars_added": 1847,
       "media_updated": true,
       "revision_history": [
@@ -871,6 +1039,27 @@
           "before_total": 65,
           "after_total": 70,
           "reason": "本文・本編・ガイド・音声・字幕・動画と新版の案内を同期。Dは読み順精査が残るため2を維持。"
+        },
+        {
+          "date": "2026-11-06",
+          "stage": "音声で分かる導入と図表同期",
+          "before": [
+            3,
+            3,
+            3,
+            2,
+            3
+          ],
+          "after": [
+            3,
+            3,
+            3,
+            2,
+            3
+          ],
+          "before_total": 70,
+          "after_total": 70,
+          "reason": "各回冒頭の問いと学ぶ順序を具体化。曖昧な指示語と表の不要な定型文を修正。スライド、ガイド、字幕付き動画に反映。端末・学生試用は未実施。"
         }
       ],
       "media_status": {
@@ -908,7 +1097,7 @@
         10
       ],
       "before_sha256": "61cc6c9ea7a4c0cae5986ab74e4987be321c35d3654cee48dd11a99dc7ccb474",
-      "after_sha256": "108ebadaa62d64c2f439350d1d84ee979a61ca5063727d060d9f726e3b596dff",
+      "after_sha256": "6ee44289eb014ecf4d2a5f9d5a578af7090e6dcaaf01a147636465fc5c1e4ee5",
       "chars_added": 1950,
       "media_updated": true,
       "revision_history": [
@@ -976,6 +1165,27 @@
           "before_total": 65,
           "after_total": 70,
           "reason": "本文・本編・ガイド・音声・字幕・動画と新版の案内を同期。Dは読み順精査が残るため2を維持。"
+        },
+        {
+          "date": "2026-11-06",
+          "stage": "音声で分かる導入と図表同期",
+          "before": [
+            3,
+            3,
+            3,
+            2,
+            3
+          ],
+          "after": [
+            3,
+            3,
+            3,
+            2,
+            3
+          ],
+          "before_total": 70,
+          "after_total": 70,
+          "reason": "各回冒頭の問いと学ぶ順序を具体化。曖昧な指示語と表の不要な定型文を修正。スライド、ガイド、字幕付き動画に反映。端末・学生試用は未実施。"
         }
       ],
       "media_status": {
@@ -1013,7 +1223,7 @@
         11
       ],
       "before_sha256": "f95aa94f74889d018716dcbe6be517671f474862539a5373ebc27ab33dfb40cb",
-      "after_sha256": "0e48d106ec98acdb0c0026b449fa88c3e7ec0da9e20bcb3bde58cb1453f7e08a",
+      "after_sha256": "16ea55ab2132ecb4edd2fda6bc66eb98f8d97d9bd3ded47be1a9c08a177a9513",
       "chars_added": 567,
       "media_updated": true,
       "revision_history": [
@@ -1059,6 +1269,27 @@
           "before_total": 65,
           "after_total": 70,
           "reason": "本文・本編・ガイド・音声・字幕・動画と新版の案内を同期。Dは読み順精査が残るため2を維持。"
+        },
+        {
+          "date": "2026-11-06",
+          "stage": "音声で分かる導入と図表同期",
+          "before": [
+            3,
+            3,
+            3,
+            2,
+            3
+          ],
+          "after": [
+            3,
+            3,
+            3,
+            2,
+            3
+          ],
+          "before_total": 70,
+          "after_total": 70,
+          "reason": "各回冒頭の問いと学ぶ順序を具体化。曖昧な指示語と表の不要な定型文を修正。スライド、ガイド、字幕付き動画に反映。端末・学生試用は未実施。"
         }
       ],
       "media_status": {
@@ -1096,7 +1327,7 @@
         12
       ],
       "before_sha256": "b81ea83d97a0ae89560bba91720065686e82d620a4f5d880849f3fcfadaf41aa",
-      "after_sha256": "6fd9695c7caf71d35b466c4f4bb66b39890ae762b8d45f67267cac8a4c36d86d",
+      "after_sha256": "ae08dbda5179300046ed88fd7e77768e678b5616caf3e25ce41122703af11f8a",
       "chars_added": 497,
       "media_updated": true,
       "revision_history": [
@@ -1142,6 +1373,27 @@
           "before_total": 60,
           "after_total": 65,
           "reason": "本文・本編・ガイド・音声・字幕・動画と新版の案内を同期。Dは読み順精査が残るため2を維持。"
+        },
+        {
+          "date": "2026-11-06",
+          "stage": "音声で分かる導入と図表同期",
+          "before": [
+            3,
+            3,
+            2,
+            2,
+            3
+          ],
+          "after": [
+            3,
+            3,
+            2,
+            2,
+            3
+          ],
+          "before_total": 65,
+          "after_total": 65,
+          "reason": "各回冒頭の問いと学ぶ順序を具体化。曖昧な指示語と表の不要な定型文を修正。スライド、ガイド、字幕付き動画に反映。端末・学生試用は未実施。"
         }
       ],
       "media_status": {
@@ -1179,7 +1431,7 @@
         13
       ],
       "before_sha256": "e254a7023eb2c837e4a14e2947e5ee8ed6e26b56b608f428af52dfc3f4918b38",
-      "after_sha256": "986f5049ad8247d59daa42c814bee157c78a8b2a7b9db7eb4561d15620961b35",
+      "after_sha256": "0d25fcece3d192162189a14c2a4024636408c1f5796d92419f42b839bf5d11f5",
       "chars_added": 601,
       "media_updated": true,
       "revision_history": [
@@ -1225,6 +1477,27 @@
           "before_total": 65,
           "after_total": 70,
           "reason": "本文・本編・ガイド・音声・字幕・動画と新版の案内を同期。Dは読み順精査が残るため2を維持。"
+        },
+        {
+          "date": "2026-11-06",
+          "stage": "音声で分かる導入と図表同期",
+          "before": [
+            3,
+            3,
+            3,
+            2,
+            3
+          ],
+          "after": [
+            3,
+            3,
+            3,
+            2,
+            3
+          ],
+          "before_total": 70,
+          "after_total": 70,
+          "reason": "各回冒頭の問いと学ぶ順序を具体化。曖昧な指示語と表の不要な定型文を修正。スライド、ガイド、字幕付き動画に反映。端末・学生試用は未実施。"
         }
       ],
       "media_status": {
@@ -1262,7 +1535,7 @@
         14
       ],
       "before_sha256": "065e9e742373b0ddb357bb1ec43770a1b341fa51518b2b1fdf55c46b736ccfb8",
-      "after_sha256": "8c9f3be4054d9f405ed7f918d362bc85c2b9f47afbf0b7eee522fb099c993108",
+      "after_sha256": "ed5493ecd5163c9be9e68363124cb3f179d380255fc6a5b79267af0bbde7ce7d",
       "chars_added": 2178,
       "media_updated": true,
       "revision_history": [
@@ -1330,6 +1603,27 @@
           "before_total": 65,
           "after_total": 70,
           "reason": "本文・本編・ガイド・音声・字幕・動画と新版の案内を同期。Dは読み順精査が残るため2を維持。"
+        },
+        {
+          "date": "2026-11-06",
+          "stage": "音声で分かる導入と図表同期",
+          "before": [
+            3,
+            3,
+            3,
+            2,
+            3
+          ],
+          "after": [
+            3,
+            3,
+            3,
+            2,
+            3
+          ],
+          "before_total": 70,
+          "after_total": 70,
+          "reason": "各回冒頭の問いと学ぶ順序を具体化。曖昧な指示語と表の不要な定型文を修正。スライド、ガイド、字幕付き動画に反映。端末・学生試用は未実施。"
         }
       ],
       "media_status": {
@@ -1367,7 +1661,7 @@
         15
       ],
       "before_sha256": "af8f1cb92bfcd3ffa5075b43fb6f93609742d843723b0a7b5c1ee529499d5328",
-      "after_sha256": "2f3c7f527a7df9e213927319ac48dc60216f1255269d9e732f32638bb8cd890f",
+      "after_sha256": "fc2cdc23e3308baf379e066a59146eb6995a387ceab07410815b00bcda659bd0",
       "chars_added": 486,
       "media_updated": true,
       "revision_history": [
@@ -1413,6 +1707,27 @@
           "before_total": 65,
           "after_total": 70,
           "reason": "本文・本編・ガイド・音声・字幕・動画と新版の案内を同期。Dは読み順精査が残るため2を維持。"
+        },
+        {
+          "date": "2026-11-06",
+          "stage": "音声で分かる導入と図表同期",
+          "before": [
+            3,
+            3,
+            3,
+            2,
+            3
+          ],
+          "after": [
+            3,
+            3,
+            3,
+            2,
+            3
+          ],
+          "before_total": 70,
+          "after_total": 70,
+          "reason": "各回冒頭の問いと学ぶ順序を具体化。曖昧な指示語と表の不要な定型文を修正。スライド、ガイド、字幕付き動画に反映。端末・学生試用は未実施。"
         }
       ],
       "media_status": {

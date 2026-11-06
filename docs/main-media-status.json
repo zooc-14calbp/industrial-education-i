@@ -1,5 +1,5 @@
 {
-  "revision": "mainmedia-20261106-stage16",
+  "revision": "spoken-clarity-20261106-i",
   "updated": [
     {
       "id": "i01",
@@ -8,9 +8,9 @@
       "source_lesson": 1,
       "title": "工業高校と高校教育・職業教育の見取り図",
       "slides": 19,
-      "seconds": 425.6333333333333,
+      "seconds": 434.6333333333333,
       "path": "reorganized/20261105/main/01",
-      "body_sha256_lf": "26ef391e98516f54fa0dfddc720583e2f8318c551bdf2464925dd444f26a6de6"
+      "body_sha256_lf": "7926b6830a8d9fc5f7ece9343ca606c19a80aae806418171d1418f16bf323e53"
     },
     {
       "id": "i02",
@@ -19,9 +19,9 @@
       "source_lesson": 2,
       "title": "工業の専門分野と社会を支える技術",
       "slides": 15,
-      "seconds": 397.36666666666673,
+      "seconds": 403.00000000000006,
       "path": "reorganized/20261105/main/02",
-      "body_sha256_lf": "2b14a82d38b1207752821b0a582cdf6d48216a9ae30a836fcf43fba61f55992a"
+      "body_sha256_lf": "7000fd1a0027f8e7ef202fcb51c7f3ee5f377cab2fdb0f9db2ad71ac573c554a"
     },
     {
       "id": "i03",
@@ -30,9 +30,9 @@
       "source_lesson": 3,
       "title": "工業高校の授業と実習を具体的に知る",
       "slides": 18,
-      "seconds": 364.43333333333334,
+      "seconds": 365.96666666666664,
       "path": "reorganized/20261105/main/03",
-      "body_sha256_lf": "2037a3bda0c355e438817aa7f6c1ba494e119afe19dd3caa5839c2bccb6358c0"
+      "body_sha256_lf": "a7f91ea9089051913d77078449a3dd1240c332859e681b16013fa4957d6f1c17"
     },
     {
       "id": "i04",
@@ -41,9 +41,9 @@
       "source_lesson": 4,
       "title": "工業教育の歴史と地域社会と進路",
       "slides": 36,
-      "seconds": 850.7333333333331,
+      "seconds": 828.4999999999998,
       "path": "reorganized/20261105/main/04",
-      "body_sha256_lf": "6146827b996ab11346219cd51b1812d342d9d175e234c9bc423f796f4a9c921b"
+      "body_sha256_lf": "1f11bcadd2135a61c495ae25128d0558b4d3b789f2f014958fd8045fdbac83fd"
     },
     {
       "id": "i05",
@@ -52,9 +52,9 @@
       "source_lesson": 5,
       "title": "教育法規と学習指導要領の法的根拠",
       "slides": 51,
-      "seconds": 1157.833333333333,
+      "seconds": 1089.4666666666665,
       "path": "reorganized/20261105/main/05",
-      "body_sha256_lf": "ecd8bc60cff6e7c821399bba9c36d8af99a921bacf53282bbc3241b3ccfb543c"
+      "body_sha256_lf": "637bd56d8eb305a185286ebc1b7e0cec69474a2a0f1b31df053d58f0556d9b09"
     },
     {
       "id": "i06",
@@ -63,9 +63,9 @@
       "source_lesson": 6,
       "title": "工業科で育てる力と授業の目標",
       "slides": 20,
-      "seconds": 410.4666666666667,
+      "seconds": 413.43333333333334,
       "path": "reorganized/20261105/main/06",
-      "body_sha256_lf": "748dc90789802406ce9cb93a204e3a0a2f7f660d61aa0b0a8a0687e4610ef802"
+      "body_sha256_lf": "b771b3b87a8a3a6e534dda16ca5381d4142d9b5b7f853d247bb71595d4044332"
     },
     {
       "id": "i07",
@@ -74,9 +74,9 @@
       "source_lesson": 7,
       "title": "専門分野の科目と教育課程を読む",
       "slides": 27,
-      "seconds": 685.1333333333333,
+      "seconds": 696.4666666666667,
       "path": "reorganized/20261105/main/07",
-      "body_sha256_lf": "cf36e3d235ca974953e1ab633c946bbb5c96ccdd169df5cd40d23f71f170da90"
+      "body_sha256_lf": "b55b50bccd28c5edf2684a53e065be03d0f855b22410590d7e31df1af89b2efd"
     },
     {
       "id": "i08",
@@ -85,9 +85,9 @@
       "source_lesson": 8,
       "title": "工業技術基礎と実習と課題研究",
       "slides": 26,
-      "seconds": 760.8000000000001,
+      "seconds": 764.9333333333334,
       "path": "reorganized/20261105/main/08",
-      "body_sha256_lf": "794469bba56dec4d23b37bf2302596e3ff859704533174ca2797d357204f78ad"
+      "body_sha256_lf": "03eeedf46a0b07f36bfd1d3a1063097e89bd749a8f71d828051e80fa52c105cd"
     },
     {
       "id": "i09",
@@ -96,9 +96,9 @@
       "source_lesson": 9,
       "title": "工業科の学習状況を捉え、参加と理解を支える",
       "slides": 25,
-      "seconds": 549.6333333333333,
+      "seconds": 553.0,
       "path": "reorganized/20261105/main/09",
-      "body_sha256_lf": "cd9f32dac1ec0577ccfcd986dc672530c5cc48f5fe7c026f23f2164669df91eb"
+      "body_sha256_lf": "92db2cc139a70ea9958cdd88b73745f1985902c29c70412c4ae51f87cb6aedf8"
     },
     {
       "id": "i10",
@@ -107,9 +107,9 @@
       "source_lesson": 10,
       "title": "課題研究と教育実践研究の読み方",
       "slides": 25,
-      "seconds": 729.8333333333334,
+      "seconds": 736.6,
       "path": "reorganized/20261105/main/10",
-      "body_sha256_lf": "6cadd8a40552fed14093c71a375f1755ee671a9aa5365893499572b728e30279"
+      "body_sha256_lf": "e422fa90e68514306245fc4fe32ebd00401d93debcfd9c4a1a21cf7543ef3da8"
     },
     {
       "id": "i11",
@@ -118,9 +118,9 @@
       "source_lesson": 11,
       "title": "教材研究とICTと生成AIの活用",
       "slides": 19,
-      "seconds": 370.4333333333333,
+      "seconds": 367.4,
       "path": "reorganized/20261105/main/11",
-      "body_sha256_lf": "aa88e58466cd77f22257eec29566c6498052b9748d0f45b78f248ad8142ff57e"
+      "body_sha256_lf": "f4380a7270bd75a06eb940933cf7e9620948050a723a2b3339bf9c28faf4f154"
     },
     {
       "id": "i12",
@@ -129,9 +129,9 @@
       "source_lesson": 12,
       "title": "実験と実習の安全を支える指導",
       "slides": 20,
-      "seconds": 369.49999999999994,
+      "seconds": 367.03333333333325,
       "path": "reorganized/20261105/main/12",
-      "body_sha256_lf": "c03d0b7af7eedf379939aa670184fbffddf7aad4a528bde86c6110a4d4f1b7eb"
+      "body_sha256_lf": "a27a2b4f3b1ad1c46050ee323c7a6e11b74c7e91539c290deb0530ca5763c81d"
     },
     {
       "id": "i13",
@@ -140,9 +140,9 @@
       "source_lesson": 13,
       "title": "学習評価と学びの証拠",
       "slides": 21,
-      "seconds": 380.2666666666666,
+      "seconds": 380.3333333333333,
       "path": "reorganized/20261105/main/13",
-      "body_sha256_lf": "75ee6c91d4c6e22bf307a38830edce0a461ff248922d7c69f5baa2a184828c05"
+      "body_sha256_lf": "769bb7e2962d3f0d1751ab74a6c4b295be977e1bc71cbf390a5e5daae7a0368b"
     },
     {
       "id": "i14",
@@ -151,9 +151,9 @@
       "source_lesson": 14,
       "title": "工業科教員の仕事と免許と教科経営",
       "slides": 35,
-      "seconds": 707.5333333333334,
+      "seconds": 687.5333333333334,
       "path": "reorganized/20261105/main/14",
-      "body_sha256_lf": "4b65ddcba4f99bb2409beec6cecd03b0cef20e0c85e4fa232a25f516c17e33b5"
+      "body_sha256_lf": "163d420859b7e952d86d4dec8c772323b089d3ff1b35981191aadc33af6025d1"
     },
     {
       "id": "i15",
@@ -162,9 +162,9 @@
       "source_lesson": 15,
       "title": "目標と内容と指導と評価をつなぐ",
       "slides": 25,
-      "seconds": 591.7666666666667,
+      "seconds": 597.0666666666666,
       "path": "reorganized/20261105/main/15",
-      "body_sha256_lf": "c70120beef8eec2a7c74e02394c5de812d71cb3e2f73e5d8b7c2d58ba5817077"
+      "body_sha256_lf": "e67b4ed68c9b0f811082f7ba18786d8cd02bf017a1b7b8c967d734cf8207383e"
     },
     {
       "id": "ii01",

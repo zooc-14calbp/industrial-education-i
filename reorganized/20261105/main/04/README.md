@@ -1,8 +1,10 @@
 # 工業科教育論Ⅰ 第4回　工業教育の歴史と地域社会と進路
 
-2026年11月6日更新。動画は14分11秒、スライドは36枚です。学校基本調査に基づく2025年の地域別進学率を再作図しました。
+2026年11月6日更新。冒頭に今回の問いと学ぶ順序を示し、音声で指す対象が分かりにくい箇所を修正しました。表の読み上げに不要な定型文を除き、スライド・ガイド・字幕付き動画をそろえています。動画の実測は13分48秒です。
 
-[動画（MP4）](https://github.com/zooc-14calbp/industrial-education-i/releases/download/mainmedia-20261106-stage15/industrial-education-i-04.mp4)／[音声（MP3）](https://github.com/zooc-14calbp/industrial-education-i/releases/download/mainmedia-20261106-stage15/industrial-education-i-04-audio.mp3)／[スライド（PPTX）](slides.pptx)／[スライド（PDF）](slides.pdf)／[学生用ガイド（PDF）](student-guide.pdf)
+2026年11月6日更新。動画は13分48秒、スライドは36枚です。学校基本調査に基づく2025年の地域別進学率を再作図しました。
+
+[動画（MP4）](https://github.com/zooc-14calbp/industrial-education-i/releases/download/spoken-clarity-20261106-i/industrial-education-i-04.mp4)／[音声（MP3）](https://github.com/zooc-14calbp/industrial-education-i/releases/download/spoken-clarity-20261106-i/industrial-education-i-04-audio.mp3)／[スライド（PPTX）](slides.pptx)／[スライド（PDF）](slides.pdf)／[学生用ガイド（PDF）](student-guide.pdf)
 
 [字幕（VTT）](captions.vtt)／[字幕（SRT）](captions.srt)／[読み上げ原稿](narration.txt)／[対応する本文](../../expanded/04.md)／[図を拡大](../../../../docs/statistics-progression-regions-2025.png)
 

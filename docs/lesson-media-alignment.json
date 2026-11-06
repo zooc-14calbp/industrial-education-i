@@ -20,7 +20,7 @@
     {
       "number": 1,
       "body": "reorganized/20261105/expanded/01.md",
-      "body_sha256": "d21d20f68148ece78249fd865793bd855c5a0640e50014a5c2f1e80fd5175f62",
+      "body_sha256": "f91805a206e891b948ad77a42ca90920e29f43449010bd3e78ed5606f350026f",
       "notes_body_sha256_lf": "26ef391e98516f54fa0dfddc720583e2f8318c551bdf2464925dd444f26a6de6",
       "pages": [
         2,
@@ -39,15 +39,16 @@
       },
       "prerequisite_check": "本文の到達目標の後に問いと答えを追加。既存のスライド・PDF・動画は追加前の版。",
       "terminology_review": "増補スライドの説明頁に用語の手がかりを追加。問いと答えは各回の本文で確認。各回の旧本編と動画は今回の改訂前。",
-      "reading_example_update": "2026-11-06 第1回の本文に資料の読み分けを具体化。要点スライドのノートと動画は追記前。",
+      "reading_example_update": "各回の見通しと音声表現を本文・スライド・ガイド・字幕付き動画へ反映。",
       "main_entry": "reorganized/20261105/main/01/README.md",
       "main_manifest": "reorganized/20261105/main/01/manifest.json",
-      "navigation_only_update": "本文末尾に本編入口を追加。本編スライドと動画は学校案内・就業者の例を反映。全15回の要点スライドは別冊。"
+      "navigation_only_update": "本文末尾に本編入口を追加。本編スライドと動画は学校案内・就業者の例を反映。全15回の要点スライドは別冊。",
+      "main_notes_body_sha256_lf": "7926b6830a8d9fc5f7ece9343ca606c19a80aae806418171d1418f16bf323e53"
     },
     {
       "number": 2,
       "body": "reorganized/20261105/expanded/02.md",
-      "body_sha256": "af379fa9eb3e1f942475a844b1ae5f46dd9604dd397a31502ee32f4e9cbadb02",
+      "body_sha256": "134a59c78506df28efc16b0c8652948ed4a978a7ef62ee550bd88400aa5f2035",
       "notes_body_sha256_lf": "ff46c1224b9506b6f1fd5dba6d53ff4721c5aa53e64aa3dc10946ba99044ed29",
       "pages": [
         6,
@@ -68,13 +69,13 @@
       "terminology_review": "本文・本編で初出の用語を短く説明。増補要点スライドは別冊で前の版。",
       "main_entry": "reorganized/20261105/main/02/README.md",
       "main_manifest": "reorganized/20261105/main/02/manifest.json",
-      "main_notes_body_sha256_lf": "2b14a82d38b1207752821b0a582cdf6d48216a9ae30a836fcf43fba61f55992a",
-      "reading_example_update": "改訂本文を本編スライド・学習ガイド・字幕付き動画へ反映。全15回の要点スライドは別冊。"
+      "main_notes_body_sha256_lf": "7000fd1a0027f8e7ef202fcb51c7f3ee5f377cab2fdb0f9db2ad71ac573c554a",
+      "reading_example_update": "各回の見通しと音声表現を本文・スライド・ガイド・字幕付き動画へ反映。"
     },
     {
       "number": 3,
       "body": "reorganized/20261105/expanded/03.md",
-      "body_sha256": "472bb73855851653021321537bf73ee5c30940b528b263ffc1d12acd878f4e05",
+      "body_sha256": "0021d1a63ea7146130a21eaf60588d3e723965bf2bb28d2dd8ad46ae24572743",
       "notes_body_sha256_lf": "2037a3bda0c355e438817aa7f6c1ba494e119afe19dd3caa5839c2bccb6358c0",
       "pages": [
         10,
@@ -96,13 +97,13 @@
       "terminology_review": "本文・本編で初出の用語を短く説明。増補要点スライドは別冊で前の版。",
       "main_entry": "reorganized/20261105/main/03/README.md",
       "main_manifest": "reorganized/20261105/main/03/manifest.json",
-      "main_notes_body_sha256_lf": "2037a3bda0c355e438817aa7f6c1ba494e119afe19dd3caa5839c2bccb6358c0",
-      "reading_example_update": "改訂本文を本編スライド・学習ガイド・字幕付き動画へ反映。全15回の要点スライドは別冊。"
+      "main_notes_body_sha256_lf": "a7f91ea9089051913d77078449a3dd1240c332859e681b16013fa4957d6f1c17",
+      "reading_example_update": "各回の見通しと音声表現を本文・スライド・ガイド・字幕付き動画へ反映。"
     },
     {
       "number": 4,
       "body": "reorganized/20261105/expanded/04.md",
-      "body_sha256": "e83468e401e407dce4476201f0020217676aeb44196d2eeee0b8a04ec8464c8e",
+      "body_sha256": "dfe8653199dca076082f2610a13f69355bd4e808068af117256d2be115492ee5",
       "notes_body_sha256_lf": "7798743129f891c88ada17d529d66644dce54deb03826d32c88195618565ac67",
       "pages": [
         14,
@@ -123,13 +124,13 @@
       "terminology_review": "本文・本編で初出の用語を短く説明。増補要点スライドは別冊で前の版。",
       "main_entry": "reorganized/20261105/main/04/README.md",
       "main_manifest": "reorganized/20261105/main/04/manifest.json",
-      "main_notes_body_sha256_lf": "6146827b996ab11346219cd51b1812d342d9d175e234c9bc423f796f4a9c921b",
-      "reading_example_update": "2025年の地域別進学率図、分母・地域差の説明を本文・本編・ガイド・字幕付き動画へ反映。"
+      "main_notes_body_sha256_lf": "1f11bcadd2135a61c495ae25128d0558b4d3b789f2f014958fd8045fdbac83fd",
+      "reading_example_update": "各回の見通しと音声表現を本文・スライド・ガイド・字幕付き動画へ反映。"
     },
     {
       "number": 5,
       "body": "reorganized/20261105/expanded/05.md",
-      "body_sha256": "ce673528bcea8f4343bf335670fc0f1b74f47aa187752eed91bba15f7741b37f",
+      "body_sha256": "b5bd2546a47a8e096fc6f63b46a65134fe7dab94d1cfe64f5ff8c578d0a27e35",
       "notes_body_sha256_lf": "cb5dc5cbfd6498c7a766402bf02c2e3fe228686c5f450b25d02a48945262b9c4",
       "pages": [
         18,
@@ -152,13 +153,13 @@
       "terminology_review": "本文・本編で初出の用語を短く説明。増補要点スライドは別冊で前の版。",
       "main_entry": "reorganized/20261105/main/05/README.md",
       "main_manifest": "reorganized/20261105/main/05/manifest.json",
-      "main_notes_body_sha256_lf": "ecd8bc60cff6e7c821399bba9c36d8af99a921bacf53282bbc3241b3ccfb543c",
-      "reading_example_update": "現行告示と審議まとめ、予定図、意見公募の区別を本文・本編・ガイド・字幕付き動画へ反映。"
+      "main_notes_body_sha256_lf": "637bd56d8eb305a185286ebc1b7e0cec69474a2a0f1b31df053d58f0556d9b09",
+      "reading_example_update": "各回の見通しと音声表現を本文・スライド・ガイド・字幕付き動画へ反映。"
     },
     {
       "number": 6,
       "body": "reorganized/20261105/expanded/06.md",
-      "body_sha256": "679c1ca6eb19da550bb85cd273ca432afae74cdaa93dbf44558baeecefddbb0e",
+      "body_sha256": "17c5d8d03f09a27abb8773da85480b0a9185b86cf636c5d72d45bcc67b7b866b",
       "notes_body_sha256_lf": "748dc90789802406ce9cb93a204e3a0a2f7f660d61aa0b0a8a0687e4610ef802",
       "pages": [
         22,
@@ -180,13 +181,13 @@
       "terminology_review": "本文・本編で初出の用語を短く説明。増補要点スライドは別冊で前の版。",
       "main_entry": "reorganized/20261105/main/06/README.md",
       "main_manifest": "reorganized/20261105/main/06/manifest.json",
-      "main_notes_body_sha256_lf": "748dc90789802406ce9cb93a204e3a0a2f7f660d61aa0b0a8a0687e4610ef802",
-      "reading_example_update": "改訂本文を本編スライド・学習ガイド・字幕付き動画へ反映。全15回の要点スライドは別冊。"
+      "main_notes_body_sha256_lf": "b771b3b87a8a3a6e534dda16ca5381d4142d9b5b7f853d247bb71595d4044332",
+      "reading_example_update": "各回の見通しと音声表現を本文・スライド・ガイド・字幕付き動画へ反映。"
     },
     {
       "number": 7,
       "body": "reorganized/20261105/expanded/07.md",
-      "body_sha256": "c875c1b559cdd2f73e85b1c2181c6cfa3536fda0ccb14bbfc810cb15b4a95c7a",
+      "body_sha256": "d2b0ff2dd3523c24f938b95f93cbac3a501eb87ef37333eeb031ee5feee67fec",
       "notes_body_sha256_lf": "cf36e3d235ca974953e1ab633c946bbb5c96ccdd169df5cd40d23f71f170da90",
       "pages": [
         26,
@@ -208,13 +209,13 @@
       "terminology_review": "本文・本編で初出の用語を短く説明。増補要点スライドは別冊で前の版。",
       "main_entry": "reorganized/20261105/main/07/README.md",
       "main_manifest": "reorganized/20261105/main/07/manifest.json",
-      "main_notes_body_sha256_lf": "cf36e3d235ca974953e1ab633c946bbb5c96ccdd169df5cd40d23f71f170da90",
-      "reading_example_update": "改訂本文を本編スライド・学習ガイド・字幕付き動画へ反映。全15回の要点スライドは別冊。"
+      "main_notes_body_sha256_lf": "b55b50bccd28c5edf2684a53e065be03d0f855b22410590d7e31df1af89b2efd",
+      "reading_example_update": "各回の見通しと音声表現を本文・スライド・ガイド・字幕付き動画へ反映。"
     },
     {
       "number": 8,
       "body": "reorganized/20261105/expanded/08.md",
-      "body_sha256": "bbcf48fdadaf04308510479bc815b589a08b1401278d7a36c35ac9728582de7f",
+      "body_sha256": "3852352f97fbf277c56a44e10c21e248680ab3c13f167ca82c04c61e891da38f",
       "notes_body_sha256_lf": "b803f1d4eb2198670ca260a91dc46c2fa908a2dc51e273949ba20229f0aafb3e",
       "pages": [
         30,
@@ -236,12 +237,14 @@
       "main_manifest": "reorganized/20261105/main/08/manifest.json",
       "navigation_only_update": "本文末尾に本編入口を追加。増補ノートの本文は入口追記前の同一説明。",
       "prerequisite_check": "本文の到達目標の後に問いと答えを追加。既存のスライド・PDF・動画は追加前の版。",
-      "terminology_review": "増補スライドの説明頁に用語の手がかりを追加。問いと答えは各回の本文で確認。各回の旧本編と動画は今回の改訂前。"
+      "terminology_review": "増補スライドの説明頁に用語の手がかりを追加。問いと答えは各回の本文で確認。各回の旧本編と動画は今回の改訂前。",
+      "main_notes_body_sha256_lf": "03eeedf46a0b07f36bfd1d3a1063097e89bd749a8f71d828051e80fa52c105cd",
+      "reading_example_update": "各回の見通しと音声表現を本文・スライド・ガイド・字幕付き動画へ反映。"
     },
     {
       "number": 9,
       "body": "reorganized/20261105/expanded/09.md",
-      "body_sha256": "cf46d492fe1be902ced29ebbfbb9cce61831e6f86e29803f1daaebc5ce0ce674",
+      "body_sha256": "b8a68d567750bf43b3e00da4146aabbab50e383589d2084d2064be84c051dd9d",
       "notes_body_sha256_lf": "cd9f32dac1ec0577ccfcd986dc672530c5cc48f5fe7c026f23f2164669df91eb",
       "pages": [
         34,
@@ -263,13 +266,13 @@
       "terminology_review": "本文・本編で初出の用語を短く説明。増補要点スライドは別冊で前の版。",
       "main_entry": "reorganized/20261105/main/09/README.md",
       "main_manifest": "reorganized/20261105/main/09/manifest.json",
-      "main_notes_body_sha256_lf": "cd9f32dac1ec0577ccfcd986dc672530c5cc48f5fe7c026f23f2164669df91eb",
-      "reading_example_update": "改訂本文を本編スライド・学習ガイド・字幕付き動画へ反映。全15回の要点スライドは別冊。"
+      "main_notes_body_sha256_lf": "92db2cc139a70ea9958cdd88b73745f1985902c29c70412c4ae51f87cb6aedf8",
+      "reading_example_update": "各回の見通しと音声表現を本文・スライド・ガイド・字幕付き動画へ反映。"
     },
     {
       "number": 10,
       "body": "reorganized/20261105/expanded/10.md",
-      "body_sha256": "108ebadaa62d64c2f439350d1d84ee979a61ca5063727d060d9f726e3b596dff",
+      "body_sha256": "6ee44289eb014ecf4d2a5f9d5a578af7090e6dcaaf01a147636465fc5c1e4ee5",
       "notes_body_sha256_lf": "6914415d781788c25ff23fd6256483a49d89489a6cec441a178fd69764202db8",
       "pages": [
         38,
@@ -291,12 +294,14 @@
       "main_manifest": "reorganized/20261105/main/10/manifest.json",
       "navigation_only_update": "本文末尾に本編入口を追加。増補ノートの本文は入口追記前の同一説明。",
       "prerequisite_check": "本文の到達目標の後に問いと答えを追加。既存のスライド・PDF・動画は追加前の版。",
-      "terminology_review": "増補スライドの説明頁に用語の手がかりを追加。問いと答えは各回の本文で確認。各回の旧本編と動画は今回の改訂前。"
+      "terminology_review": "増補スライドの説明頁に用語の手がかりを追加。問いと答えは各回の本文で確認。各回の旧本編と動画は今回の改訂前。",
+      "main_notes_body_sha256_lf": "e422fa90e68514306245fc4fe32ebd00401d93debcfd9c4a1a21cf7543ef3da8",
+      "reading_example_update": "各回の見通しと音声表現を本文・スライド・ガイド・字幕付き動画へ反映。"
     },
     {
       "number": 11,
       "body": "reorganized/20261105/expanded/11.md",
-      "body_sha256": "0e48d106ec98acdb0c0026b449fa88c3e7ec0da9e20bcb3bde58cb1453f7e08a",
+      "body_sha256": "16ea55ab2132ecb4edd2fda6bc66eb98f8d97d9bd3ded47be1a9c08a177a9513",
       "notes_body_sha256_lf": "aa88e58466cd77f22257eec29566c6498052b9748d0f45b78f248ad8142ff57e",
       "pages": [
         42,
@@ -317,13 +322,13 @@
       "terminology_review": "本文・本編で初出の用語を短く説明。増補要点スライドは別冊で前の版。",
       "main_entry": "reorganized/20261105/main/11/README.md",
       "main_manifest": "reorganized/20261105/main/11/manifest.json",
-      "main_notes_body_sha256_lf": "aa88e58466cd77f22257eec29566c6498052b9748d0f45b78f248ad8142ff57e",
-      "reading_example_update": "改訂本文を本編スライド・学習ガイド・字幕付き動画へ反映。全15回の要点スライドは別冊。"
+      "main_notes_body_sha256_lf": "f4380a7270bd75a06eb940933cf7e9620948050a723a2b3339bf9c28faf4f154",
+      "reading_example_update": "各回の見通しと音声表現を本文・スライド・ガイド・字幕付き動画へ反映。"
     },
     {
       "number": 12,
       "body": "reorganized/20261105/expanded/12.md",
-      "body_sha256": "6fd9695c7caf71d35b466c4f4bb66b39890ae762b8d45f67267cac8a4c36d86d",
+      "body_sha256": "ae08dbda5179300046ed88fd7e77768e678b5616caf3e25ce41122703af11f8a",
       "notes_body_sha256_lf": "c03d0b7af7eedf379939aa670184fbffddf7aad4a528bde86c6110a4d4f1b7eb",
       "pages": [
         46,
@@ -344,13 +349,13 @@
       "terminology_review": "本文・本編で初出の用語を短く説明。増補要点スライドは別冊で前の版。",
       "main_entry": "reorganized/20261105/main/12/README.md",
       "main_manifest": "reorganized/20261105/main/12/manifest.json",
-      "main_notes_body_sha256_lf": "c03d0b7af7eedf379939aa670184fbffddf7aad4a528bde86c6110a4d4f1b7eb",
-      "reading_example_update": "改訂本文を本編スライド・学習ガイド・字幕付き動画へ反映。全15回の要点スライドは別冊。"
+      "main_notes_body_sha256_lf": "a27a2b4f3b1ad1c46050ee323c7a6e11b74c7e91539c290deb0530ca5763c81d",
+      "reading_example_update": "各回の見通しと音声表現を本文・スライド・ガイド・字幕付き動画へ反映。"
     },
     {
       "number": 13,
       "body": "reorganized/20261105/expanded/13.md",
-      "body_sha256": "986f5049ad8247d59daa42c814bee157c78a8b2a7b9db7eb4561d15620961b35",
+      "body_sha256": "0d25fcece3d192162189a14c2a4024636408c1f5796d92419f42b839bf5d11f5",
       "notes_body_sha256_lf": "75ee6c91d4c6e22bf307a38830edce0a461ff248922d7c69f5baa2a184828c05",
       "pages": [
         50,
@@ -371,13 +376,13 @@
       "terminology_review": "本文・本編で初出の用語を短く説明。増補要点スライドは別冊で前の版。",
       "main_entry": "reorganized/20261105/main/13/README.md",
       "main_manifest": "reorganized/20261105/main/13/manifest.json",
-      "main_notes_body_sha256_lf": "75ee6c91d4c6e22bf307a38830edce0a461ff248922d7c69f5baa2a184828c05",
-      "reading_example_update": "改訂本文を本編スライド・学習ガイド・字幕付き動画へ反映。全15回の要点スライドは別冊。"
+      "main_notes_body_sha256_lf": "769bb7e2962d3f0d1751ab74a6c4b295be977e1bc71cbf390a5e5daae7a0368b",
+      "reading_example_update": "各回の見通しと音声表現を本文・スライド・ガイド・字幕付き動画へ反映。"
     },
     {
       "number": 14,
       "body": "reorganized/20261105/expanded/14.md",
-      "body_sha256": "8c9f3be4054d9f405ed7f918d362bc85c2b9f47afbf0b7eee522fb099c993108",
+      "body_sha256": "ed5493ecd5163c9be9e68363124cb3f179d380255fc6a5b79267af0bbde7ce7d",
       "notes_body_sha256_lf": "4b65ddcba4f99bb2409beec6cecd03b0cef20e0c85e4fa232a25f516c17e33b5",
       "pages": [
         54,
@@ -399,13 +404,13 @@
       "terminology_review": "本文・本編で初出の用語を短く説明。増補要点スライドは別冊で前の版。",
       "main_entry": "reorganized/20261105/main/14/README.md",
       "main_manifest": "reorganized/20261105/main/14/manifest.json",
-      "main_notes_body_sha256_lf": "4b65ddcba4f99bb2409beec6cecd03b0cef20e0c85e4fa232a25f516c17e33b5",
-      "reading_example_update": "改訂本文を本編スライド・学習ガイド・字幕付き動画へ反映。全15回の要点スライドは別冊。"
+      "main_notes_body_sha256_lf": "163d420859b7e952d86d4dec8c772323b089d3ff1b35981191aadc33af6025d1",
+      "reading_example_update": "各回の見通しと音声表現を本文・スライド・ガイド・字幕付き動画へ反映。"
     },
     {
       "number": 15,
       "body": "reorganized/20261105/expanded/15.md",
-      "body_sha256": "2f3c7f527a7df9e213927319ac48dc60216f1255269d9e732f32638bb8cd890f",
+      "body_sha256": "fc2cdc23e3308baf379e066a59146eb6995a387ceab07410815b00bcda659bd0",
       "notes_body_sha256_lf": "c70120beef8eec2a7c74e02394c5de812d71cb3e2f73e5d8b7c2d58ba5817077",
       "pages": [
         58,
@@ -427,7 +432,9 @@
       "active_learning_update": "日常の注文を例に、知識が判断に必要な理由を本文と増補説明頁に追加。",
       "main_entry": "reorganized/20261105/main/15/README.md",
       "main_manifest": "reorganized/20261105/main/15/manifest.json",
-      "navigation_only_update": "本文末尾に本編入口を追加。増補ノートの本文は入口追記前の同一説明。"
+      "navigation_only_update": "本文末尾に本編入口を追加。増補ノートの本文は入口追記前の同一説明。",
+      "main_notes_body_sha256_lf": "e67b4ed68c9b0f811082f7ba18786d8cd02bf017a1b7b8c967d734cf8207383e",
+      "reading_example_update": "各回の見通しと音声表現を本文・スライド・ガイド・字幕付き動画へ反映。"
     }
   ]
 }
