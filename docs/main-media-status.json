@@ -1,5 +1,5 @@
 {
-  "revision": "mainmedia-20261106-stage13",
+  "revision": "mainmedia-20261106-stage15",
   "updated": [
     {
       "id": "i01",
@@ -40,10 +40,10 @@
       "number": 4,
       "source_lesson": 4,
       "title": "工業教育の歴史と地域社会と進路",
-      "slides": 20,
-      "seconds": 478.06666666666666,
+      "slides": 36,
+      "seconds": 850.7333333333331,
       "path": "reorganized/20261105/main/04",
-      "body_sha256_lf": "bf74aa5f411e05b6b31afe4a6fee4e3e2980030e52ebb6740731e109130f4f91"
+      "body_sha256_lf": "6146827b996ab11346219cd51b1812d342d9d175e234c9bc423f796f4a9c921b"
     },
     {
       "id": "i05",
