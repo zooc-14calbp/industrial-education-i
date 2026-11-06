@@ -1,6 +1,6 @@
 # 本編媒体への反映状況
 
-2026年11月6日。Ⅰ第4回に学校基本調査による地域別進学率の図と説明を追加しました。再編後の全30回のうち、30回で本編一式を作成しました。今回はⅡ第8・15回を更新し、卒業後の進路・学び直しと、選択肢を広げる進路相談を反映しました。
+2026年11月6日。Ⅰ第5回に学習指導要領改訂の検討資料の読み分けを追加しました。Ⅰ第4回に学校基本調査による地域別進学率の図と説明を追加しました。再編後の全30回のうち、30回で本編一式を作成しました。今回はⅡ第8・15回を更新し、卒業後の進路・学び直しと、選択肢を広げる進路相談を反映しました。
 
 | 科目・回 | 教材 | 本編枚数 | 動画の実測時間 |
 |---|---|---:|---|
@@ -8,7 +8,7 @@
 | Ⅰ・2 | [工業の専門分野と社会を支える技術](https://github.com/zooc-14calbp/industrial-education-i/tree/main/reorganized/20261105/main/02) | 15 | 6分37秒 |
 | Ⅰ・3 | [工業高校の授業と実習を具体的に知る](https://github.com/zooc-14calbp/industrial-education-i/tree/main/reorganized/20261105/main/03) | 18 | 6分04秒 |
 | Ⅰ・4 | [工業教育の歴史と地域社会と進路](https://github.com/zooc-14calbp/industrial-education-i/tree/main/reorganized/20261105/main/04) | 36 | 14分11秒 |
-| Ⅰ・5 | [教育法規と学習指導要領の法的根拠](https://github.com/zooc-14calbp/industrial-education-i/tree/main/reorganized/20261105/main/05) | 32 | 12分21秒 |
+| Ⅰ・5 | [教育法規と学習指導要領の法的根拠](https://github.com/zooc-14calbp/industrial-education-i/tree/main/reorganized/20261105/main/05) | 51 | 19分18秒 |
 | Ⅰ・6 | [工業科で育てる力と授業の目標](https://github.com/zooc-14calbp/industrial-education-i/tree/main/reorganized/20261105/main/06) | 20 | 6分50秒 |
 | Ⅰ・7 | [専門分野の科目と教育課程を読む](https://github.com/zooc-14calbp/industrial-education-i/tree/main/reorganized/20261105/main/07) | 27 | 11分25秒 |
 | Ⅰ・8 | [工業技術基礎と実習と課題研究](https://github.com/zooc-14calbp/industrial-education-i/tree/main/reorganized/20261105/main/08) | 26 | 12分41秒 |

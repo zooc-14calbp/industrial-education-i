@@ -1,5 +1,5 @@
 {
-  "revision": "mainmedia-20261106-stage15",
+  "revision": "mainmedia-20261106-stage16",
   "updated": [
     {
       "id": "i01",
@@ -51,10 +51,10 @@
       "number": 5,
       "source_lesson": 5,
       "title": "教育法規と学習指導要領の法的根拠",
-      "slides": 32,
-      "seconds": 740.6333333333333,
+      "slides": 51,
+      "seconds": 1157.833333333333,
       "path": "reorganized/20261105/main/05",
-      "body_sha256_lf": "cb5dc5cbfd6498c7a766402bf02c2e3fe228686c5f450b25d02a48945262b9c4"
+      "body_sha256_lf": "ecd8bc60cff6e7c821399bba9c36d8af99a921bacf53282bbc3241b3ccfb543c"
     },
     {
       "id": "i06",

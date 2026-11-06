@@ -129,7 +129,7 @@
     {
       "number": 5,
       "body": "reorganized/20261105/expanded/05.md",
-      "body_sha256": "f3155df42819babf06f0e4e41b32508f4e476b2077fcdb1b9964d43116493ade",
+      "body_sha256": "ce673528bcea8f4343bf335670fc0f1b74f47aa187752eed91bba15f7741b37f",
       "notes_body_sha256_lf": "cb5dc5cbfd6498c7a766402bf02c2e3fe228686c5f450b25d02a48945262b9c4",
       "pages": [
         18,
@@ -152,8 +152,8 @@
       "terminology_review": "本文・本編で初出の用語を短く説明。増補要点スライドは別冊で前の版。",
       "main_entry": "reorganized/20261105/main/05/README.md",
       "main_manifest": "reorganized/20261105/main/05/manifest.json",
-      "main_notes_body_sha256_lf": "cb5dc5cbfd6498c7a766402bf02c2e3fe228686c5f450b25d02a48945262b9c4",
-      "reading_example_update": "改訂本文を本編スライド・学習ガイド・字幕付き動画へ反映。全15回の要点スライドは別冊。"
+      "main_notes_body_sha256_lf": "ecd8bc60cff6e7c821399bba9c36d8af99a921bacf53282bbc3241b3ccfb543c",
+      "reading_example_update": "現行告示と審議まとめ、予定図、意見公募の区別を本文・本編・ガイド・字幕付き動画へ反映。"
     },
     {
       "number": 6,
