@@ -12,6 +12,8 @@
 
 各回の題名から案内を確認し、動画を開きます。必要に応じてスライド、学習ガイド、本文を参照してください。
 
+各回を一つの章として扱います。[全15章の節構成](docs/chapter-sections.md)から、各回で何をどの順に確かめるかを一覧できます。節番号は教材の改訂に合わせて順次表示します。
+
 | 回 | 内容・教材 | 動画 | 配布資料 |
 | ---: | --- | --- | --- |
 | 1 | [第1回 工業高校と高校教育・職業教育の見取り図](reorganized/20261105/main/01/README.md) | [動画 7:15](https://github.com/zooc-14calbp/industrial-education-i/releases/download/spoken-clarity-20261106-i/industrial-education-i-01.mp4) | スライド（[PDF](reorganized/20261105/main/01/slides.pdf), [PowerPoint](reorganized/20261105/main/01/slides.pptx)）・[学習ガイド](reorganized/20261105/main/01/student-guide.pdf)・[本文](reorganized/20261105/expanded/01.md) |
