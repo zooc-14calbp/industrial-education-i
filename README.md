@@ -40,6 +40,8 @@
 
 ## 改訂情報・制作資料
 
+- [統計図表を講義用に作り直す方針](docs/statistics-figure-policy.md)
+
 - 2026年11月6日　Ⅱ第8・15回を追加し、全30回の本編を揃えました。教材表を受講順に整理しました。
 - [本編教材の更新状況](docs/main-media-status.md)
 - [Ⅰ・Ⅱ共通の授業方針](docs/teaching-policy.md)
