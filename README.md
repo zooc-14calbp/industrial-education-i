@@ -4,7 +4,7 @@
 
 工業高校で何を学ぶかを知り、学習指導要領や授業の記録を読みながら、授業・実習・評価の組み立て方を考えます。
 
-[受講方法を読む](docs/study-guide.md) ／ [教材一覧を開く](#各回の教材) ／ [提出課題と評価基準](assessment/README.md)
+[受講方法を読む](docs/study-guide.md) ／ [授業方法と学習支援](docs/online-course-guidance.md) ／ [教材一覧を開く](#各回の教材) ／ [提出課題と評価基準](assessment/README.md)
 
 ## 最初に：受講方法を読む
 
